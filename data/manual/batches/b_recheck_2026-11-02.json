@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "CTD",
+   "Local_File": "02_tieng-viet-1510-1.pdf",
+   "Page": 56,
+   "Manager_Name": "Zhaidarzhan Zatayev",
+   "Raw_Position": "Thành viên Ban Kiểm soát",
+   "Role_Group": "Supervisory",
+   "Nationality": "Kazakhstan",
+   "Nationality_Raw": "Kazakhstan",
+   "Is_Foreign": 1,
+   "Appointed_Date": "25/04/2022",
+   "Evidence_Type": "DOC_FIELD",
+   "Evidence_Quote": "AR 2025 p56 (Ban Kiểm soát): \"Ông Zhaidarzhan Zatayev – Thành viên Ban Kiểm soát – Thời điểm bổ nhiệm: 25/04/2022 … Quốc tịch: Kazakhstan; Năm sinh: 1978\"",
+   "Other_Sources": "",
+   "Note": "Two-column page read on the image; the 2026-11-01 label-page review had wrongly marked this page CAREER_OR_EDUCATION (corrected 2026-11-02)",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "MSN",
+   "Local_File": "HOSE_2025_MSN_Baocaothuongnien_2025.pdf",
+   "Page": 119,
+   "Manager_Name": "Michael Hung Nguyen",
+   "Raw_Position": "Phó Tổng Giám đốc",
+   "Role_Group": "Executive",
+   "Nationality": "United States",
+   "Nationality_Raw": "Mỹ",
+   "Is_Foreign": 1,
+   "Evidence_Type": "DOC_FIELD",
+   "Evidence_Quote": "MSN AR 2025 p119: \"Ông Michael Hung Nguyen – Phó Tổng Giám đốc\"; nationality: MCH (Masan Consumer) AR 2025 p128, major shareholders: \"Công ty Cổ phần Masan Consumer Holdings … Người đại diện theo pháp luật: Nguyen Michael Hung – Chủ tịch HĐQT – Quốc tịch Mỹ\"",
+   "Other_Sources": "raw/docs/MCH/HOSE_2025_MCH_Baocaothuongnien_2025.pdf p128",
+   "Note": "NATIONALITY_FROM_OTHER_ISSUER: Masan group subsidiary filing; same person (name order \"Nguyen Michael Hung\"), Masan group executive",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "MSR",
+   "Local_File": "01_2_msr_2026_4_6_ae07d56_vi_baocaothuon",
+   "Page": 28,
+   "Manager_Name": "Le Danny",
+   "Raw_Position": "Chủ tịch HĐQT (thành viên không điều hành)",
+   "Role_Group": "Board",
+   "Nationality": "United States",
+   "Nationality_Raw": "Mỹ",
+   "Is_Foreign": 1,
+   "Appointed_Date": "12/04/2021",
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "MSR AR 2025 p28: \"Ông Le Danny – Chủ tịch HĐQT (thành viên không điều hành) – 12/04/2021\"; nationality: MCH AGM 2024 CV p14 (raw/docs/MCH/verify_old/…tai_lieu_hop_18apr2024_signed): \"1. Họ và tên: DANNY LE … 4. Ngày tháng năm sinh: 13/7/1984 … 6. Quốc tịch: Mỹ\"",
+   "Other_Sources": "MSN AR 2025 p119 (Le Danny, Masan Group CEO)",
+   "Note": "NATIONALITY_FROM_OTHER_ISSUER: Masan group (MSR is a Masan subsidiary); same name as MSN CEO / MCH chairman",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "MML",
+   "Local_File": "01_1_mml_2026_4_6_5c263a2_vi_baocaothuon",
+   "Page": 88,
+   "Manager_Name": "Danny Le",
+   "Raw_Position": "Chủ tịch Hội đồng Quản trị",
+   "Role_Group": "Board",
+   "Nationality": "United States",
+   "Nationality_Raw": "Mỹ",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "MML AR 2025 p88: \"Chủ tịch Hội đồng Quản trị – Danny Le – Nam – 1984 – Đại học\"; nationality: MCH AGM 2024 CV p14 (raw/docs/MCH/verify_old/…tai_lieu_hop_18apr2024_signed): \"1. Họ và tên: DANNY LE … 4. Ngày tháng năm sinh: 13/7/1984 … 6. Quốc tịch: Mỹ\"",
+   "Other_Sources": "MML AR 2025 p14, p53",
+   "Note": "NATIONALITY_FROM_OTHER_ISSUER: Masan group (MML is a Masan subsidiary); same name and birth year (1984) as in the MCH CV",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": []
+}

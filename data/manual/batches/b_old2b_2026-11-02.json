@@ -1,0 +1,75 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "BMI",
+   "Local_File": "02_BMI_Thong_tin_ung_vien_HDQT_BKS_20_4_2019.pdf",
+   "Page": 3,
+   "Manager_Name": "Ivan Tam Kwok Wing",
+   "Raw_Position": "Thành viên HĐQT",
+   "Role_Group": "Board",
+   "Nationality": "China",
+   "Nationality_Raw": "Trung Quốc",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "Thông tin ứng viên HĐQT/BKS (20/4/2019) p3: \"6. Ông Kwok Wing Tam – Năm sinh: 1961 – Quốc tịch: Trung Quốc – Trình độ chuyên môn: Thạc sỹ – Chức vụ hiện tại: Phó Tổng Giám đốc Chevalier International …\"",
+   "Other_Sources": "BMI AR 2025 p61: \"Thành viên HĐQT – Ông Ivan Tam Kwok Wing\" (thù lao 2025)",
+   "Note": "Name order \"Kwok Wing Tam\" (2019) vs \"Ivan Tam Kwok Wing\" (AR 2025), same BMI board seat; CV from AGM 2019",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "BMI",
+   "Local_File": "02_BMI_Thong_tin_ung_vien_HDQT_BKS_20_4_2019.pdf",
+   "Page": 5,
+   "Manager_Name": "Nicolas De Nazelle",
+   "Raw_Position": "Thành viên HĐQT không điều hành",
+   "Role_Group": "Board",
+   "Nationality": "France",
+   "Nationality_Raw": "Pháp",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "Thông tin ứng viên HĐQT/BKS (20/4/2019) p5: \"2. Ông Nicolas de Cauzé de Nazelle – Ngày sinh: 1985 – Quốc tịch: Pháp – Trình độ chuyên môn: Thạc sỹ – Chức vụ hiện tại: Giám đốc Tài chính Doanh nghiệp …\"",
+   "Other_Sources": "BMI AR 2025 p56: \"7 Ông Nicolas Marie Charles Henri du Cauze de Nazelle – Thành viên HĐQT không điều hành – 3/3\"; p61",
+   "Note": "CV from AGM 2019",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "VFC",
+   "Local_File": "02_000000009932213_TT_DHDCD.PDF",
+   "Page": 2,
+   "Manager_Name": "Takahashi Shinichi",
+   "Raw_Position": "Thành viên HĐQT không điều hành",
+   "Role_Group": "Board",
+   "Nationality": "Japan",
+   "Nationality_Raw": "Nhật Bản/Japan",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "Tờ trình ĐHĐCĐ (lấy ý kiến lần 2, 2020) p2: \"Mr. Shinichi Takahashi – CMND số/ID No: TR 4038215 được cấp bởi Bộ ngoại giao Nhật Bản ngày 24/4/2015 … Quốc tịch: Nhật Bản/Nationality: Japan\"",
+   "Other_Sources": "VFC AR 2025 p55: \"Ông Takahashi Shinichi – Thành viên không điều hành\"; p56, p71",
+   "Note": "OCR page read on the image; document from 2020",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": [
+  {
+   "Ticker_Local": "BMI",
+   "Name": "Nicolas Marie",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "part of \"Nicolas Marie Charles Henri du Cauze de Nazelle\" (recorded as Nicolas De Nazelle)",
+   "Page": 56
+  },
+  {
+   "Ticker_Local": "VFC",
+   "Name": "Shinichi Meimber",
+   "Decision": "OCR_NOISE",
+   "Reason": "OCR of \"Shinichi Member\" (Takahashi Shinichi, recorded)",
+   "Page": 55
+  },
+  {
+   "Ticker_Local": "VFC",
+   "Name": "Takahashi Member Non-Execufive",
+   "Decision": "OCR_NOISE",
+   "Reason": "OCR of \"Takahashi … Member Non-Executive\" (recorded)",
+   "Page": 55
+  }
+ ]
+}

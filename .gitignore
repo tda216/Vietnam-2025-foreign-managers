@@ -1,0 +1,14 @@
+# Kept locally, not pushed (too large or binary):
+# downloaded source PDFs/HTML (~88 GB) - evidence behind the Page column
+raw/
+# per-page text and OCR extracted from the PDFs (~870 MB)
+data/full/text/
+data/full/ocr/
+data/full/logs/
+.venv/
+# tesseract/bsdtar unpacked without root
+.tools/
+__pycache__/
+*.pyc
+.~lock.*#
+~$*

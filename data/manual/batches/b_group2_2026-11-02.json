@@ -1,0 +1,150 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "BCR",
+   "Local_File": "01_1_bcr_2026_2_2_19bc33e_en_reportoncor",
+   "Page": 7,
+   "Manager_Name": "Ng Wee Siong Leonard",
+   "Raw_Position": "Independent Member of BOD",
+   "Role_Group": "Board",
+   "Nationality": "Singapore",
+   "Nationality_Raw": "Singapore",
+   "Is_Foreign": 1,
+   "Appointed_Date": "14/07/2023",
+   "Resigned_Date": "02/07/2025",
+   "Evidence_Type": "DISCLOSURE_FORM",
+   "Evidence_Quote": "BCR GOV 2025 p7: \"9. Ng Wee Siong, Leonard – Independent Member of BOD – July 14, 2023 – July 02, 2025 (Approved through collecting shareholders opinion in written in June 2025)\". Nationality: BCG Board resolution 29/08/2025 p7: \"NG WEE SIONG, LEONARD … Chức danh: Tổng Giám đốc … Quốc tịch: Singapore / Nationality: Singaporean\"",
+   "Other_Sources": "raw/docs/BCG/verify/HOSE_2025_20250829___bcg___nq_va_qd_ve_viec_thay_doi_nhan_su_tai_bcg_ban_cong_bo.pdf p7",
+   "Note": "NATIONALITY_FROM_OTHER_ISSUER: legal-representative form of BCG (Bamboo Capital, parent group); same full name; OCR page checked on the image",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": [
+  {
+   "Ticker_Local": "AAA",
+   "Name": "Lim Heon-young",
+   "Decision": "SUBSIDIARY_ONLY",
+   "Reason": "listed as \"Lãnh đạo chủ chốt của công ty con\" in related parties (AR 2025 p85)",
+   "Page": 85
+  },
+  {
+   "Ticker_Local": "BCR",
+   "Name": "Koh Teik Ling",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",
+   "Page": 46
+  },
+  {
+   "Ticker_Local": "BCR",
+   "Name": "Kou Kok Yiow",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",
+   "Page": 17
+  },
+  {
+   "Ticker_Local": "BCR",
+   "Name": "Sin Sok Joo",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",
+   "Page": 36
+  },
+  {
+   "Ticker_Local": "BCR",
+   "Name": "Tan Cheo Siah Richard",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",
+   "Page": 36
+  },
+  {
+   "Ticker_Local": "BCR",
+   "Name": "Wee Siong Leonard",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "variant of Ng Wee Siong, Leonard (recorded)",
+   "Page": 46
+  },
+  {
+   "Ticker_Local": "BVS",
+   "Name": "Saman Wijaya Bandara",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "Phó Tổng Giám đốc of the auditor Ernst & Young Việt Nam (audit report signature, AR 2025 p106)",
+   "Page": 106
+  },
+  {
+   "Ticker_Local": "DNL",
+   "Name": "Thanongsai Soukkhamthat",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "Director of the Savannakhet Special Economic Zone (Laos), visiting delegation (AR 2025 p12)",
+   "Page": 12
+  },
+  {
+   "Ticker_Local": "EVG",
+   "Name": "Maurizio Susan",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "appointed General Manager of the Centara Hotel & Residences Vân Đồn property (AR 2025 p8 news item), not a manager of the listed company",
+   "Page": 8
+  },
+  {
+   "Ticker_Local": "ITA",
+   "Name": "Levy Hall",
+   "Decision": "NOT_A_PERSON",
+   "Reason": "name of a Tan Tao University building (\"Gillis Hall; Levy Hall\")",
+   "Page": 23
+  },
+  {
+   "Ticker_Local": "MAS",
+   "Name": "JOSEPH ALVIN CHAN TAN",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "major shareholder (7,35%) only (AR 2025 p20)",
+   "Page": 20
+  },
+  {
+   "Ticker_Local": "NTT",
+   "Name": "Wifford Liebe",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "CEO of the certification body (IDFL) signing product certificates reproduced in the AR",
+   "Page": 19
+  },
+  {
+   "Ticker_Local": "NTT",
+   "Name": "Wiflord Liebe",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "CEO of the certification body (IDFL) signing product certificates reproduced in the AR",
+   "Page": 17
+  },
+  {
+   "Ticker_Local": "NTT",
+   "Name": "Wiford Lieber",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "CEO of the certification body (IDFL) signing product certificates reproduced in the AR",
+   "Page": 22
+  },
+  {
+   "Ticker_Local": "NTT",
+   "Name": "Wilford Liebe",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "CEO of the certification body (IDFL) signing product certificates reproduced in the AR",
+   "Page": 15
+  },
+  {
+   "Ticker_Local": "SPB",
+   "Name": "Murata AICone",
+   "Decision": "NOT_A_PERSON",
+   "Reason": "machine model in an equipment table (\"Murata … Bobbin Tray, Nhật\")",
+   "Page": 19
+  },
+  {
+   "Ticker_Local": "SPC",
+   "Name": "Yeo Joo Hua",
+   "Decision": "NOT_FY2025",
+   "Reason": "Deputy Director 2004-2011 in the company history list (AR 2025 p22)",
+   "Page": 22
+  },
+  {
+   "Ticker_Local": "PSP",
+   "Name": "Angg Shu",
+   "Decision": "OCR_NOISE",
+   "Reason": "OCR noise in a resolution table (AR 2025 p27)",
+   "Page": 27
+  }
+ ]
+}

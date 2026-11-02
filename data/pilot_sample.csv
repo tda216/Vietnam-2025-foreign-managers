@@ -1,0 +1,31 @@
+Stratum,Ticker_Local,Company,Exchange_At_FO_Date,Mcap_Rank,Foreign_Ownership_Pct,Ownership_Type
+LARGE,CTG,Vietnam Joint Stock Commercial Bank For Industry and Trade,HOSE,4,25.659554,LOCAL
+LARGE,FPT,FPT Corporation,HOSE,15,39.118298,LOCAL
+LARGE,STB,Saigon Treasure Commercial Joint Stock Bank,HOSE,23,14.954919,LOCAL
+LARGE,VRE,Vincom Retail Joint Stock Company,HOSE,29,13.641615,LOCAL
+LARGE,SSB,Southeast Asia Commercial Joint Stock Bank,HOSE,39,0.21664,LOCAL
+LARGE,DGC,Ducgiang Chemicals Group Joint Stock Company,HOSE,62,6.406932,LOCAL
+LARGE,HCM,Ho Chi Minh City Securities Corporation,HOSE,65,34.042498,LOCAL
+LARGE,SJS,SJ Group Joint Stock Company,HOSE,79,0.573865,LOCAL
+LARGE,DPM,Petrovietnam Fertilizer and Chemicals Corporation,HOSE,88,3.631445,LOCAL
+LARGE,VSF,Vietnam Southern Food Corporation - Joint Stock Company,UPCoM,100,0.000397,LOCAL
+MID,OIL,PetroVietnam Oil Corporation,UPCoM,112,0.616941,LOCAL
+MID,HHV,Deo Ca Traffic Infrastructure Investment Joint Stock Company,HOSE,157,10.39348,LOCAL
+MID,DVN,Vietnam Pharmaceutical Corporation (VINAPHARM),UPCoM,178,0.029536,LOCAL
+MID,DDV,DAP - Vinachem Joint Stock Company,UPCoM,202,2.808229,LOCAL
+MID,NAF,Nafoods Group Joint Stock Company,HOSE,267,6.790316,LOCAL
+MID,FIC,FICO Corporation - JSC,UPCoM,277,0.003937,LOCAL
+MID,ABW,An Binh Securities Joint Stock Company,UPCoM,400,1.039249,LOCAL
+MID,GMA,G-Automobile Joint Stock Company,HNX,411,0.0,LOCAL
+MID,DSD,DHC Suoi Doi Corporation,UPCoM,451,0.0,LOCAL
+MID,ABT,Bentre Aquaproduct Import And Export Joint Stock Company,HOSE,482,1.954368,LOCAL
+SMALL_UPCOM,SBR,Song Be Rubber Joint Stock Company,UPCoM,531,0.002457,LOCAL
+SMALL_UPCOM,FT1,Machinery Spare Parts N01 Joint Stock Company,UPCoM,757,0.234468,LOCAL
+SMALL_UPCOM,CDP,Codupha Central Pharmaceutical Joint Stock Company,UPCoM,841,0.0,LOCAL
+SMALL_UPCOM,KCB,Cao Bang Mineral and Metallurgical Joint Stock Company,UPCoM,1133,0.03125,LOCAL
+SMALL_UPCOM,QNU,Quang Nam Urban Environment Joint Stock Company,UPCoM,1201,0.0,LOCAL
+SMALL_UPCOM,LMI,IDICO Machinery Erection Construction Investment Joint - Stock Company,UPCoM,1268,1.198182,LOCAL
+SMALL_UPCOM,UTT,Nam Thanh Environment Joint Stock Company,UPCoM,1397,0.0,LOCAL
+SMALL_UPCOM,LCM,Lao Cai Mining and Mineral Processing Joint Stock Company,UPCoM,1413,4.443409,LOCAL
+SMALL_UPCOM,CDG,CauDuong Joint Stock Company,UPCoM,1477,0.0,LOCAL
+SMALL_UPCOM,TKA,Tan Khanh An Packaging Joint Stock Company,UPCoM,1498,0.0,LOCAL

@@ -1,0 +1,37 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "VJC",
+   "Local_File": "02_20260417_VJC_AR2025_VN_Final_1.pdf",
+   "Page": 65,
+   "Manager_Name": "Philipp Rösler",
+   "Raw_Position": "TV. HĐQT độc lập",
+   "Role_Group": "Board",
+   "Nationality": "Germany",
+   "Nationality_Raw": "người Đức gốc Việt",
+   "Is_Foreign": 1,
+   "Appointed_Date": "30/05/2025",
+   "Evidence_Type": "NEWS",
+   "Evidence_Quote": "VJC AR 2025 p65: \"10 Ông Philipp Rösler – TV. HĐQT độc lập – 30/5/2025\". Nationality: Diễn đàn Doanh nghiệp 05/06/2025: \"Tiến sĩ Philipp Rösler sinh năm 1973 tại Việt Nam, là người Đức gốc Việt và từng đảm nhiệm nhiều vị trí quan trọng trong chính phủ Đức …\"",
+   "Other_Sources": "https://diendandoanhnghiep.vn/tien-si-philipp-rosler-nguyen-pho-thu-tuong-duc-gia-nhap-vietjet-10155767.html ; https://vneconomy.vn/nguyen-pho-thu-tuong-duc-tham-gia-hoi-dong-quan-tri-vietjet.htm (\"cựu phó thủ tướng Đức gốc Việt\") (accessed 2026-11-02); AR 2025 p7, p9, p66",
+   "Note": "NATIONALITY_FROM_DESCRIPTOR: \"người Đức gốc Việt\" accepted as nationality Germany per user decision 2026-11-02; born in Viet Nam — sources do not say whether he also holds Vietnamese nationality (Dual_Nationality left blank)",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": [
+  {
+   "Ticker_Local": "VJC",
+   "Name": "PHILIPP RÖSLER",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "upper-case variant of Philipp Rösler (recorded)",
+   "Page": 7
+  },
+  {
+   "Ticker_Local": "VJC",
+   "Name": "Philipp Roesler",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "spelling variant (oe) of Philipp Rösler (recorded)",
+   "Page": 66
+  }
+ ]
+}

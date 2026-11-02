@@ -1,0 +1,101 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "VNM",
+   "Local_File": "07_1521616483",
+   "Page": 1,
+   "Manager_Name": "Alain Xavier Cany",
+   "Raw_Position": "Thành viên HĐQT không điều hành",
+   "Role_Group": "Board",
+   "Nationality": "France",
+   "Nationality_Raw": "Pháp",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "VNM AGM 2018, Hồ sơ tóm tắt của ứng cử viên HĐQT (p1): \"1. Họ tên, ngày, tháng, năm sinh: ALAIN XAVIER CANY 06/04/1949 – Quốc tịch: Pháp\"",
+   "Other_Sources": "VNM AR 2025 p15, p17 (Thành viên HĐQT không điều hành; Phó Chủ tịch HĐQT REE), p32 (Thành viên UBKT từ 04/2022)",
+   "Note": "CV from AGM 2018",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "REE",
+   "Local_File": "HOSE_2025_REE_Baocaothuongnien_2025.pdf",
+   "Page": 28,
+   "Manager_Name": "Alain Xavier Cany",
+   "Raw_Position": "Thành viên không điều hành",
+   "Role_Group": "Board",
+   "Nationality": "France",
+   "Nationality_Raw": "Pháp",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "REE AR 2025 p28: \"Ông Alain Xavier Cany – Thành viên không điều hành\"; p10: \"2018 - hiện tại: Thành viên HĐQT của Công ty cổ phần sữa Vinamilk\". Nationality: VNM AGM 2018, Hồ sơ tóm tắt của ứng cử viên HĐQT (p1): \"1. Họ tên, ngày, tháng, năm sinh: ALAIN XAVIER CANY 06/04/1949 – Quốc tịch: Pháp\"",
+   "Other_Sources": "raw/docs/VNM/verify_old/…07_1521616483…pdf p1; VNM AR 2025 p17 (\"Phó Chủ tịch HĐQT, Công ty Cổ Phần Cơ Điện Lạnh (REE CORP)\")",
+   "Note": "NATIONALITY_FROM_OTHER_ISSUER: Vinamilk CV; identity linked both ways (REE AR lists his VNM board seat, VNM AR lists his REE vice-chair seat)",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "ABR",
+   "Local_File": "UPCOM_2019_ABR_TAILIEU_DHCD_bat_thuong_2019.pdf",
+   "Page": 67,
+   "Manager_Name": "Lan, Wan-Chen",
+   "Raw_Position": "Chủ tịch HĐQT",
+   "Role_Group": "Board",
+   "Nationality": "Taiwan",
+   "Nationality_Raw": "Đài Loan (Trung Quốc)",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "Tài liệu ĐHĐCĐ bất thường 2019 p67: \"b. Bà Lan, Wan-Chen – Giới tính: Nữ – Sinh ngày: 06/01/1972 – Quốc tịch: Đài Loan (Trung Quốc) – Số hộ chiếu: 308709812\"; p21: \"6/ Quốc tịch/Nationality: Đài Loan\"",
+   "Other_Sources": "AR 2025 p7: \"Bà Lan, Wan-Chen — Chủ tịch HĐQT\"; p31 (01/01/2025 – 31/12/2025)",
+   "Note": "Documents from extraordinary AGM 2019",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "VJC",
+   "Local_File": "04_9._Van_kien_tai_H_C_2019.pdf",
+   "Page": 43,
+   "Manager_Name": "Donal Joseph Boylan",
+   "Raw_Position": "Phó Chủ tịch - Thành viên độc lập",
+   "Role_Group": "Board",
+   "Nationality": "Ireland",
+   "Nationality_Raw": "Irish",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Resigned_Date": "30/05/2025",
+   "Evidence_Quote": "CV (AGM 2019 documents) p43: \"1/ Full name: Donal Joseph BOYLAN … Place of birth: Dublin, Ireland … Place of issue Dublin, Ireland; 6/ Quốc tịch/Nationality: Irish\"",
+   "Other_Sources": "VJC AR 2025 p65: \"4 Ông Donal Joseph Boylan – Phó Chủ tịch - Thành viên độc lập – 28/5/2022 – 30/5/2025\"; p86",
+   "Note": "CV from AGM 2019",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "QNC",
+   "Local_File": "02_QNC_TAILIEU_DHCD_thuong_nien_2020.pdf",
+   "Page": 53,
+   "Manager_Name": "Guillaume Jean Francois",
+   "Raw_Position": "Thành viên HĐQT",
+   "Role_Group": "Board",
+   "Nationality": "France",
+   "Nationality_Raw": "Pháp",
+   "Is_Foreign": 1,
+   "Evidence_Type": "CV",
+   "Evidence_Quote": "Tài liệu ĐHĐCĐ 2020 p53 (danh sách ứng viên HĐQT nhiệm kỳ 2020-2025): \"4. Ông GUILAUME - JEAN FRANCOIS – Sinh ngày 03/04/1959; Quốc tịch: Pháp – Số Hộ chiếu: 18FV12107 do Pháp [cấp] ngày 07/01/2019\"",
+   "Other_Sources": "QNC AR 2025 p10: \"5. Ông GUILLAUME Jean Francois: Thành viên HĐQT\"; p13",
+   "Note": "OCR page read on the image; spelled \"GUILAUME\" in the 2020 document",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": [
+  {
+   "Ticker_Local": "ABR",
+   "Name": "Lan, Wan- Cht",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "OCR variant of Lan, Wan-Chen (recorded)",
+   "Page": 31
+  },
+  {
+   "Ticker_Local": "QNC",
+   "Name": "Jean Francois",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "short form of Guillaume Jean Francois (recorded)",
+   "Page": 11
+  }
+ ]
+}

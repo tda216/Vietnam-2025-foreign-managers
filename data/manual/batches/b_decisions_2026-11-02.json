@@ -1,0 +1,75 @@
+{
+ "records": [],
+ "decisions": [
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Benjamin Brink",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (Giám đốc Khu vực Đông Nam Á, DEG (Đức)); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Hwan Soo Jung",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (Phó Chủ tịch Hiệp hội Doanh nghiệp IIEA (Hàn Quốc)); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Jade Koh",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (Giám đốc Khu vực EDB Singapore); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Hayoung Lee",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (IFC); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Michael Araneta",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (AWS ASEAN); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Jayson Dowie",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (Giám đốc Farmacist (Úc)); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "SBT",
+   "Name": "Monica Finlayson",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "speaker/participant at an AgriS forum (Tham tán Nông nghiệp, Đại sứ quán Australia); not an AgriS manager",
+   "Page": 23,
+   "Source_File": "02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025"
+  },
+  {
+   "Ticker_Local": "KBC",
+   "Name": "Liu Shih-Chung",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "\"Chief Representative of the Taipei Economic and Cultural Office in Vietnam\" — photo caption with the CEO; not a KBC manager",
+   "Page": 28
+  },
+  {
+   "Ticker_Local": "PAN",
+   "Name": "Youhei Kodaka",
+   "Decision": "SUBSIDIARY_ONLY",
+   "Reason": "\"Trước khi đảm nhận vị trí Tổng Giám đốc PAN Hulic …\" — General Director of the subsidiary PAN Hulic (AR 2025 p42), no position at PAN itself",
+   "Page": 42
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "VCK",
+   "Local_File": "01_m88_20260213_20260213___vck___bao_cao_thuong_nien_nam_2025_vie",
+   "Page": 46,
+   "Manager_Name": "Indronil Sengupta",
+   "Raw_Position": "Thành viên HĐQT",
+   "Role_Group": "Board",
+   "Nationality": "India",
+   "Nationality_Raw": "Ấn Độ",
+   "Is_Foreign": 1,
+   "Resigned_Date": "29/09/2025",
+   "Evidence_Type": "DOC_FIELD",
+   "Evidence_Quote": "AR 2025 p46 (Nhân sự chủ chốt – HĐQT, cột Quốc tịch): \"6 Indronil Sengupta – Nam – Ấn Độ – Thạc sỹ Quản trị Kinh doanh\"",
+   "Other_Sources": "AR 2025 p86: \"Ông Indronil Sengupta – Thành viên – Miễn nhiệm ngày 29 tháng 09 năm 2025\"",
+   "Note": "OCR page read on the image (OCR had merged \"ẤnĐộ\")",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "VCK",
+   "Local_File": "01_m88_20260213_20260213___vck___bao_cao_thuong_nien_nam_2025_vie",
+   "Page": 46,
+   "Manager_Name": "John Desmond Sheehy",
+   "Raw_Position": "Thành viên độc lập",
+   "Role_Group": "Board",
+   "Nationality": "Ireland",
+   "Nationality_Raw": "Ireland",
+   "Is_Foreign": 1,
+   "Appointed_Date": "28/09/2025",
+   "Evidence_Type": "DOC_FIELD",
+   "Evidence_Quote": "AR 2025 p46 (Nhân sự chủ chốt – HĐQT, cột Quốc tịch): \"7 John Desmond Sheehy – Nam – Ireland – Cử nhân Kỹ sư (Đại học Cork – UCC, Ireland – 1998)…\"",
+   "Other_Sources": "AR 2025 p86: \"John Desmond Sheehy – Thành viên độc lập – Bổ nhiệm ngày 28 tháng 09 năm 2025\"",
+   "Note": "OCR page read on the image",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": [
+  {
+   "Ticker_Local": "VCK",
+   "Name": "John DesmondSheehy",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "OCR variant of John Desmond Sheehy (recorded)",
+   "Page": 86
+  },
+  {
+   "Ticker_Local": "ACG",
+   "Name": "Cheang Kok Chung",
+   "Decision": "NOT_A_MANAGER",
+   "Reason": "\"Executive Director\" of the ISO certification body signing An Cường's ISO 9001 certificate (AR 2025 p109)",
+   "Page": 109
+  }
+ ]
+}

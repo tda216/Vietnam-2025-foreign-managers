@@ -1,0 +1,39 @@
+{
+ "records": [
+  {
+   "Ticker_Local": "VIC",
+   "Local_File": "HOSE_2025_VIC_Baocaothuongnien_2025.pdf",
+   "Page": 106,
+   "Manager_Name": "Chun Chae Rhan",
+   "Raw_Position": "Thành viên",
+   "Role_Group": "Board",
+   "Nationality": "South Korea",
+   "Nationality_Raw": "Hàn Quốc",
+   "Is_Foreign": 1,
+   "Resigned_Date": "25/02/2025",
+   "Evidence_Type": "NEWS",
+   "Evidence_Quote": "VIC AR 2025 p106 (Hội đồng quản trị): \"Bà Chun Chae Rhan – Thành viên – Miễn nhiệm ngày 25 tháng 2 năm 2025\" (text layer garbled; read from the page image). Nationality: Doanh nhân & Pháp luật, 14/02/2025: \"HĐQT CTCP Tập đoàn Vingroup (mã ck: VIC) vừa quyết định trình ĐHĐCĐ thông qua việc miễn nhiệm bà Chun Chae Rhan (quốc tịch Hàn Quốc) khỏi vị trí Thành viên HĐQT, theo nguyện vọng cá nhân.\"",
+   "Other_Sources": "https://doanhnhan.baophapluat.vn/vingroup-vic-trinh-co-dong-mien-nhiem-thanh-vien-hdqt-nguoi-nuoc-ngoai-80753.html (accessed 2026-11-02); AR 2025 p154 (thù lao)",
+   "Note": "",
+   "Reviewed_On": "2026-11-02"
+  },
+  {
+   "Ticker_Local": "TCX",
+   "Local_File": "HOSE_2025_TCX_Baocaothuongnien_2025.pdf",
+   "Page": 68,
+   "Manager_Name": "Alexandre Charles Emmanuel Macaire",
+   "Raw_Position": "Thành viên HĐQT",
+   "Role_Group": "Board",
+   "Nationality": "UNKNOWN",
+   "Nationality_Raw": "sếp ngoại; người Pháp",
+   "Is_Foreign": 1,
+   "Appointed_Date": "26/04/2023",
+   "Evidence_Type": "NEWS",
+   "Evidence_Quote": "TCX AR 2025 p68: \"Ông Alexandre Charles Emmanuel Macaire – Thành viên – Bổ nhiệm ngày 26 tháng 04 năm 2023 cho nhiệm kỳ 2023-2028\"; p47: \"Ông Alexandre Macaire hiện là Giám đốc Tài chính Tập đoàn (Group Chief Financial Officer) của Techcombank\". Foreign status: Người Quan Sát (≈2023), \"Cơ hội Việt Nam – Góc nhìn từ vị sếp ngoại của Techcombank\": \"… ông Macaire …, vị CFO người Pháp đã chia sẻ hành trình …\"; \"Đặt chân đến dải đất hình chữ S với tư cách là Giám đốc Tài chính Tập đoàn (CFO) của Techcombank hồi đầu năm ngoái, ông Alexandre Macaire …\"",
+   "Other_Sources": "https://nguoiquansat.vn/co-hoi-viet-nam-goc-nhin-tu-vi-sep-ngoai-cua-techcombank-83109.html (accessed 2026-11-02); TCX AR 2025 p50-51",
+   "Note": "Source calls him \"vị sếp ngoại\" (foreign boss) and \"vị CFO người Pháp\" without the word quốc tịch → Is_Foreign=1, Nationality=UNKNOWN (rule 01/11); country not recorded; identity: TCX AR p47 says he is Techcombank Group CFO",
+   "Reviewed_On": "2026-11-02"
+  }
+ ],
+ "decisions": []
+}
