@@ -155,7 +155,8 @@ def main():
     lines = [
         (f"Listed Companies & Foreign Managers – Vietnam {YEAR} ({run}, built {now_iso()})", True), ("", False),
         (f"Sở hữu nước ngoài: đo tại {FO_AS_OF} (file VSDC 'FOL 31.12.2025'); > {FO_THRESHOLD:g}% → FOREIGN_MAJORITY, "
-         f"≤ {FO_THRESHOLD:g}% → LOCAL, thiếu → REVIEW. Xem Checkpoint1_Ownership_FY2025.xlsx cho chi tiết và các mã thủ công.", False),
+         f"≤ {FO_THRESHOLD:g}% → LOCAL, thiếu → REVIEW. Mọi giá trị FO thu được: sheet Ownership_Observations; các mã xác định thủ công "
+         "(niêm yết ở nước ngoài, hủy niêm yết): data/manual/ownership_manual.csv. Hướng dẫn sử dụng: output/BAO_CAO_BAN_GIAO.md.", False),
         ("Manager = người giữ chức HĐQT / BKS (UBKT) / Ban điều hành / quản lý khác tại chính công ty niêm yết bất kỳ lúc nào "
          "trong năm 2025 (chức danh ở công ty con không tính).", False),
         ("Quốc tịch chỉ lấy khi nguồn ghi rõ; tên chỉ dùng để sàng lọc. Quốc tịch kép: Is_Foreign = 1 + Dual_Nationality = 1. "
