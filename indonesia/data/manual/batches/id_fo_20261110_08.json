@@ -1,0 +1,136 @@
+{
+ "ownership": [
+  {
+   "Code": "CBPE",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=26.85",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/CBPE/AR2025_AnnualReport2025_CBPE_att2_3ed64e5c3e98.pdf",
+   "Page": "61",
+   "Quote": "Pemegang Saham Utama Perseroan adalah PT Sandhi Parama Nusa dan Gaery Djohari dengan persentase kepemilikan per 31 Desember 2025 masing-masing sebesar 73,15% dan 6,85% PT",
+   "As_Of": "2025-12-31",
+   "Note": "PT Sandhi Parama Nusa (Indonesian PT) 73.15 % at 31 Dec 2025 -> foreign at most 26.85 %; inside KSEI bounds 0.0-80.0 %"
+  },
+  {
+   "Code": "BLTA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=42.09",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/BLTA/AR2025_ca92346547d1.pdf",
+   "Page": "46",
+   "Quote": "Lokal Local Institusi Institution 221 9,601.545.726 37.01% Perorangan Individual 11,771 5,420,415,754 20,90% Asing Foreign Institusi Institution 199 9,071,702,691 34.97% Perorangan Individual 4,933 1,087,478,846 4,19% - Unidentified Local/Foreign Shareholders (from DTE) - 759,044,086 2.93% T o t a l 17,124 25,940,187,103 100.00%",
+   "As_Of": "2025-12-31",
+   "Note": "Local institution 37.01 % + local individual 20.90 % + foreign institution 34.97 % + foreign individual 4.19 % + unidentified (DTE) 2.93 % = 100 %; FO 39.16 %, at most 42.09 % if all unidentified were foreign; inside KSEI bounds 18.9-55.5 %"
+  },
+  {
+   "Code": "BGTG",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "35.16",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/BGTG/AR2025_AnnualReport2025_BGTG_att1_cb32ba5b149c.pdf",
+   "Page": "89",
+   "Quote": "Pemodal Asing Foreign Investor Perorangan Asing Foreign Individual 11 1.033.500 0,00 11 338.700 0,00 Badan Usaha Asing Foreign Enterprise 28 8.428.391.005 35,16",
+   "As_Of": "2025-12-31",
+   "Note": "Column 31 Dec 2025 (first column; second = 1 Jan 2025): foreign individual 0.00 % + foreign enterprise 35.16 %; national investors 64.84 % (PT 54.25 %); 1 Jan 2025 column 38.04 %; inside KSEI bounds 33.5-68.7 %"
+  },
+  {
+   "Code": "BLUE",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "0.60",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/BLUE/AR2025_AnnualReport2025_BLUE_att1_261eaf391698.pdf",
+   "Page": "49",
+   "Quote": "Pemodal Domestik Domestic Investors Individu Lokal Local Individual 2.161 277.012.375 66,27 Institusi Lokal Local Intitution 13 138.506.325 33,13 Pemodal Asing Foreign Investors Individu Asing Foreign Individual 6 278.80 66,27 Institusi Asing Foreign Institution 8 138.506.325 33,13 Total 2.188 418.000.000 100% INFORMASI MENGENAI",
+   "As_Of": "2025-12-31",
+   "Note": "Domestic: local individual 66.27 % + local institution 33.13 % = 99.40 % of 418,000,000 shares; the foreign rows repeat the local figures (error in the report), foreign = 0.60 % by difference = KSEI foreign custody 0.6 % (lower bound); named: PT Cetak Biru Capital 28.22 %"
+  },
+  {
+   "Code": "CMRY",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "20.59",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/CMRY/AR2025_5c73737e4e4a.pdf",
+   "Page": "69",
+   "Quote": "Total Pemegang Saham Asing Total Foreign Shareholders 279 1.647.245.173 20,76% 298 1.633.649.786 20,59% TOTAL 3.916 7.93",
+   "As_Of": "2025-12-31",
+   "Note": "Two columns (31 Dec 2024, 31 Dec 2025 per the header on the same page): foreign 20.76 % / 20.59 %; 20.59 % = KSEI foreign custody (lower bound 20.6 %); both far below 50 %"
+  },
+  {
+   "Code": "CTRA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=46.69",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/CTRA/AR2025_855fdf9957f7.pdf",
+   "Page": "60",
+   "Quote": "PT Sang Pelopor 9,882,123,998 53.31 9,882,123,998 53.31 Kepemilikan di Bawah 5%/Ownership of Less than 5% Masyarakat/Pub",
+   "As_Of": "2025-12-31",
+   "Note": "PT Sang Pelopor (Indonesian PT) 53.31 % -> foreign at most 46.69 %; classification table p61: national business entity 57.0 %, foreign 26.9 %; inside KSEI bounds 23.4-56.7 %"
+  },
+  {
+   "Code": "DWGL",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "49.22",
+   "Method": "NAMED_HOLDERS+KSEI",
+   "File": "raw/web_ar/DWGL/AR2025_3157f0f946ad.pdf",
+   "Page": "13",
+   "Quote": "Institusi Asing • Foreign Institutions 4.489.671.120 48,5% 448.967.112.000 Kustodian Sentral Efek Indonesia 4.204.948.847 45,5% 420.494.884.700 • Indonesia Central Securities Depository Perusahaan Terbatas - NPWP 558.201.024 6,0% 55.820.102.400 • Limited Liabilites Company - Taxpayer Number TOTAL 9.252.820.991 100,0% 925.282.099",
+   "As_Of": "2025-12-31",
+   "Note": "At 31 Dec 2025: Hawthorn-Capital Investment Pte. Ltd. 48.52 % (registered outside KSEI), KSEI 45.5 %, PT (NPWP) 6.0 %; KSEI 30 Dec 2025: foreign custody 0.70 % of listed shares, coverage 45.4 % -> FO 48.52 + 0.70 = 49.22 % (close to 50 %, read by hand)"
+  },
+  {
+   "Code": "ECII",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=42.33",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/ECII/AR2025_AnnualReport2025_ECII_att1_9a003515cb4a.pdf",
+   "Page": "43",
+   "Quote": "Kepemilikan Saham Share Ownership • PT Graha Surya Kirana : 25,57% • PT Artha Graha Network : 23,15% • PT Electronic City Indonesia Tbk : 8,95% • UOB Kay Hian Pte Ltd : 29,78% • Masyarakat lainnya : 12,44% (Kepemilikan masing-masi",
+   "As_Of": "2025-12-31",
+   "Note": "PT Graha Surya Kirana 25.57 % + PT Artha Graha Network 23.15 % (Indonesian PTs) + treasury shares 8.95 % -> foreign at most 42.33 % (UOB Kay Hian Pte Ltd 29.78 % + public 12.44 %); inside KSEI bounds 30.5-79.3 %"
+  },
+  {
+   "Code": "DEPO",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=30.26",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/DEPO/AR2025_AnnualReport2025_DEPO_att2_3708a95972c9.pdf",
+   "Page": "301",
+   "Quote": "Tuan Kambiyanto Kettin 1.543.739.100 22,74% 38.593.477.500 Mr. Kambiyanto Kettin PT Buanatata Adisentosa 1.595.423.600 23,50% 39.885.590.000 PT Buanatata Adisentosa PT Tancorp Surya Sukses 1.595.423.600 23,50% 39.885.590.000 PT Tancorp Surya Sukses Global House International Global House International Company Limited 1.493.800.0",
+   "As_Of": "2025-12-31",
+   "Note": "PT Buanatata Adisentosa 23.50 % + PT Tancorp Surya Sukses 23.50 % + Kambiyanto Kettin 22.74 % (President Director, p69 'Warga Negara / Citizenship Indonesia', page image viewed) = 69.74 % -> foreign at most 30.26 % (Global House International Company Limited 22.00 %); inside KSEI bounds 24.4-94.8 %"
+  },
+  {
+   "Code": "KLAS",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=25.04",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/KLAS/AR2025_AnnualReport2025_KLAS_att2_e8e6166cf749.pdf",
+   "Page": "41",
+   "Quote": "Kurnyatjan Sakti Efendie Direktur Utama President Director 109.279.895.800 74,96% Novi Sus",
+   "As_Of": "2025-12-31",
+   "Note": "Kurnyatjan Sakti Efendie 74.96 % (President Director, p38 'Kewarganegaraan Nationality Indonesia', page image viewed) -> foreign at most 25.04 %; inside KSEI bounds 0.3-75.4 %"
+  },
+  {
+   "Code": "GDYR",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=85.00",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/GDYR/AR2025_212c3ed208f6.pdf",
+   "Page": "65",
+   "Quote": "Pemegang saham utama dan pengendali Perseroan adalah The Goodyear Tire and Rubber Company, Amerika Serikat, sebagai pemegang 85% saham Perse",
+   "As_Of": "2025-12-31",
+   "Note": "The Goodyear Tire and Rubber Company (United States) 85 %"
+  },
+  {
+   "Code": "CSAP",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=54.07",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/CSAP/AR2025_AnnualReport2025_CSAP_att1_5ea73ada90f0.pdf",
+   "Page": "302",
+   "Quote": "PT Buanatata Adisentosa 1.819.108.716 32,01% 181.910.872 PT Buanatata Adisentosa SCG Retail Holding Co, Ltd 1.755.800.091 30,89% 175.580.009 SCG Retail Holding Co, Ltd NT Asian Discovery Master FD 749.033.925 13,18% 74.903.393 NT Asian Discovery Master FD Albizia Asean Opportunities Fund 568.336.263 10,00% 56.833.626 Albizia Ase",
+   "As_Of": "2025-12-31",
+   "Note": "Capital-stock note, 31 Dec 2025 and 2024: SCG Retail Holding Co, Ltd 30.89 % + NT Asian Discovery Master FD 13.18 % + Albizia Asean Opportunities Fund 10.00 % = 54.07 % foreign holders (the two funds = KSEI foreign custody 24.5 %); PT Buanatata Adisentosa 32.01 %"
+  }
+ ]
+}

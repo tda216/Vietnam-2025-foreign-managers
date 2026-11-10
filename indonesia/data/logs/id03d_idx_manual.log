@@ -1,0 +1,2566 @@
+/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+482 companies to query (0 already found), pause 3.0s
+1 BACA NO_AR_ON_IDX []
+2 BBCA FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+3 TPIA FOUND ['VERIFIED', 'VERIFIED']
+4 BBRI FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+5 DCII FOUND ['CHECK(year=0,ar=0,name=0)']
+6 BMRI FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+7 ASII FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+8 IMPC FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+9 BBNI FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED']
+10 MPRO FOUND ['SET_VERIFIED', 'VERIFIED']
+11 UNVR FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+12 HMSP FOUND ['VERIFIED']
+13 ANTM FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+14 BELI FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+15 CBDK FOUND ['VERIFIED', 'VERIFIED']
+16 PGEO FOUND ['VERIFIED', 'VERIFIED']
+17 INKP FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+18 PGAS FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+19 TCPI FOUND ['SET_VERIFIED', 'VERIFIED']
+20 GIAA NO_AR_ON_IDX []
+21 AVIA FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+22 PTBA FOUND ['VERIFIED', 'VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED']
+23 PNBN FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+24 MSIN FOUND ['VERIFIED']
+25 AKRA FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+26 JSMR FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+27 MKPI FOUND ['VERIFIED', 'SET_VERIFIED']
+28 TKIM FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+29 BBTN FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+30 SSMS FOUND ['VERIFIED', 'VERIFIED']
+31 STAA FOUND ['VERIFIED', 'SET_VERIFIED']
+32 BBKP FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+33 SMAR FOUND ['SET_VERIFIED', 'VERIFIED']
+34 MCOL FOUND ['SET_VERIFIED', 'VERIFIED']
+35 PRAY FOUND ['SET_VERIFIED', 'VERIFIED']
+36 MLBI FOUND ['VERIFIED']
+37 CLEO FOUND ['VERIFIED', 'VERIFIED']
+38 BSSR FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+39 BJBR FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+40 PNLF FOUND ['VERIFIED', 'VERIFIED']
+41 LSIP FOUND ['SET_VERIFIED', 'VERIFIED']
+42 MTDL FOUND ['VERIFIED']
+43 DMND FOUND ['VERIFIED', 'VERIFIED']
+44 KRAS FOUND ['VERIFIED']
+45 NETV FOUND ['VERIFIED', 'VERIFIED']
+46 SMDR FOUND ['VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED']
+47 ELPI FOUND ['CHECK(year=0,ar=1,name=1)', 'CHECK(year=0,ar=1,name=1)', 'CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)']
+48 OMED FOUND ['VERIFIED', 'VERIFIED']
+49 MASB FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+50 FPNI FOUND ['VERIFIED', 'SET_VERIFIED']
+51 MSTI FOUND ['VERIFIED']
+52 DAAZ FOUND ['VERIFIED', 'VERIFIED']
+53 SURE FOUND ['VERIFIED']
+54 AGRS FOUND ['SET_VERIFIED', 'VERIFIED']
+55 MDLA FOUND ['VERIFIED', 'VERIFIED']
+56 HEXA FOUND ['VERIFIED', 'VERIFIED']
+57 WIIM FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+58 SMIL FOUND ['VERIFIED', 'VERIFIED']
+59 ARGO FOUND ['SET_VERIFIED', 'VERIFIED']
+60 BSWD FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+61 DNAR FOUND ['SET_VERIFIED', 'VERIFIED']
+62 LPCK FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+63 SSTM FOUND ['VERIFIED', 'VERIFIED']
+64 MAHA FOUND ['VERIFIED']
+65 BGTG FOUND ['VERIFIED']
+66 TOTO FOUND ['VERIFIED']
+67 PTPP FOUND ['CHECK(year=0,ar=0,name=0)', 'IDX_RECORD']
+68 MTMH FOUND ['VERIFIED', 'VERIFIED']
+69 BOLT FOUND ['VERIFIED']
+70 BNBA FOUND ['SET_VERIFIED', 'VERIFIED']
+71 ADHI FOUND ['VERIFIED', 'VERIFIED']
+72 CITY FOUND ['VERIFIED']
+73 PNBS FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+74 MSJA FOUND ['VERIFIED']
+75 PSAT FOUND ['VERIFIED']
+76 SCCO FOUND ['VERIFIED']
+77 INDR FOUND ['SET_VERIFIED', 'VERIFIED']
+78 DEPO FOUND ['VERIFIED', 'VERIFIED']
+79 BSBK FOUND ['VERIFIED', 'VERIFIED']
+80 IFSH FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+81 DLTA FOUND ['VERIFIED']
+82 TRGU FOUND ['VERIFIED', 'SET_VERIFIED']
+83 PMJS FOUND ['VERIFIED', 'SET_VERIFIED']
+84 BEKS FOUND ['CHECK(year=0,ar=1,name=1)']
+85 MERK FOUND ['VERIFIED']
+86 ATIC FOUND ['VERIFIED', 'VERIFIED']
+87 AMFG FOUND ['VERIFIED', 'VERIFIED']
+88 BLES FOUND ['VERIFIED']
+89 ADCP FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+90 BLUE FOUND ['VERIFIED']
+91 TCID NO_AR_ON_IDX []
+92 GDST FOUND ['VERIFIED']
+93 KDTN FOUND ['CHECK(year=0,ar=0,name=0)']
+94 TBMS FOUND ['SET_VERIFIED', 'VERIFIED']
+95 LFLO FOUND ['CHECK(year=0,ar=0,name=0)']
+96 WTON NO_AR_ON_IDX []
+97 ADMG FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+98 ATAP FOUND ['VERIFIED', 'VERIFIED']
+MuPDF error: format error: object out of range (5571 0 R); xref size 5024
+
+MuPDF error: format error: object out of range (5572 0 R); xref size 5024
+
+MuPDF error: format error: object out of range (5571 0 R); xref size 5024
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (5573 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5575 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5577 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5577 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5577 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5581 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5581 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5581 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5583 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5585 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5579 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5589 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5587 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5591 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5591 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5593 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5597 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5599 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5595 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5601 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5603 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5605 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5607 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5607 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5603 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5603 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5611 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5615 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5609 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: format error: object out of range (5613 0 R); xref size 5024
+
+MuPDF error: syntax error: unknown cid font type
+
+99 KOKA FOUND ['SET_VERIFIED', 'VERIFIED']
+100 CHEK FOUND ['SET_VERIFIED', 'VERIFIED']
+101 WEGE FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+102 GLVA FOUND ['VERIFIED']
+103 UNTD FOUND ['IDX_RECORD']
+104 IKBI FOUND ['VERIFIED', 'VERIFIED']
+105 GTRA FOUND ['SET_VERIFIED', 'VERIFIED']
+106 CRAB FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+107 LABS FOUND ['VERIFIED', 'VERIFIED']
+108 UFOE FOUND ['VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+109 MPXL FOUND ['VERIFIED', 'VERIFIED']
+110 VAST FOUND ['VERIFIED']
+111 KLAS FOUND ['SET_VERIFIED', 'VERIFIED']
+112 IGAR FOUND ['VERIFIED']
+113 ZONE FOUND ['SET_VERIFIED', 'VERIFIED']
+114 IOTF FOUND ['CHECK(year=0,ar=0,name=0)']
+115 TYRE FOUND ['VERIFIED', 'VERIFIED']
+116 CBPE FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+117 DOSS FOUND ['VERIFIED']
+118 MUTU FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+119 CRSN FOUND ['VERIFIED']
+120 AKSI FOUND ['CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)']
+121 ITIC FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+122 EMDE FOUND ['SET_VERIFIED', 'VERIFIED']
+123 SAGE FOUND ['IDX_RECORD']
+124 BTON FOUND ['VERIFIED']
+125 PTMP FOUND ['VERIFIED']
+126 PURI FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+127 NZIA FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+128 OBAT FOUND ['VERIFIED']
+129 ECII FOUND ['VERIFIED']
+130 DGNS FOUND ['VERIFIED', 'SET_VERIFIED']
+131 ASDM FOUND ['SET_VERIFIED', 'VERIFIED']
+132 FOOD FOUND ['VERIFIED']
+133 LION FOUND ['IDX_RECORD']
+134 APII FOUND ['SET_VERIFIED', 'VERIFIED']
+135 ZYRX FOUND ['VERIFIED', 'VERIFIED']
+136 WINR FOUND ['VERIFIED', 'VERIFIED']
+137 MRAT FOUND ['VERIFIED', 'VERIFIED']
+138 DKHH FOUND ['VERIFIED']
+139 PTIS FOUND ['VERIFIED']
+140 MERI FOUND ['VERIFIED']
+141 CSMI FOUND ['VERIFIED', 'VERIFIED']
+142 SEMA FOUND ['VERIFIED', 'VERIFIED']
+143 LAND FOUND ['VERIFIED']
+144 LAJU FOUND ['VERIFIED', 'VERIFIED']
+145 GEMA FOUND ['SET_VERIFIED', 'VERIFIED']
+146 BAPI FOUND ['VERIFIED', 'VERIFIED']
+147 BAIK FOUND ['VERIFIED', 'SET_VERIFIED']
+148 ISEA FOUND ['SET_VERIFIED', 'VERIFIED']
+149 MPIX FOUND ['CHECK(year=0,ar=0,name=0)']
+150 LRNA FOUND ['VERIFIED']
+151 KJEN FOUND ['VERIFIED', 'VERIFIED']
+152 OILS FOUND ['CHECK(year=0,ar=0,name=0)']
+153 KUAS NO_AR_ON_IDX []
+154 ENZO FOUND ['CHECK(year=0,ar=0,name=0)']
+155 BATA FOUND ['VERIFIED', 'VERIFIED']
+156 RUNS FOUND ['VERIFIED']
+157 NASI FOUND ['VERIFIED']
+158 MSIE FOUND ['VERIFIED']
+159 AEGS FOUND ['VERIFIED']
+160 KKES FOUND ['VERIFIED']
+161 PLAN FOUND ['SET_VERIFIED', 'VERIFIED']
+162 INAF FOUND ['SET_VERIFIED', 'VERIFIED']
+163 CNTB NO_AR_ON_IDX []
+164 KIAS FOUND ['VERIFIED', 'VERIFIED']
+165 PLAS NO_AR_ON_IDX []
+166 UNIT NO_AR_ON_IDX []
+167 WIKA FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+168 TRIO FOUND ['VERIFIED', 'VERIFIED']
+MuPDF error: format error: object out of range (3404 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3405 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3406 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3407 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3408 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3410 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3412 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2244 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3409 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3408 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (3411 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3410 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (3413 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3412 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2247 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (3404 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G27'
+
+MuPDF error: format error: object out of range (3405 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find Pattern resource 'P24'
+
+MuPDF error: format error: object out of range (3405 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find Pattern resource 'P24'
+
+MuPDF error: format error: object out of range (3406 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G32'
+
+MuPDF error: format error: object out of range (3407 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find Pattern resource 'P29'
+
+MuPDF error: format error: object out of range (3407 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find Pattern resource 'P29'
+
+MuPDF error: format error: object out of range (2248 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2246 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2244 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2245 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2247 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2248 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2254 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2257 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2260 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2263 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2266 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2255 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2254 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2252 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2253 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2269 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2270 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2269 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2259 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2257 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2258 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2262 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2260 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2261 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2265 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2263 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2264 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2269 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2269 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2268 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2266 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2267 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2267 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2267 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2273 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2275 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2274 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2273 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2271 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2278 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2278 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2279 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2280 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2272 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2282 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2281 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2277 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2275 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2276 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2276 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2276 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2285 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2287 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2286 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2285 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2283 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2291 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2284 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2292 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2290 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2289 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2287 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2288 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2288 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2288 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2295 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2297 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2296 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2295 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2293 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2300 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2300 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2301 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2302 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2294 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2303 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2304 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2303 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2303 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2299 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2297 0 R); xref size 2243
+
+MuPDF error: syntax error: cannot find ExtGState resource 'G3'
+
+MuPDF error: format error: object out of range (2298 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2298 0 R); xref size 2243
+
+MuPDF error: format error: object out of range (2298 0 R); xref size 2243
+
+169 MTSM FOUND ['CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)']
+170 WSKT FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+171 MTRA NO_AR_ON_IDX []
+172 SWAT FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+173 CPRI NO_AR_ON_IDX []
+174 TGUK FOUND ['VERIFIED', 'VERIFIED']
+175 PTMR FOUND ['VERIFIED']
+176 MORA FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+177 SRAJ FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+178 BRIS FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+179 CASA FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+180 AMRT FOUND ['VERIFIED']
+181 COIN FOUND ['VERIFIED', 'VERIFIED']
+182 KLBF FOUND ['VERIFIED', 'SET_VERIFIED']
+183 GEMS FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+184 ARCI FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+185 VKTR FOUND ['VERIFIED', 'VERIFIED']
+186 MIKA FOUND ['VERIFIED']
+187 BBHI FOUND ['VERIFIED']
+188 SUPA FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+189 TAPG FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+190 BINA FOUND ['VERIFIED', 'SET_VERIFIED']
+191 DEWA FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+192 RATU FOUND ['VERIFIED']
+193 RAJA FOUND ['VERIFIED', 'VERIFIED']
+194 SCMA FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+195 CARE FOUND ['VERIFIED']
+196 NSSS FOUND ['VERIFIED', 'SET_VERIFIED']
+197 HEAL FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+198 ARKO FOUND ['VERIFIED']
+199 APIC FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+200 BUKA FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+201 SIDO FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+202 POLU FOUND ['VERIFIED', 'VERIFIED']
+203 BANK FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+204 JRPT FOUND ['SET_VERIFIED', 'VERIFIED']
+205 MIDI FOUND ['SET_VERIFIED', 'VERIFIED']
+206 ADMF FOUND ['VERIFIED', 'VERIFIED']
+207 CNMA FOUND ['SET_VERIFIED', 'VERIFIED']
+208 BTPS FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+209 ABMM FOUND ['VERIFIED', 'VERIFIED']
+210 TMAS FOUND ['SET_VERIFIED', 'VERIFIED']
+211 INET FOUND ['VERIFIED', 'VERIFIED']
+212 ACES FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+213 BALI FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+214 BBYB FOUND ['SET_VERIFIED', 'VERIFIED']
+215 BHAT NO_AR_ON_IDX []
+216 PALM FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+217 LPKR FOUND ['VERIFIED', 'VERIFIED']
+218 YULE FOUND ['NOT_A_PDF']
+219 DATA FOUND ['VERIFIED']
+220 AGRO FOUND ['SET_VERIFIED', 'VERIFIED']
+221 BIPI FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+222 CASS FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+223 TRIN FOUND ['VERIFIED']
+224 DRMA FOUND ['VERIFIED', 'SET_VERIFIED']
+225 TRIM FOUND ['VERIFIED', 'VERIFIED']
+226 GTSI FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+227 TGKA FOUND ['VERIFIED', 'SET_VERIFIED']
+228 CBRE FOUND ['VERIFIED']
+229 FUTR FOUND ['CHECK(year=0,ar=0,name=0)']
+230 BOGA FOUND ['VERIFIED']
+231 MGLV FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+232 TBLA FOUND ['VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED']
+233 SMDM FOUND ['SET_VERIFIED', 'VERIFIED']
+234 MNCN NO_AR_ON_IDX []
+235 JTPE FOUND ['SET_VERIFIED', 'VERIFIED']
+236 IRSX FOUND ['VERIFIED', 'VERIFIED']
+237 NRCA FOUND ['CHECK(year=0,ar=0,name=0)']
+238 NOBU FOUND ['SET_VERIFIED', 'VERIFIED']
+239 MINA FOUND ['VERIFIED']
+240 CPRO FOUND ['VERIFIED']
+241 ELSA FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+242 RDTX FOUND ['VERIFIED', 'VERIFIED']
+243 CBUT FOUND ['VERIFIED', 'VERIFIED']
+244 IMJS FOUND ['SET_VERIFIED', 'VERIFIED']
+245 PACK FOUND ['VERIFIED', 'VERIFIED']
+246 DMMX FOUND ['VERIFIED']
+247 MGRO FOUND ['VERIFIED', 'VERIFIED']
+248 FAST FOUND ['VERIFIED', 'VERIFIED']
+249 SFAN FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+250 BABP FOUND ['SET_VERIFIED', 'VERIFIED']
+251 PNGO FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+252 APLN FOUND ['VERIFIED']
+253 NICE FOUND ['VERIFIED']
+254 BMTR FOUND ['VERIFIED']
+255 IPTV FOUND ['VERIFIED', 'SET_VERIFIED']
+256 MLIA FOUND ['SET_VERIFIED', 'VERIFIED']
+257 DGWG FOUND ['SET_VERIFIED', 'VERIFIED']
+258 HILL FOUND ['VERIFIED', 'VERIFIED']
+259 STRK FOUND ['VERIFIED']
+260 ALDO FOUND ['VERIFIED']
+261 ROCK FOUND ['VERIFIED']
+262 BVIC FOUND ['SET_VERIFIED', 'VERIFIED']
+263 SIPD FOUND ['VERIFIED']
+264 STAR FOUND ['VERIFIED']
+265 PTSN FOUND ['SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+266 CARS FOUND ['SET_VERIFIED', 'VERIFIED']
+267 ITMA FOUND ['SET_VERIFIED', 'VERIFIED']
+268 SPTO FOUND ['VERIFIED']
+269 FOLK FOUND ['CHECK(year=0,ar=0,name=0)']
+270 POLI FOUND ['IDX_RECORD']
+271 GZCO FOUND ['VERIFIED']
+272 BLOG FOUND ['VERIFIED']
+273 TRST FOUND ['VERIFIED']
+274 CEKA FOUND ['VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED']
+275 NEST FOUND ['VERIFIED']
+276 JKON FOUND ['SET_VERIFIED', 'VERIFIED']
+277 PADI FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+278 TAMU FOUND ['CHECK(year=0,ar=1,name=1)']
+279 WSBP FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+280 SOTS FOUND ['VERIFIED']
+281 CFIN NO_AR_ON_IDX []
+282 KBLI FOUND ['CHECK(year=0,ar=0,name=0)']
+283 DPUM FOUND ['SET_VERIFIED', 'VERIFIED']
+284 WOMF FOUND ['CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)']
+285 UNIQ FOUND ['SET_VERIFIED', 'VERIFIED']
+286 PANS FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+287 MMIX FOUND ['SET_VERIFIED', 'VERIFIED']
+288 LIVE FOUND ['CHECK(year=0,ar=0,name=0)']
+289 BOLA FOUND ['VERIFIED', 'VERIFIED']
+290 HOMI FOUND ['VERIFIED']
+291 PDPP FOUND ['VERIFIED']
+292 BIKE FOUND ['CHECK(year=0,ar=1,name=0)']
+293 HGII FOUND ['VERIFIED', 'VERIFIED']
+294 RELI FOUND ['VERIFIED']
+295 NELY FOUND ['VERIFIED']
+296 CMPP FOUND ['SET_VERIFIED', 'VERIFIED']
+297 BEER FOUND ['VERIFIED']
+298 JGLE FOUND ['IDX_RECORD', 'CHECK(year=0,ar=0,name=0)']
+299 PANR FOUND ['VERIFIED', 'VERIFIED']
+300 GHON FOUND ['VERIFIED']
+301 SOSS FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+302 JECC FOUND ['VERIFIED', 'SET_VERIFIED']
+303 PIPA FOUND ['VERIFIED']
+304 NICK FOUND ['VERIFIED', 'SET_VERIFIED']
+305 WMUU FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+306 TIRA FOUND ['VERIFIED', 'SET_VERIFIED']
+307 BOAT FOUND ['VERIFIED']
+308 MPPA FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+309 GUNA FOUND ['VERIFIED']
+310 KDSI FOUND ['SET_VERIFIED', 'VERIFIED']
+311 GRIA FOUND ['VERIFIED', 'VERIFIED']
+312 BRNA FOUND ['VERIFIED', 'VERIFIED']
+313 EURO FOUND ['VERIFIED', 'VERIFIED']
+314 PZZA FOUND ['VERIFIED', 'VERIFIED']
+315 KONI FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+316 EKAD FOUND ['VERIFIED', 'SET_VERIFIED']
+317 HAIS FOUND ['VERIFIED', 'SET_VERIFIED']
+318 MREI NO_AR_ON_IDX []
+319 GPRA FOUND ['DOWNLOAD_FAILED']
+320 SOFA FOUND ['IDX_RECORD']
+321 KOTA FOUND ['VERIFIED', 'VERIFIED']
+322 MTFN FOUND ['VERIFIED', 'SET_VERIFIED']
+323 DART FOUND ['SET_VERIFIED', 'VERIFIED']
+324 VISI FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+325 IBOS FOUND ['VERIFIED', 'VERIFIED']
+326 COAL NO_AR_ON_IDX []
+327 HALO FOUND ['VERIFIED', 'SET_VERIFIED']
+328 ZATA FOUND ['SET_VERIFIED', 'VERIFIED']
+329 BELL FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+330 MAXI FOUND ['SET_VERIFIED', 'VERIFIED']
+331 BAYU FOUND ['VERIFIED', 'VERIFIED']
+332 TFAS FOUND ['VERIFIED', 'SET_VERIFIED']
+333 BSML FOUND ['VERIFIED', 'SET_VERIFIED']
+334 RIGS FOUND ['VERIFIED']
+335 CCSI FOUND ['VERIFIED']
+336 ASPI FOUND ['VERIFIED', 'VERIFIED']
+337 REAL FOUND ['VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+338 CSIS FOUND ['VERIFIED', 'VERIFIED']
+339 NINE FOUND ['SET_VERIFIED', 'VERIFIED']
+340 NASA FOUND ['VERIFIED']
+341 NAIK FOUND ['VERIFIED', 'VERIFIED']
+342 YPAS FOUND ['VERIFIED']
+343 IKPM FOUND ['SET_VERIFIED', 'VERIFIED']
+344 KBLM FOUND ['VERIFIED']
+345 DADA FOUND ['VERIFIED', 'VERIFIED']
+346 SRSN FOUND ['VERIFIED']
+347 SATU FOUND ['VERIFIED']
+348 ASHA FOUND ['CHECK(year=0,ar=0,name=0)']
+349 KREN FOUND ['CHECK(year=0,ar=0,name=0)', 'CHECK(year=0,ar=0,name=0)']
+350 OKAS FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+351 BATR FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+352 MDRN FOUND ['SET_VERIFIED', 'VERIFIED']
+353 HRME FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+354 TARA FOUND ['VERIFIED', 'VERIFIED']
+355 BPTR FOUND ['VERIFIED']
+356 HAJJ FOUND ['VERIFIED']
+357 KBLV FOUND ['VERIFIED']
+358 DEWI FOUND ['VERIFIED', 'VERIFIED']
+359 ACRO FOUND ['VERIFIED', 'VERIFIED']
+360 HOPE NO_AR_ON_IDX []
+361 UVCR NO_AR_ON_IDX []
+362 YELO FOUND ['VERIFIED', 'VERIFIED']
+363 KIOS FOUND ['VERIFIED', 'VERIFIED']
+364 FWCT FOUND ['SET_VERIFIED', 'VERIFIED']
+365 PURA FOUND ['VERIFIED']
+366 LPPS FOUND ['SET_VERIFIED', 'VERIFIED']
+367 GULA FOUND ['SET_VERIFIED', 'VERIFIED']
+368 TOSK FOUND ['VERIFIED']
+369 LCKM FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+370 ASJT FOUND ['VERIFIED']
+371 RELF FOUND ['VERIFIED']
+372 INPS FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+373 DIVA FOUND ['VERIFIED', 'SET_VERIFIED']
+374 KLIN FOUND ['SET_VERIFIED', 'VERIFIED']
+375 MEJA FOUND ['VERIFIED', 'VERIFIED']
+376 KRYA FOUND ['SET_VERIFIED', 'VERIFIED']
+377 TRUK FOUND ['VERIFIED']
+378 MANG FOUND ['VERIFIED']
+379 WAPO FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+380 KARW FOUND ['CHECK(year=0,ar=0,name=0)']
+381 ABBA FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+382 PAMG FOUND ['VERIFIED']
+383 ESTI FOUND ['VERIFIED', 'SET_VERIFIED']
+384 BOBA FOUND ['VERIFIED', 'VERIFIED']
+385 JMAS NO_AR_ON_IDX []
+386 SMKM FOUND ['SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+387 AKKU FOUND ['CHECK(year=0,ar=0,name=0)']
+388 TAXI FOUND ['VERIFIED', 'VERIFIED']
+389 WEHA FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+390 NANO FOUND ['VERIFIED']
+391 AYLS FOUND ['VERIFIED']
+392 NPGF FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+393 LOPI FOUND ['VERIFIED']
+394 DFAM FOUND ['VERIFIED']
+395 HELI FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+396 RUIS FOUND ['VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+397 LABA FOUND ['VERIFIED', 'VERIFIED']
+398 PTDU NO_AR_ON_IDX []
+399 SPRE FOUND ['VERIFIED', 'VERIFIED']
+400 MARI FOUND ['CHECK(year=0,ar=1,name=1)']
+401 CASH FOUND ['VERIFIED']
+402 KAQI FOUND ['VERIFIED']
+403 PPGL FOUND ['VERIFIED']
+404 LMPI FOUND ['VERIFIED']
+405 MIRA FOUND ['VERIFIED', 'VERIFIED']
+406 GRPM FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED']
+407 TOOL FOUND ['VERIFIED']
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: format error: object is not a stream
+
+MuPDF error: format error: object is not a stream
+
+MuPDF error: format error: object is not a stream
+
+MuPDF error: format error: object is not a stream
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: syntax error: cannot load shading function (1772 0 R)
+
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: syntax error: no XObject subtype specified
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+MuPDF error: syntax error: unknown cid font type
+
+408 TIRT FOUND ['SET_VERIFIED', 'VERIFIED']
+409 BCIP FOUND ['IDX_RECORD']
+410 SDMU FOUND ['VERIFIED']
+411 HDIT FOUND ['SET_VERIFIED', 'VERIFIED']
+412 SICO FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+413 JAST NO_AR_ON_IDX []
+414 PGLI FOUND ['VERIFIED']
+415 RBMS FOUND ['VERIFIED', 'SET_VERIFIED', 'VERIFIED', 'SET_VERIFIED']
+416 BRRC FOUND ['VERIFIED']
+417 JAYA FOUND ['VERIFIED']
+418 RAFI NO_AR_ON_IDX []
+419 CANI FOUND ['VERIFIED', 'SET_VERIFIED', 'SET_VERIFIED', 'VERIFIED']
+420 INCF NO_AR_ON_IDX []
+421 ESIP NO_AR_ON_IDX []
+422 LUCK FOUND ['VERIFIED']
+423 TAYS NO_AR_ON_IDX []
+424 SOUL NO_AR_ON_IDX []
+425 MENN NO_AR_ON_IDX []
+426 ARKA NO_AR_ON_IDX []
+427 BAPA FOUND ['VERIFIED', 'VERIFIED']
+428 BMBL FOUND ['VERIFIED']
+429 HADE FOUND ['VERIFIED']
+430 DIGI FOUND ['VERIFIED']
+431 PCAR FOUND ['CHECK(year=0,ar=0,name=0)']
+432 ZBRA NO_AR_ON_IDX []
+433 RIMO NO_AR_ON_IDX []
+434 SIMA NO_AR_ON_IDX []
+435 ETWA NO_AR_ON_IDX []
+436 SMCB FOUND ['SET_VERIFIED', 'VERIFIED']
+437 MYTX FOUND ['VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+438 LMAS NO_AR_ON_IDX []
+439 SUGI NO_AR_ON_IDX []
+440 ARTI FOUND ['VERIFIED', 'SET_VERIFIED']
+441 IIKP FOUND ['SET_VERIFIED', 'VERIFIED']
+442 BTEL NO_AR_ON_IDX []
+443 LCGP NO_AR_ON_IDX []
+444 HITS NO_AR_ON_IDX []
+445 COWL NO_AR_ON_IDX []
+446 TRIL NO_AR_ON_IDX []
+447 HOME NO_AR_ON_IDX []
+448 TRAM NO_AR_ON_IDX []
+449 SKYB NO_AR_ON_IDX []
+450 KBRI NO_AR_ON_IDX []
+451 SMRU FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED', 'VERIFIED']
+452 POOL NO_AR_ON_IDX []
+453 TELE NO_AR_ON_IDX []
+454 GAMA NO_AR_ON_IDX []
+455 GLOB FOUND ['VERIFIED', 'VERIFIED']
+456 ALTO NO_AR_ON_IDX []
+457 MAGP NO_AR_ON_IDX []
+458 HOTL NO_AR_ON_IDX []
+459 SRIL NO_AR_ON_IDX []
+460 BIKA NO_AR_ON_IDX []
+461 TOPS NO_AR_ON_IDX []
+462 ARMY NO_AR_ON_IDX []
+463 MABA NO_AR_ON_IDX []
+464 BOSS FOUND ['SET_VERIFIED', 'VERIFIED']
+465 JSKY NO_AR_ON_IDX []
+466 POLL FOUND ['VERIFIED', 'VERIFIED']
+467 NUSA NO_AR_ON_IDX []
+468 HKMU NO_AR_ON_IDX []
+469 DUCK NO_AR_ON_IDX []
+470 DEAL NO_AR_ON_IDX []
+471 POSA FOUND ['VERIFIED']
+472 KAYU NO_AR_ON_IDX []
+473 ENVY NO_AR_ON_IDX []
+474 PURE NO_AR_ON_IDX []
+475 SBAT NO_AR_ON_IDX []
+476 CBMF NO_AR_ON_IDX []
+477 TECH NO_AR_ON_IDX []
+478 TOYS NO_AR_ON_IDX []
+479 PMMP NO_AR_ON_IDX []
+480 BEBS NO_AR_ON_IDX []
+481 RSGK FOUND ['SET_VERIFIED', 'VERIFIED', 'VERIFIED']
+482 IPPE NO_AR_ON_IDX []
+this run: Counter({'FOUND': 414, 'NO_AR_ON_IDX': 68}) Counter({'VERIFIED': 576, 'SET_VERIFIED': 210, 'CHECK': 36, 'IDX_RECORD': 8, 'NOT_A_PDF': 1, 'DOWNLOAD_FAILED': 1})

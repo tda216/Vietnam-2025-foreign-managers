@@ -1,0 +1,20 @@
+{
+ "records": [
+  {
+   "Code": "AUTO",
+   "File": "raw/idx_ar/AUTO/AR2024_AnnualReport2024_AUTO_att3_913f308babe9.pdf",
+   "Page": 75,
+   "Manager_Name": "Chiew Sin Cheok",
+   "Raw_Position": "Komisaris / Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "Malaysia",
+   "Nationality_Raw": "Kewarganegaraan | Nationality Malaysia",
+   "Evidence_Quote": "Chiew Sin Cheok Komisaris Commissioners Usia | Age 63 tahun | years old Kewarganegaraan | Nationality Malaysia",
+   "Appointed_Date": "",
+   "Resigned_Date": "2025-04-29",
+   "Evidence_Type": "DOC_FIELD",
+   "Other_Sources": "AR 2025 (raw/web_ar/AUTO/AR2025_fa62ec66c19d.pdf) p35: 'Bapak Chiew Sin Cheok atas dedikasi dan kontribusi beliau kepada Perseroan selama menjabat sebagai Komisaris Perseroan hingga berakhirnya Rapat Umum Pemegang Saham (RUPS) Tahun Buku 2024 pada 29 April 2025'",
+   "Note": "LEFT_DURING_2025: no profile in the AR 2025; nationality from the AR 2024 profile (downloaded 10 Nov 2026), leaving from the AR 2025. Replaces the earlier limitation (no source before the AR 2024 was available)."
+  }
+ ]
+}

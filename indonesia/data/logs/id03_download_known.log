@@ -1,0 +1,12 @@
+/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+MuPDF error: library error: FT_New_Memory_Face(FFSDFI+Exo2-Regular): unknown file format
+
+companies 50/348
+companies 100/348
+companies 150/348
+companies 200/348
+companies 250/348
+companies 300/348
+this run: [('AVAILABLE_WEBSITE', 344), ('NOT_FOUND', 4)]
+web_ar_found.csv all companies: [('AVAILABLE_WEBSITE', 365), ('NOT_FOUND', 5)]

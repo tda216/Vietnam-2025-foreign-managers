@@ -1,0 +1,34 @@
+{
+ "records": [
+  {
+   "Code": "AISA",
+   "File": "raw/web_ar/AISA/AR2025_7c228f0e3d9f.pdf",
+   "Page": 50,
+   "Manager_Name": "Lim Aun Seng",
+   "Raw_Position": "Komisaris Utama / President Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "Malaysia",
+   "Nationality_Raw": "warga negara citizen malaysia",
+   "Evidence_Quote": "Meeting of Shareholders (AGMS) on 23 May 2025. Umur Age Tahun Years Old 54 Warga Negara Citizen Malaysia Domisili Domicile Indonesia",
+   "Appointed_Date": "2025-05-23",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); AGMS of 23 May 2025",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "MDLN",
+   "File": "raw/web_ar/MDLN/AR2025_2d05ddf60bd5.pdf",
+   "Page": 87,
+   "Manager_Name": "Sami Veikko Tapio Miettinen",
+   "Raw_Position": "Direktur Residensial Komersial / Commercial Residential Director",
+   "Role_Group": "Executive",
+   "Nationality": "Finland",
+   "Nationality_Raw": "kewarganegaraan / citizen finlandia",
+   "Evidence_Quote": "May 2025. Umur / Year 60 Tahun / Years old Domisili / Domicile Jakarta Kewarganegaraan / Citizen Finlandia / Finnish 85 PT Modernland Realty Tbk Laporan",
+   "Appointed_Date": "2025-05-23",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); '* Efektif menjabat per 23 Mei 2025'. Label 'Kewarganegaraan / Citizen Finlandia / Finnish' found after the screen fix of 9 Nov 2026",
+   "Other_Sources": ""
+  }
+ ]
+}

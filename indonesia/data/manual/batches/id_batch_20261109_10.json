@@ -1,0 +1,34 @@
+{
+ "records": [
+  {
+   "Code": "JSPT",
+   "File": "raw/web_ar/JSPT/AR2025_13900ef2b1ab.pdf",
+   "Page": 59,
+   "Manager_Name": "Jerry Hua-Lin Wang",
+   "Raw_Position": "Komisaris / Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "Hong Kong",
+   "Nationality_Raw": "Warga Negara Tetap Hongkong SAR / Hong Kong SAR Permanent Resident",
+   "Evidence_Quote": "Warga Negara Tetap Hongkong SAR, 58 tahun / Hong Kong SAR Permanent Resident, 58 years old",
+   "Appointed_Date": "2024-06-20",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); NATIONALITY_FROM_DESCRIPTOR: the AR states Hong Kong SAR permanent residence (no Indonesian citizenship stated)",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "NELY",
+   "File": "raw/idx_ar/NELY/AR2025_AnnualReport2025_NELY_att1_283871e16026.pdf",
+   "Page": 29,
+   "Manager_Name": "Alias Bin Jumaat",
+   "Raw_Position": "Komisaris / Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "UNKNOWN",
+   "Nationality_Raw": "Warga Negara Asing / Foreigner",
+   "Evidence_Quote": "Warga Negara Asing, lahir tahun 1953",
+   "Appointed_Date": "2022-06-06",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); foreign national, country not stated (shared rule: Is_Foreign 1, Nationality UNKNOWN)",
+   "Other_Sources": ""
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "ownership": [
+  {
+   "Code": "PJAA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=28.00",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/PJAA/AR2025_4cbe4b720b68.pdf",
+   "Page": "84",
+   "Quote": "Pemegang Saham Utama sekaligus Pemegang Saham Pengendali, Pemerintah Provinsi DKI Jakarta memiliki 72,00% saham. Kedua P",
+   "As_Of": "2025-12-31",
+   "Note": "Provincial Government of DKI Jakarta 72.00 % -> foreign at most 28.00 %"
+  },
+  {
+   "Code": "PMJS",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=49.76",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/PMJS/AR2025_AnnualReport2025_PMJS_att1_c5308e9b901a.pdf",
+   "Page": "38",
+   "Quote": "PT Pahalamas Sejahtera 6.910.982.000 345.549.100.000 50,24 Suhanti Poniman 936.000.000 46.800.000.000 6,80 Mitsubishi Corporation 4.676.904.000 233.845.200.000 34,00 Masyarakat Public 1.231.714.000 61.585.700.000 8,96 Jumlah Modal Ditempatkan dan Disetor Penuh Total Issued and Paid-up Capital 13.755.600.000 687.780.000.000 100,0",
+   "As_Of": "2025-12-31",
+   "Note": "PT Pahalamas Sejahtera (Indonesian PT) 50.24 % -> foreign at most 49.76 % (Mitsubishi Corporation 34.00 %, Suhanti Poniman 6.80 %, public 8.96 %); issued capital table of the AR 2025"
+  },
+  {
+   "Code": "PJHB",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=42.25",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/PJHB/AR2025_a4faa71f006d.pdf",
+   "Page": "67",
+   "Quote": "Hero Gozali 720.000.000 37,50 720.000.000 37,50 Go Sioe Bie 144.000.000 7,50 144.000.000 7,50 Adelia Aryni Setyawan 244.800.000 12,75 244.800.000 12,75 Nixen Samuel Gozali 144.000.000 7,50 144.000.000 7,50 Nisien Imanuella Gozali 144.000.000 7,50 144",
+   "As_Of": "2025-12-31",
+   "Note": "31 Dec 2025 column: Hero Gozali 37.50 % (President Commissioner, p57), Adelia Aryni Setyawan 12.75 % (Commissioner, p58), Go Sioe Bie 7.50 % (President Director, p62): each profile 'Kewarganegaraan Nationality Indonesia' (page images viewed) = 57.75 % -> foreign at most 42.25 %"
+  }
+ ]
+}

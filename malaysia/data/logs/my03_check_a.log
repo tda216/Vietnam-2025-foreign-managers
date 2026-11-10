@@ -1,0 +1,17 @@
+companies 50/794
+companies 100/794
+companies 150/794
+companies 200/794
+companies 250/794
+companies 300/794
+companies 350/794
+companies 400/794
+companies 450/794
+companies 500/794
+companies 550/794
+companies 600/794
+companies 650/794
+companies 700/794
+companies 750/794
+this run: [('NOT_FOUND', 461), ('AVAILABLE_WEBSITE', 365), ('AVAILABLE_INSAGE', 193), ('NOT_DUE_YET', 56), ('NO_FY2025_AR_IN_INDEX', 28), ('NO_WEBSITE', 19), ('BURSA_LINK_ONLY', 5)]
+ar_availability.csv all companies: [('NOT_FOUND', 461), ('AVAILABLE_WEBSITE', 365), ('AVAILABLE_INSAGE', 193), ('NOT_DUE_YET', 56), ('NO_FY2025_AR_IN_INDEX', 28), ('NO_WEBSITE', 19), ('BURSA_LINK_ONLY', 5)]

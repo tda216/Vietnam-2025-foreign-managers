@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "Code": "BBHI",
+   "File": "raw/idx_ar/BBHI/AR2025_AnnualReport2025_BBHI_att1_4ee8c7569bdd.pdf",
+   "Page": 368,
+   "Manager_Name": "Sajal Bhatnagar",
+   "Raw_Position": "Direktur Digital",
+   "Role_Group": "Executive",
+   "Nationality": "India",
+   "Nationality_Raw": "India Indian",
+   "Evidence_Quote": "Sajal Bhatnagar Direktur Digital Digital Director India Indian 38 Laki-laki Male",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Diversity table of the Board (page image viewed)",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "IFSH",
+   "File": "raw/idx_ar/IFSH/AR2025_AnnualReport2025_IFSH_att1_545dce51d980.pdf",
+   "Page": 59,
+   "Manager_Name": "Ryan Fong Jaya",
+   "Raw_Position": "Komisaris",
+   "Role_Group": "Board",
+   "Nationality": "Singapore",
+   "Nationality_Raw": "Kewarganegaraan Citizenship: Singapura / Singapore",
+   "Evidence_Quote": "34 year old, born in 1991 Male Singapore Singaporean 2019",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Profile table (page image viewed): Kewarganegaraan / Citizenship Singapura / Singapore; in office since 2019",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "GOOD",
+   "File": "raw/web_ar/GOOD/AR2025_fa604da03f12.pdf",
+   "Page": 61,
+   "Manager_Name": "Swen Neufeldt",
+   "Raw_Position": "Komisaris",
+   "Role_Group": "Board",
+   "Nationality": "United States",
+   "Nationality_Raw": "Kewarganegaraan Amerika Serikat",
+   "Evidence_Quote": "Amerika Serikat United States of America Usia Age 53 tahun 53 years old",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); text layer partly font-encoded; field 'Kewarganegaraan Citizenship Amerika Serikat United States of America'; term 2023-2028",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "MSJA",
+   "File": "raw/idx_ar/MSJA/AR2025_AnnualReport2025_MSJA_att1_5313d0916908.pdf",
+   "Page": 147,
+   "Manager_Name": "Takushi Ishimoto",
+   "Raw_Position": "Direktur (General Manager)",
+   "Role_Group": "Executive",
+   "Nationality": "Japan",
+   "Nationality_Raw": "Warga Negara/Citizenship Jepang/Japan",
+   "Evidence_Quote": "Takushi Ishimoto Yoshiharu Yamagishi Warga Negara/Citizenship Jepang/Japan Jepang/Japan Jabatan Position General Manager sekaligus Direktur Perseroan",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Foreign-worker (TKA) table, page image viewed: first column Takushi Ishimoto = General Manager and concurrent Director; Direktur at 31 Dec 2025 (p29)",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "MSJA",
+   "File": "raw/idx_ar/MSJA/AR2025_AnnualReport2025_MSJA_att1_5313d0916908.pdf",
+   "Page": 147,
+   "Manager_Name": "Yoshiharu Yamagishi",
+   "Raw_Position": "General Manager",
+   "Role_Group": "Other_Manager",
+   "Nationality": "Japan",
+   "Nationality_Raw": "Warga Negara/Citizenship Jepang/Japan",
+   "Evidence_Quote": "Takushi Ishimoto Yoshiharu Yamagishi Warga Negara/Citizenship Jepang/Japan Jepang/Japan",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Foreign-worker (TKA) table, page image viewed: second column Yoshiharu Yamagishi = General Manager (senior officer listed in the AR); Management_Include left for the research team",
+   "Other_Sources": ""
+  }
+ ]
+}

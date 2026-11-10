@@ -1,0 +1,28 @@
+shard 0/1: 50/1091 codes, 0 requests
+shard 0/1: 100/1091 codes, 0 requests
+shard 0/1: 150/1091 codes, 0 requests
+shard 0/1: 200/1091 codes, 0 requests
+shard 0/1: 250/1091 codes, 0 requests
+shard 0/1: 300/1091 codes, 0 requests
+shard 0/1: 350/1091 codes, 0 requests
+shard 0/1: 400/1091 codes, 62 requests
+ConnectionError https://klse.i3investor.com/web/financial/annual/2542_31-Dec-2025_229243436 (attempt 1)
+shard 0/1: 450/1091 codes, 92 requests
+shard 0/1: 500/1091 codes, 92 requests
+shard 0/1: 550/1091 codes, 92 requests
+shard 0/1: 600/1091 codes, 92 requests
+shard 0/1: 650/1091 codes, 92 requests
+shard 0/1: 700/1091 codes, 92 requests
+shard 0/1: 750/1091 codes, 92 requests
+shard 0/1: 800/1091 codes, 92 requests
+shard 0/1: 850/1091 codes, 92 requests
+shard 0/1: 900/1091 codes, 92 requests
+shard 0/1: 950/1091 codes, 92 requests
+shard 0/1: 1000/1091 codes, 92 requests
+ReadTimeout https://klse.i3investor.com/web/stock/financial-annual-report/8605 (attempt 1)
+ReadTimeout https://klse.i3investor.com/web/stock/financial-annual-report/8648 (attempt 1)
+shard 0/1: 1050/1091 codes, 145 requests
+ReadTimeout https://klse.i3investor.com/web/financial/annual/9598_30-Jun-2026_2406007188 (attempt 1)
+codes 1091 index rows 9255 attachments 3673
+list status: {'OK': 9244, 'NO_ROWS': 11, 'NO_PAGE': 0}
+shard 0/1 done, 219 network requests

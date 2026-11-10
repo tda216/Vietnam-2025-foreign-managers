@@ -1,0 +1,24 @@
+shard 0/1: 50/1091 codes, 0 requests
+shard 0/1: 100/1091 codes, 0 requests
+shard 0/1: 150/1091 codes, 0 requests
+shard 0/1: 200/1091 codes, 0 requests
+shard 0/1: 250/1091 codes, 0 requests
+shard 0/1: 300/1091 codes, 0 requests
+shard 0/1: 350/1091 codes, 0 requests
+shard 0/1: 400/1091 codes, 30 requests
+shard 0/1: 450/1091 codes, 121 requests
+shard 0/1: 500/1091 codes, 231 requests
+shard 0/1: 550/1091 codes, 340 requests
+shard 0/1: 600/1091 codes, 446 requests
+shard 0/1: 650/1091 codes, 549 requests
+shard 0/1: 700/1091 codes, 651 requests
+shard 0/1: 750/1091 codes, 653 requests
+shard 0/1: 800/1091 codes, 653 requests
+shard 0/1: 850/1091 codes, 653 requests
+shard 0/1: 900/1091 codes, 653 requests
+shard 0/1: 950/1091 codes, 653 requests
+shard 0/1: 1000/1091 codes, 656 requests
+shard 0/1: 1050/1091 codes, 722 requests
+codes 1091 index rows 8364 attachments 3308
+list status: {'OK': 8254, 'NO_ROWS': 11, 'NO_PAGE': 99}
+shard 0/1 done, 772 network requests

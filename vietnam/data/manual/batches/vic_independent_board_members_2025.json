@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "Ticker_Local": "VIC", "Manager_Name": "Adil Ahmad", "Raw_Position": "Thành viên HĐQT độc lập", "Role_Group": "Board",
+      "Nationality": "Australia", "Nationality_Raw": "Australian", "Is_Foreign": "1", "Dual_Nationality": "",
+      "Appointed_Date": "2021", "Resigned_Date": "", "Page": 79, "Evidence_Type": "DOC_FIELD",
+      "Evidence_Quote": "Ông Adil Ahmad — Thành viên HĐQT độc lập. Ông Adil Ahmad được bầu làm thành viên HĐQT độc lập từ năm 2021.",
+      "Source": "Báo cáo thường niên 2025 (VIC)",
+      "Source_URL": "https://staticfile.hsx.vn/Uploads/UploadDocuments/2452696/20260413%20-%20VIC%20-%20Bao%20cao%20thuong%20nien%202025%20-VN.pdf",
+      "Local_File": "raw/docs/VIC/HOSE_2025_VIC_Baocaothuongnien_2025.pdf",
+      "Other_Sources": "Vingroup official 2026 BOD candidate profile, PDF p.7: Nationality: Australian. https://ircdn.vingroup.net/storage/Uploads/0_Quan%20he%20co%20dong/0_Vingroup_2026/T4/0411_Information%20on%20candidates%20for%20BOD%202026%20-%202031%20tenure%20-%20EN.pdf",
+      "Reviewed_On": "2026-11-04", "Note": "NATIONALITY_FROM_OTHER_ISSUER: Vingroup's official 2026 candidate profile explicitly states Australian; 2025 annual report confirms Board service since 2021."
+    },
+    {
+      "Ticker_Local": "VIC", "Manager_Name": "Chin Michael Jaewuk", "Raw_Position": "Thành viên HĐQT độc lập", "Role_Group": "Board",
+      "Nationality": "United States", "Nationality_Raw": "American", "Is_Foreign": "1", "Dual_Nationality": "",
+      "Appointed_Date": "2021", "Resigned_Date": "", "Page": 79, "Evidence_Type": "DOC_FIELD",
+      "Evidence_Quote": "Ông Chin Michael Jaewuk — Thành viên HĐQT độc lập. Ông Chin Michael Jaewuk bắt đầu là thành viên HĐQT độc lập Tập đoàn từ năm 2021.",
+      "Source": "Báo cáo thường niên 2025 (VIC)",
+      "Source_URL": "https://staticfile.hsx.vn/Uploads/UploadDocuments/2452696/20260413%20-%20VIC%20-%20Bao%20cao%20thuong%20nien%202025%20-VN.pdf",
+      "Local_File": "raw/docs/VIC/HOSE_2025_VIC_Baocaothuongnien_2025.pdf",
+      "Other_Sources": "Vingroup official 2026 BOD candidate profile, PDF p.8: Nationality: American. https://ircdn.vingroup.net/storage/Uploads/0_Quan%20he%20co%20dong/0_Vingroup_2026/T4/0411_Information%20on%20candidates%20for%20BOD%202026%20-%202031%20tenure%20-%20EN.pdf",
+      "Reviewed_On": "2026-11-04", "Note": "NATIONALITY_FROM_OTHER_ISSUER: Vingroup's official 2026 candidate profile explicitly states American; 2025 annual report confirms Board service since 2021. Ethnicity is reported separately as South Korean and was not used as nationality."
+    },
+    {
+      "Ticker_Local": "VIC", "Manager_Name": "Ronaldo Dy-Liacco Ibasco", "Raw_Position": "Thành viên HĐQT độc lập", "Role_Group": "Board",
+      "Nationality": "Philippines", "Nationality_Raw": "Filipino", "Is_Foreign": "1", "Dual_Nationality": "",
+      "Appointed_Date": "2021", "Resigned_Date": "", "Page": 79, "Evidence_Type": "DOC_FIELD",
+      "Evidence_Quote": "Ông Ronaldo Dy-Liacco Ibasco — Thành viên HĐQT độc lập. Ông Ronaldo Dy-Liacco Ibasco được bầu làm thành viên HĐQT độc lập từ năm 2021.",
+      "Source": "Báo cáo thường niên 2025 (VIC)",
+      "Source_URL": "https://staticfile.hsx.vn/Uploads/UploadDocuments/2452696/20260413%20-%20VIC%20-%20Bao%20cao%20thuong%20nien%202025%20-VN.pdf",
+      "Local_File": "raw/docs/VIC/HOSE_2025_VIC_Baocaothuongnien_2025.pdf",
+      "Other_Sources": "Vingroup official 2026 BOD candidate profile, PDF p.9: Nationality: Filipino. https://ircdn.vingroup.net/storage/Uploads/0_Quan%20he%20co%20dong/0_Vingroup_2026/T4/0411_Information%20on%20candidates%20for%20BOD%202026%20-%202031%20tenure%20-%20EN.pdf",
+      "Reviewed_On": "2026-11-04", "Note": "NATIONALITY_FROM_OTHER_ISSUER: Vingroup's official 2026 candidate profile explicitly states Filipino; 2025 annual report confirms Board service since 2021."
+    }
+  ],
+  "decisions": [
+    {
+      "Ticker_Local": "VIC", "Name": "Adil Amad", "Decision": "SAME_AS_RECORD",
+      "Reason": "OCR spelling variant of Adil Ahmad. Annual report profile and roster give the canonical spelling Adil Ahmad; recorded as the same FY2025 independent Board member.",
+      "Source_File": "HOSE_2025_VIC_Baocaothuongnien_2025.pdf", "Page": "79"
+    },
+    {
+      "Ticker_Local": "VIC", "Name": "Dy-Liacco Ibasco", "Decision": "SAME_AS_RECORD",
+      "Reason": "Truncated name variant of Ronaldo Dy-Liacco Ibasco in candidate extraction; record the canonical full name once.",
+      "Source_File": "HOSE_2025_VIC_Baocaothuongnien_2025.pdf", "Page": "79"
+    }
+  ]
+}

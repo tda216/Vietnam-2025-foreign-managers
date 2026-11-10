@@ -1,0 +1,783 @@
+﻿Ticker_Local,Name,Decision,Reason,Source_File,Page,Reviewed_On
+STB,Faussier Loic Michel Marc,NOT_FY2025,Phó TGĐ STB từ 27/03/2026 (AR 2025 p.15); TGĐ SSB 2023 nhưng không có trong roster SSB 2025 (TGĐ 2025: Lê Quốc Long),raw/docs/STB/HOSE_2025_STB_Baocaothuongnien_2025.pdf,15,2026-11-01
+CTG,Masashige Nakazono,NOT_FY2025,"có trong roster CafeF hiện tại, không có trong HĐQT 2025 (AR p.18, p.89 liệt kê đủ 11 TV trong 2025)",raw/docs/CTG/HOSE_2025_CTG_Baocaothuongnien_2025.pdf,89,2026-11-01
+FPT,Toshikazu Nambu,NOT_FY2025,TV HĐQT từ 16/04/2026 (Người Quan Sát 20/04/2026); AR 2025: HĐQT 2025 giữ nguyên 7 thành viên,raw/docs/FPT/HOSE_2025_FPT_Baocaothuongnien_2025.pdf,89,2026-11-01
+SSB,Vo Long Nhi (Andrew Vo),NOT_CORE_FY2025,"2025 chỉ xuất hiện là người được ủy quyền ký / 'Đại diện phần vốn góp của SeABank' (AR p.86, p.195); không có trong danh sách HĐQT/BKS/BTGĐ p.146; CafeF hiện ghi Phó TGĐ (sau 2025) – kiểm tra lại ở vòng tìm sâu",,146,2026-11-01
+DVN,Joseph Damond,NOT_A_MANAGER,chuyên gia bên ngoài được nhắc trong mục hợp tác quốc tế,,41,2026-11-01
+DPM,Louis T.Nguyen,NOT_FY2025,"chỉ có thù lao năm trước (năm nay '-'), không giữ chức trong 2025",,114,2026-11-01
+STB,Bouathong Sisavath; Bounyou Sisane; Chhuon Chhen; Ly Rotha,SUBSIDIARY_ONLY,"chức danh tại HĐQT Sacombank Lào / Sacombank Cambodia (công ty con), không phải chức danh tại công ty niêm yết",,129,2026-11-01
+HCM,(label on p.74),SAME_AS_RECORD,nhãn quốc tịch ở báo cáo quản trị p.74 là chú thích về Johan Nyvene (đã có bản ghi),raw/docs/HCM/2025_BCTHQT_HCM_Baocaoquantri_2025.pdf,74,2026-11-01
+HCM,Phan Quỳnh Anh,MISLINKED_LABEL,nhãn 'hai quốc tịch' ở p.4 là chú thích (*) về Johan Nyvene; bị gắn tự động với tên đứng ngay trước trong bảng,raw/docs/HCM/2025_BCTHQT_HCM_Baocaoquantri_2025.pdf,4,2026-11-01
+FIC,Nguyen Dix Loi Viee,OCR_NOISE,OCR của 'Nguyen Duc Loi – Vice General Director' (bản EN),,63,2026-11-01
+TKA,ĐH SG,OCR_NOISE,"viết tắt 'ĐHSG', không phải tên người",,29,2026-11-01
+VSF,Lưu Nguyễn ChíNhân Ph,OCR_NOISE,OCR tên Việt dính chữ,,7,2026-11-01
+VSF,"N, Huy Hw",OCR_NOISE,OCR hỏng trong bảng thù lao (bản EN),,79,2026-11-01
+DDG,Neuv6n Tri IIuG,NOT_FOREIGN_STATED,OCR of Nguyễn Trí Huệ; 'Nationality: Vietnamese' (AR p.12),,12,2026-11-01
+DDG,Trin Tharnh DIne,NOT_FOREIGN_STATED,OCR of Trần Thanh Dũng; 'Nationality: Vietnamese' (AR p.13),,13,2026-11-01
+STD,Biomass JSC,NOT_A_PERSON,company name 'CTCP Dr Biomass' in a CV,,31,2026-11-01
+VCF,Marcel Coronel,NOT_A_MANAGER,founder of the Coronel factory in 1968 (company history),,4,2026-11-01
+MPC,Le Thi Minh Phu,NOT_FOREIGN_STATED,"'Nationality: Vietnamese' (EN AR p.23, checked on page image)",,23,2026-11-01
+MPC,Lê Thị Dịu Minh,NOT_FOREIGN_STATED,VN-style name flagged only by mis-linked label,,21,2026-11-01
+ASP,(label on p.19),SAME_AS_RECORD,labels on p.19 belong to Kobayashi Naoki / Sakamoto Shinichiro / Vietnamese executives,,19,2026-11-01
+FTS,(label on p.16),SAME_AS_RECORD,label belongs to Kenji Nakanishi,,16,2026-11-01
+APH,Nirav Sudhir Patel,NOT_FY2025,Thành viên HĐQT miễn nhiệm ngày 29/5/2024 (AR p.57),,57,2026-11-01
+BVS,TATSUO TAKAMA,NOT_A_MANAGER,bác sĩ khách mời hướng dẫn sơ cứu (AR p.93),,93,2026-11-01
+CTD,Kanat Tumysh,NOT_A_MANAGER,Đại sứ Kazakhstan (sự kiện),,11,2026-11-01
+CTD,Shovgi Kamal Oglu Mehdizade,NOT_A_MANAGER,Đại sứ Azerbaijan (sự kiện),,11,2026-11-01
+HBC,Bader Almatrooshi,NOT_A_MANAGER,Đại sứ UAE (sự kiện),,74,2026-11-01
+HBC,Oknha Kith Meng,NOT_A_MANAGER,Chủ tịch Phòng Thương mại Campuchia (sự kiện),,74,2026-11-01
+KBC,Mitsuo Sakaba,NOT_A_MANAGER,Đại sứ Nhật Bản (sự kiện),,27,2026-11-01
+LCG,Lie Dhamadinna Swan Tju; Nadya Putri Amalia Sudono; Christopher Putra Dharma Sudono,NOT_A_MANAGER,"người có liên quan (vợ, con) của TV HĐQT",,105,2026-11-01
+DHG,ML Tevtn Morthare,OCR_NOISE,OCR sơ đồ tổ chức,,22,2026-11-01
+SHB,Haroon Anwar Sheikh,NOT_FY2025,miễn nhiệm ngày 25/4/2024 (AR p.240),,240,2026-11-01
+SKG,Bruce Ting Siaw Lung; Eric Yee Kuok Enng,NOT_A_MANAGER,"người có liên quan (em rể, anh rể) của TV HĐQT",,20,2026-11-01
+SSI,NguyÅn QuÑc C,OCR_NOISE,lỗi font (bảng chữ viết tắt),,2,2026-11-01
+MTG,NGUYỄN HỮU MINH HẢI,NOT_FOREIGN_STATED,"'Quốc tịch: Việt Nam' (p.12, checked on image); automatic link to 'Nhật Bản' was a column shift",,12,2026-11-01
+MTG,LƯƠNG VĂN KIẾM,NOT_FOREIGN_STATED,"'Quốc tịch: Việt Nam' (p.13, checked on image)",,13,2026-11-01
+SAV,Nguyễn Huỳnh Nga,NOT_FOREIGN_STATED,"'Quốc tịch: Việt Nam' (p.16, image); label 'Hàn Quốc' belonged to Song Jun Hong",,16,2026-11-01
+VCB,Alexander Osterwalder,NOT_A_MANAGER,diễn giả hội thảo,,36,2026-11-01
+VGI,Boviengkham Vongdara; Chakil Felizardo Aboobacar; Grace Wang,NOT_A_MANAGER,quan chức/doanh nhân bên ngoài được trích dẫn,,36,2026-11-01
+TNG,Ashwin Chandran,NOT_A_MANAGER,Chủ tịch CITI (Ấn Độ) được trích dẫn trong phần thị trường,,2,2026-11-01
+VPL,Satrio Kav,NOT_A_PERSON,địa chỉ 'Jl. Prof Dr. Satrio Kav 18',,100,2026-11-01
+VPL,Jurgen Peter Dorr,NOT_FY2025,TGĐ miễn nhiệm ngày 12/11/2024 (AR p.95),,95,2026-11-01
+TCB,Mukesh Pilania,SUBSIDIARY_ONLY,Chủ tịch HĐQT Techcom Life (công ty con),,47,2026-11-01
+TCB,Mag Rec Soc Oec Romauch Hannes,NOT_FY2025,TV BKS đến 20/4/2024 (AR p.186),,186,2026-11-01
+TNH,NguySn H8u; NguySn Th5 Thùy Giang; NguyZn Th; NguyZn VBn Chuân; NguyZn VBn Th2y; Ph3m VOnh H0ng; Tr5n Cao VX; Tr3n NgBc Minh; Tr5n Ng9c Minh; Tr5n Thi-n Sách; Tr06ng VBn Qu,OCR_NOISE,lỗi mã font trong lớp text (tên Việt),,26,2026-11-01
+BSL,Nguy8n Thanh'ThQy,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,32,2026-11-01
+BTV,Nguyễn Qu2c DBng,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,15,2026-11-01
+BTV,Nguy7n H4u Phư2c,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,34,2026-11-01
+BTV,Nguy7n Ng8c Hoài Nguyên,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,14,2026-11-01
+BTV,Nguy7n Phư2c B,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,14,2026-11-01
+BTV,Nguy7n Qu,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,14,2026-11-01
+BTV,Nguy7n Thụy Hồng H5nh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,37,2026-11-01
+BTV,Nguy7n Văn Ng8c,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,14,2026-11-01
+CSC,TY C6 PHẨM TẬP BOAN COTANA,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,16,2026-11-01
+CSC,TY C6 PHAN TAP DOAN COTANA,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,22,2026-11-01
+CSV,Le Thanh Binh's Curriculum Vitae,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,119,2026-11-01
+DAN,Dinh Xu6n Hdn,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DAN,Nguy6n Qu6c Thdng,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DAN,Nguy6n Thanh Thdo,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DAN,Nguy6n Thiry Dung,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DAN,Nguy6n ThiThiry,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DAN,Nrluy6n ThiY6n Nhi,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+DDG,Neuv6n Tri IIuG,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+DKG,Le Qryt So'n,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,78,2026-11-01
+DNM,X3 NHEE,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,19,2026-11-01
+GKM,Nguy6n Anh Tu6n,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,9,2026-11-01
+GKM,Nguy6n Anh TuSn,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,14,2026-11-01
+GKM,Nguy6n C6ng Duy,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,18,2026-11-01
+HSP,Nguy6n Ivlinh Dric,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,11,2026-11-01
+HSP,Nguy6n Minh Dric,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+HSP,Nguy6n M4nh Eric,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+HSP,Nguy6n Nggc Anh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,9,2026-11-01
+HSP,Nguy6n ThiQn Ai,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,9,2026-11-01
+HSP,Nguy6n Xudn Cuong,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,9,2026-11-01
+HSP,Ph4m Thi Huy6n,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+HSP,Vucrng Tu6n Anh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+LGL,H’ra Plên,NOT_A_CANDIDATE,"tên theo dạng tên dân tộc thiểu số Việt Nam (dấu nháy làm sàng lọc bắt nhầm); như mọi tên kiểu Việt, không phải ứng viên – quốc tịch không suy từ tên",,93,2026-11-01
+NRC,Nhat’s Related,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,52,2026-11-01
+SPB,I'hatn Van',OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,57,2026-11-01
+SSI,NguyÅn QuÑc C,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,12,2026-11-01
+TNH,NguySn H8u,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,28,2026-11-01
+TNH,NguySn Th5 Thùy Giang,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,26,2026-11-01
+TNH,NguyZn VBn Th2y,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,66,2026-11-01
+TNH,Ph3m VOnh H0ng,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,74,2026-11-01
+TNH,Tr5n Cao VX,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,74,2026-11-01
+TNH,Tr3n NgBc Minh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,27,2026-11-01
+TNH,Tr5n Ng9c Minh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,26,2026-11-01
+TNH,Tr5n Thi-n Sách,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,66,2026-11-01
+TNH,Tr06ng VBn Qu,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,74,2026-11-01
+VIC,Đn Th0 HIng Vân,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,43,2026-11-01
+VIC,D47ng Th0 Hoàn,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,42,2026-11-01
+VIC,Mai H47ng N,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,42,2026-11-01
+VIC,Nguydn Di6u Linh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,41,2026-11-01
+VIC,Nguydn Vi6t Quang,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,41,2026-11-01
+VIC,Ph3m Nh8t V,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,41,2026-11-01
+VIC,Ph3m Thu H,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,41,2026-11-01
+VIC,Ph3m Thúy HHng,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,41,2026-11-01
+VIC,Ph3m V1n Kh,OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,106,2026-11-01
+VIC,"Tri6u, Ph",OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,162,2026-11-01
+VNG,"P1, P2",OCR_NOISE,tên chứa chữ số/ký hiệu – lỗi OCR hoặc mã font của tên tiếng Việt (rule-based),,106,2026-11-01
+SKG,Kong Mee Ling; Puan Chiong; Puan Zuo Hong,NOT_A_MANAGER,"người có liên quan (chị dâu, anh trai, con trai) của TV HĐQT",,,2026-11-01
+VGI,Tan Su Shan,NOT_A_MANAGER,CEO DBS được nhắc trong bảng xếp hạng Fortune,,,2026-11-01
+SAV,Song Jae Ho,SAME_AS_RECORD,cách viết khác của Song Jea Ho (đã có bản ghi),,,2026-11-01
+TRA,TRẦN TÚC MÃ,NOT_FOREIGN_STATED,AR p23 (image): Quốc tịch: Việt Nam; the 'Hàn Quốc' hint belonged to the next column (Chung Ji Kwang),,23,2026-11-01
+TRA,Lee Tae Yon,NOT_FY2025,"TV HĐQT, miễn nhiệm ngày 12/4/2024 (AR p53)",,53,2026-11-01
+TCB,Lee Boon Huat,NOT_FY2025,Thành viên HĐQT đến ngày 20 tháng 4 năm 2024 (AR p186),,186,2026-11-01
+TCB,Alexandre Macaire,SAME_AS_RECORD,short form of Alexandre Charles Emmanuel Macaire,,96,2026-11-01
+TCB,Alexandre Charles,SAME_AS_RECORD,part of Alexandre Charles Emmanuel Macaire,,100,2026-11-01
+TCB,Nikki Đặng Mỹ Quyên,NOT_A_CANDIDATE,Vietnamese name with an English first name; no nationality stated (name screening only),,147,2026-11-01
+BIC,Gobinath Athappan,SAME_AS_RECORD,short form of Gobinath Arvind Athappan,,45,2026-11-01
+BIC,Brich Bophang;Chea Chan Pov;Vann Charles Chuon;Hang Chanthou;Taing Sok Hoeng,SUBSIDIARY_ONLY,shareholder / board of the Cambodian subsidiary (AR p32),,32,2026-11-01
+BIC,Saychit SIMMA VONG;Kalaketh SOUTTA VONG;Phonesavanh SIMMALAY VONG,SUBSIDIARY_ONLY,board / management of the Lao subsidiary Lao-Viet Insurance (AR p31),,31,2026-11-01
+PCG,Wu ZhiJun;Zhu ZhiLin Rii,NOT_A_MANAGER,named only in a related-party loan table (AR p19); no position at PCG stated,,19,2026-11-01
+PCG,HĐQT Yang XiaoDong,SAME_AS_RECORD,OCR join of 'HĐQT' + Yang XiaoDong,,27,2026-11-01
+HLB,Daisuke Komofo;Daisuke Kotomo,SAME_AS_RECORD,OCR variants of Daisuke Komoto (image p23),,23,2026-11-01
+WSB,Tan Teck Chuan Lester,SAME_AS_RECORD,recorded,,37,2026-11-01
+STG,Lee Kian Huat,SAME_AS_RECORD,recorded as Lee Kian Huat (Peter),,22,2026-11-01
+GEG,Simon Wilson,SAME_AS_RECORD,short form of Simon Mark Wilson,,56,2026-11-01
+GMD,Shuntaro Iida,SAME_AS_RECORD,name order variant of Iida Shuntaro,,20,2026-11-01
+TKU,Chen,SAME_AS_RECORD,"OCR fragment of 'Chen, Tsu'",,17,2026-11-01
+MSH,FRANCK LIGHINI,NOT_FY2025,"QA 2026-11-01 (page image): Tổng giám đốc '(Bổ nhiệm kể từ ngày 06/01/2026)', Quốc tịch: Pháp; no 2025 position at MSH stated in the AR. Record removed from manager_records.csv",raw/docs/MSH/HOSE_2025_MSH_Baocaothuongnien_2025.pdf,35,2026-11-01
+AAM,Gidy CNDKHN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ABS,VTNN Ill,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ACB,ACBS ACBA;Australian Insti;HDTV ACBC;HDTV ACBS;Til Bas,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ACC,TRACHNHIEM HOUMA,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ACG,Corrective Action Request,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ACM,Atftendac Voting Reasons,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ADG,Clever Grou,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+AGM,Angimex Furious,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+AGP,Dietary Supplements,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+AIG,MGCA FOODCO;MGCA MEDICAPTE,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ALT,Defining Accountability;Diagnostic Imaging,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+AMS,AMECC ENACTED,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ANT,General Director Lavi Ilmi;Lavi Ilmi;TMHH Kiden;Ylang Agri,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+APP,Iong Uram,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+APS,Successful Go-live,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+APT,Titin Dtng,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ARM,TCTY HKVN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ART,Artex Secr;Bd Biri Thi Quj;Mr Trinh Thalh Luug;Staudirrg Vicc Chairman;Tlri Trfr,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+AST,Taseco Airs;Taseco Taseco Airs,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ATG,Gcncral Dirculur,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BCC,Gana Vel,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BCE,CURA Glin,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BCG,Bambaa Caplail;Bamhuo Capitai;Hambhna Canital;Hambua Canital;Hamlbng Canital;Hix NSHH;Wlnd Enaor;Wmil Siic,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BCR,HAVE BEEN FOUNDING MEMBERS;Underaged Child;Xelatsxi Orgsnfzwion,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BDG,Nomination Candidacy,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BFC,Diamoni Photphat,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BGE,Ai WIRE Receipt;Aurai Wind Subsidlary;BCGE Cviikgddr;Campany Baard;Cee Insider Director Flace;Chper Salar;Chu Jlut Homiel;Cmnany Buard;Cnmpany Baard;Compnany Bnard;Cornoratian Khfflpr Directors Place;CTCPBCG Wid;Dirncs Reappointed;Eem Violet;Elsetrieily Sihmi;Enerey Taint;Gf Iegue;HAVE BEEN;Herb Solar Related Directorin;Linired Supervisort;Rsai Cammwne Ciia;Tra Thanh Enerey Jeint,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BHG,Legend Highland,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BHN,Miguel Yamamura;San Miguel Yamamura,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BIC,Colombo Sri Lanka;Sri Lanka,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BID,Gangnam Seocho,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BKG,Jade De MAICHAU,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BMC,Bmnh Djnh;Bmnh Dnh,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BMI,Sompo Japan Nipponkoa,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BNA,Semi-annual Teport,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BSD,Kimberly Clark,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BSG,Kumho Samco,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BSP,Nguyen Thi Huone Gians;Pallet Usage;Phti Thg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BSQ,San Miguel Yamamura,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BTV,Meetings Incentives Conferences,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+BVS,Pioneer Enterprises Committed,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CC1,Credit Institution Guarantee Letter;Pengerang Refinery;Public-Private Partnerships;STRENGTH WITHIN SUCCESS AHEAD,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CDC,Asa Homeland,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CEO,CEOHOMES DIAMOND HILL;CEOHOMES HANA;CEOHOMES SUNNY;Sonasea Silk;Sonasea Silk Path;Sonasea Sparkling;Sonasea Van Don Harbor;Townhouses Shophouses,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CFM,Ameri Cosmetic,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CHS,Vinnitsa Polytechnic,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CII,Bocrd KHAHOMEX;Bocrd Membser;Bocrd Resoluiion No;Boord Investmen;Decr Shoreholders;Deputy Generdl Direc;Deputy Generol Direc;Developmernt Investmen;Direrlors Supnervisoars;Fnanee Deporiment;Genernl Dinectr;Generol Assessmen;Generol Direc;Ha Noi Highwoy Consiruciion;Heputy Gereral Dirertar;KHXU EUNG NINE GETCODANE;Ligbilly Compeny;Meeling Regson;Mizuho Capelo Holdngs;Nhi Xuon Indusiridl Clusier;Plonning Depdrtmen;Preparer Ghief;Residenfidl Ared Working;Rogds Inves,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CLM,KHOLKINE DOANE,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CLX,Cholimex TVHDQT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CMG,Harvey Nash,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CMP,XINGHIEP DICHVU,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CMS,TRERNG Undergraduate,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CNN,NQTM CONINCO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CRV,Last Six Months,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CSC,Cotana Captal,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CSI,NHTMCP VPBANK,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CSM,Bus Radial Tire;Passenger Car Radial Tire;RELIABLE COMPANION;Welding Electrode,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CSV,Alkali Cooling Equipment;Bao Loc Bauxite Mine;Brine Pump;Dien Fused Magnesium Phosphate;Liter Enamel Reac;Securing Futures;Soda Cir,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CTD,Insead Alumni;Notz Stucki,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CTF,Volswagen Teramont;Volswagen Viloran Luxury,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CTG,RRTK RRLS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CTR,Luw Archived,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+CTS,EMPOWERING SUCCESS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DAH,Biological Father;Sex Male,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DAT,Aquatic Feed Enterprise Sao,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DBD,Panel Pass,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DC4,DICERA WINDOW,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DCM,Adina SXRD;Ceornuchia Ghd;CHRO Gorn Se;FIECST HFIEI;Lead Indenandent Dusetorl;Nine Liim;Pda Chace Urug;Re Seis Giese;Spam Bion Bana;Thar We MEST;Theo Expert Morket Receorch;Woe Kol,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DDG,Europa Window;INDOCAINE IMEX,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DDM,River-Sea Combined Transport Enterprise,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DFC,HOIDONG QUANTRI,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DGC,Admini Accoun Domestic Materia;Yuu Bich Bob,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DGW,Truly Market Builder,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DHD,Traphaco Sapa,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DIG,Cap Saint Jacques,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DL1,Aipha Seven;Alnha Seven;Alpnha Seven,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DLR,DALAT REALCO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DND,IWAKI PUMPS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DNH,Crane Trucks;Da Mi Reservoir Dams;Dry Ice Machine;Dry Ice Machines;Groundwater Measurement;Ham Thuan Reservoir Dams;High-Pressure Air Compressors;Hydraulic Pump;Imaging Cameras;Packages Using;Pneumatic-Driven Hydraulic Pump;Pneumatic-Driven Hydraulic Pumps;Seater Cars;Seater Vehicles;Thermal Imaging Cameras;Ton Crane Truck Equipment;Ton Crane Trucks,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DNW,Protestant Church Xuan Loc,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DP1,Sanofi Synthelabo,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DP2,Penicilin Cephalosporin,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DP3,Nguyinr Bick Hohe,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DPR,CDCS NTCS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DRH,Derson Derson;ENBDDE Organize;Sng TIXH,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DRL,PDKH LCNT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DSD,Ref Amending;Ref Approving;Ref Finalizing,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DSE,Aha Slides;Helsinki Finland,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DSN,Joinl Stocklreladed,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DTA,Braneh Braneh;Remunerafio Tofal,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DVC,Bd Ddo Thi Tdm,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DVM,Amera Medicinal Extracts;GERMAN DELEGATION,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DXG,Opal Skyline,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+DXS,Primo Estates,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+EIC,Lower Sesan,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+EMG,Bti Ltir,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+EVF,Stirling Seotland Anh;UBQLRR UBCL,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+EVG,Crystal Holidays Harbour,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FBC,IRRRRDNIINN HENGG,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FID,Bongl Direcfors,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FIT,Today Cosmetics,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FPT,BDMD Aumoria,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FRM,Diged Tenn,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+FTS,Roppongi Minato,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+G36,DOUBLE SUGAR USED KONG,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GAS,TMICP Bal Ching,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GCB,PETEC BIDICO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GEE,CADIVI EMIC;EMIC THIBIDI;GELEX Elextric;GELEX GELEX Electric,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GEG,JERA Nex Singapore,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GKM,Hiru Phrl,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GMD,Jalan Batai Laut,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GMX,Rxe THPE,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+GSP,BIMCO Shelltime;Shamrock Jupiter,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HAC,Natonal Ciizen;Vienam Mariime,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HAN,BCNCKT TKBVTC,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HAS,Aceoumting Departmieint;Ceneral Lrector;Fuwectional Blocks,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HBC,Luis Obispo;Managing Director Newlight Advisors;Newlight Advisors,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HBD,Mai Ynn Biih,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HC1,Cornpany Qperations,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HCD,Percemage Reasons,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HD2,Dng Trk,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HDC,HGDECO FAMILES TENNIS CHAMPIONSHIP,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HDM,Zo GANU,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HGM,Cao Bang Cast Iron,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HHG,Annual Gerreral Nrlcctirrg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HHS,Customer Experience Coordinator Pullman;Old Ship Dismantling,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HID,Annuadl Qeneradl Meelng;Depufy Tinance;Generadl Meetng;Qperating Regioris,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HNF,Iudit Commiuee;Ludit Comunittee;Qne Alemnber,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HNG,HAGL Agrico,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HOM,Silicate Chemistry,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HPB,Bart Kiim;Batr Girm;Nguyih Thty Hi;Nguyiin Phucmg Thio;Trin Thi Tbaah Hucmg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HPX,Ban Tiing Clam,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HQC,MISA AMIS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HRC,Vil Quang Khiii,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HT1,Cardiff Metropolitan;Limestone Mine,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HTG,Inormation Discloser,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HTI,STEADY GROWTH REACHING HIGHER;Vinacontrol Conformity,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HTN,Deluxe Taxi,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HUT,Carpla Auto Parts,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HVA,Dismissedas Universtty,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+HVN,Available Freight Tonne Kilometers;Cabin Crew Division;Flight Crew;VATM TCTQLB,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ICF,Andif Cominiftee;Poliey Subeonunittee,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ICN,Directors IDICO CONAC,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ICT,Nexia ACPA,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+IDP,Left Brain Connectors,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+IMP,Abbott Laboratories;Daewoo Hanel;INTERACTIVE ICON,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+IPA,Carnegie Mellon,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+ITA,Adhance Paymenf;Advance Paymem;Ippointed Ar;Kzy Aecording;Older Sister;Younger Sister,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+JOS,Dienr Htrng;Phrl Dring,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+KDC,Lavenue Crown;UCLA Anderson,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+KLB,Vietcombank Vietcredit Timo,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+KSB,Titan Pigment,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+KTL,Reasonableness Legality Honesty;Thdng Lorg;Validity Legality,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+KTS,Spreading Brand Value Affirming;Sugarcane Crop Dr,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+L14,Cardiff Mefropolitan,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LAI,Assigning Duties;XNVL IDICO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LAW,XNCN XNCN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LBE,Suuag Slunl,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LDG,Audif Conumiiffee;No Adif Cornniftee,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LDW,Delegate Eligibility Check;HAVE BEEN FOUNDING MEMBERS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LG9,KHKT Cieneo,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LGL,Gala Dinner,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LIX,Mua Javel Soude,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LLM,Pwfy Geneml,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LM7,Audil Comunillee Director;Directorx Raardl,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LMI,LAMA IDICO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+LSG,Dai Phuoc Oasia Swan;Oasia Swanbay,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MBB,Baest Regardsi,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MCC,High-class Brick;High Grade Brick Tile,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MCH,Keep Dreaming Keep Going,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MCM,Del Monte;Fidel Castro;MOCCHAU MILK;Vinamilk Dairy Philippines Inc,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MCP,Nhmber Percenfage;Trinh Aocounting Ofcer,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MED,Mediplantex National Pharmaceutieal Joinf;Mediplantex National Pharmmaceutical Joinf;Mediplantex National Phartmaceutical Joinf,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MGR,MLAND Northem,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MH3,Audift Commiftee Director,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MML,Keep Dreaming,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MPC,Minh Phu Aquatic Breed,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MSB,Stanley Gateway MSGS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MSR,MRTN NPMC;Oxit Bismut;Oxit Vonfram;Pink Hair;Starck Tungsten Powders;Witwatersrand Johannesburg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MTA,Thien Loc Animal Feed,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MVC,High-Grade Brick,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MVN,Vinalines Glory,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+MWG,Blu Elektronik,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NAF,Nafoods Passion;Redeemable Preferrence Share Buyback,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NAS,Check-in Lounge,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NDT,Demy Geneal Di;Nam Dinh Texile Ganrient;Texgile Qamment Chairman;Woollen Blanket One Member,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NHA,Advance Delivery,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NHH,Empioyee Slock;INHHDI VIDP,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NHT,Kimberly Clark,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NLG,Lippo Karawaci;Lippo Karawaci Indonesia;Mah Sing Berhad;SUSTAINING MOMENTUM,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NNT,PAIARDES Scada,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NQN,Combating Wastefulness;Filter Tank;Household Air Conditioners;Proposed Salary Levels;Pumping Stations;Quawaco Mixed-Use,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NRC,Far Beyond,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NSC,Absence Requests;Early Retirement Request;LOREM IPPSUM;Professor Academician Doctor;Promulgating Temporary Regulations;Seed Production Director Seed;Short-term Crop Seed;UBTW MTTQ,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NTH,Generdl Depdrten;Internallludit Team Alembers;Nuoe Trong Hidropower;Nuoe Trong Plydropower;Nuoe Trong Thdropower,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NTP,MISTUBISHI PLASTICS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NTT,Cerlification Body Accredited;Certibcatson Body Licensed;Giobal Recycl,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NVB,ENDURING EFFORTS;Pioneer Planet,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NVT,Audii Comimiitee;Audlii Commiifee;Execuive Managemeni;Execulive Managemeni;Touwrism Developmenf,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+NXT,EIIRRNITETDNH NHHDI,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+OCB,Stress Test,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+OIL,PVOIL Hanoi PVOIL Thanh;PVOIL Phu Yen PVOIL;When PVOIL,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+OPC,TSHH MMTB Con,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PAI,Tung PVPS PVPS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PAN,Agri Smile;Aquatex Bentre;Beans Bibica;Hulic Agri,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PAP,Ix TMHH,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PCT,Opec Vicfory,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PDB,EFDV Logistes Danang,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PDN,Southern Waterborne Transport Corpporation,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PDV,Gala Dinner,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PET,PHTD PSMT Pedaco,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PGB,Toulon Var,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PGI,HBBS VPBS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PGT,Akasaka Minato;Nahara Okinawa;Teechnical Pedagogy;Unaistributed NPAT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PGV,Qatar Gas Exxon Mobil,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PHC,Shilla Starlake,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PIA,Mibeiuii Miosisi,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PJS,Circ Nghr;Pl-ru Iloa,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PMB,Gencral Mccting;Thc Iloard,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PMC,Qng Nguyen Tien Sv,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PMW,Ngudi PTQT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PNC,Clear Unilever,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PND,Big PEEHTEHHH BEHMIG,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+POB,PVOIL EASY,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+POM,Older Sister,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+POV,PVOIL Vting Ang;PVOIL Vtmg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PPC,Adjusted Cost Estimate;Approve Budget Adjustments;Bidding Packages Serving Business;Boiler Tube Length Change;Dry Season;Hire Consultants;HSMT KQLCNT;Surveying Preparing,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PPS,BKSI Posiions,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PRC,KHDN Oeeanbank,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PSE,Pham Hodi Hucrng,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PSH,Petroleun Business Deparimenf;Transacion Transactfion,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PTL,Andlif Cormnitfee;Auif Commiffee;Aulif Cornuniffee,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PTM,General Director Have Served,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PTX,Guiding Reference;MENT INITIATIVES SUCCESSFULLY ACHIEVE,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PVD,Expanrdahie Liner;Exparidahie Liner,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PVS,PIVOTAL YEAR MARKING,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PVT,Shamrock Jupiter,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PVX,NMND Djch,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+PVY,Meimbers SBIC,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+QNS,Ouong Quang Ngdi,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+QTP,Preparer Chief Accou,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+RCC,HIGH SPEED RAIL;High-speed Railway,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+RCL,TTNT LECADE,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+REE,Jardine Matheson,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+RGG,Shophouse Dragon City-Park,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SAS,IPPG DAFC,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SAV,Seocho-Gu Seoul,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SBD,Ciseo Nexus Hyperfabrie Ciseo;Exectdive Oificer,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SBH,PCLB PCTT;Refrigeration Electrical Engi,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SBT,Biological Brother;Remaining Unsubscribed Bonds;Taipei Fubon Commercial;Tatler Most Influential;Viee Presidenf;Wock Comporp,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SBV,VPDD Gold Success,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SD3,Coimany Seerelar;Decisiona Iseued;Evecuttue Bourd;Exeeutiue Boord,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SED,English Teaching Methods;KTTV NXBGD,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SFG,Inorganic Chemistry;Welding Electrode,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SGN,Cam Ranh Ground Serviees;Curreni Jjob;Ground Serviees;Hanoi Ground Serviees;Saigon Ground Serviees;Saigon Growund Serviees Joimt,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SGR,SAIGONRES TRAIDING,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SGT,Ty Taisei Corperation,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SHA,Direclors Were;Vietmamese Aceoumting Standards,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SHB,Ave Hatsadytai;Carry Coca-Cola;Clearly Defined;Directors Without Compromising Their;Edith Cowan Australia;Greater Heights;Targeted Financial Sanctions Proliferation,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SHE,Nationality Vietnainese,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SHI,Coca-Cola Bluescope Building FPTS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SIV,METATECH MITEK,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SKG,Kaibouk Shipyard;Kaibuok Shipyard,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SKH,Cam Thinh High-end Bird;High-end Bird;Hoa Sanest Soft Drink;Khanh Hoa Salanganes Nest;Khanh Hoa Sanest Soft;Technician Nha Trang Vaccine,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SMB,Krong Buk,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SMT,None None,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SPB,Pass Itatc;Phu Ilai Yarn Joir-rt;Stoch Cornpany;Surnmary Rcport;Tl-re Boarcl,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SPC,Aquatic Breeding,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SPD,Seanrodex Dananal;Seaprorlax Danana,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SPM,Audif Comimiliee;Chief Execulwe Officar;Depify Diracfor;Ganeral Diractor;Ghiaf Executivna Officer,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SRF,Searee Greenpan,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SSB,KHDN KHDNL;UBQLRR UBNS;UBQLRR UBNS UBCN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SSC,Newsun Cropscience,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SSI,Aryxual Generai Mieeting;Audlit Corntriltee Econnmics;Audlt Cornnittee;Dahwa Capsal;Deuelopment Coryrnittee;Genexai Moetlrg,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STC,GENERAL DIRECTOR HAVE BEEN;PRIMEGL OBAL,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STD,San Miguel Yamamura Packaging;San Miguel Yamamura Phu;Sanmiguel Yamamura,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STG,CARVRE SEVEN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STH,Pearson Edexcel,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STK,Fully Drawn Yarn;Partially Oriented Yarn,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+STT,Minato Indenende,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SVD,Bd Phpm Thi Phu-ong,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SVG,DAIHQTDONG CODONG,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SWC,Vietranstimex Multimodal,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SZB,HAVE BEEN FOUNDING MEMBERS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+SZL,Sor-adczi Log,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TAB,EFULL NAME POSITION NUMBEROF;Yabashi White Limestone Mining,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TAL,Jalux Taseco,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TBC,Middle Cracked Spillway Piers,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCB,Bina Dana Arta Tbk;Finastra Las;Franklin Templeton Investments;Globe Fintech Innovations Inc;Macquarie Sydney;OCBC NISP;Twin Turbocharger;Vegas Sands Wolters Kluwer;Warburg Pincus New York,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCD,Cmstruuetion Eloldings,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCL,Saigon Newport Colporation,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCO,Audi Cominiffee;Direclors Chainman;Euste Subsiaiar;Imternal Momthiy;Imternal Momthiy Adance;Imternal Monthiy;INDIRA GANDHI;Irnternal Momthiy;Trnternal Monmthiy;Trternadl Momthiy,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCR,Beijing Xianhao Plumbing Equipment;CPHH ENGAR;Guangdong Xinhui Xianhao Plumbing;Guangzhou Seagull Kitchen;Mstar Semiconductor Inc,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCW,Battery Charging Facility;Eyue Cormmpany General Meeting;Nsiue Comparty General Meeting,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TCX,Wealthtech Innovations,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TDF,Biological Child;Jan Jun;Younger Sibling,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TDG,IRFCTOROF TEAD,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TDM,Decision Dafe Confent Approvai;Dong Nai Wafter Suppiy;VADE Approving,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TDW,SAWACO CSKH,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TED,NCKT TKKT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TEG,Ainpk Camnanv;Canairucltan Jainf Stack Camipianf;Denntpt Generanl Direcfar;Direelors Direcinrs Truang Thanh;Dreciar Dhepmift;Eice Chuirman;Hirectnrs Miemiers;Pauer Jnim Atack Caimnanw;Pire Chaintmah;Siack Choinbani;Siack Cnmipeuny;Sunervitarv Raard;Supervisortr Badrdl;Supneruixurw Baourdl;Trudirng Wervicex,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TET,Rue Der Chats,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TGG,Angimex Furious;Titan Bidico,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+THS,CHIBF ACCOTJNTANT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TID,Nhcin Trch,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TLH,Idustry Secfor;Tine Arts,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TN1,Timi Biz,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TNG,Automated Guided Vehicles;Grove Oregon;Nebraska Lincoln,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TNH,Lintas Cakrawala;Prospect Inovations;Tani Indonesia Makmur,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TOP,TOPONE Allot,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TOT,Long An Invensment Single-Member;LSERDR RESENTATIVE;Tidle Ownership Rafio,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TPP,Inochi Studio,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TQN,Dng Thu Hucing,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TSD,DLTS COECCO,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TSJ,Sofitel Legend,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TTE,Clerical Assistamt;Imestment Departmem;Pary Commilee Secretary,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TTF,Confenf Approv,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TTS,Rolling Mill,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TV1,STRUCTURAL DIAGRAM,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TV2,PESE PESE;PPOM PPOM,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TV3,BVTC HSMT;BVTC HSMT SCADA;TKBVTC HSMT;TKCS TKBVTC;TKXD TKBVTC,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TVB,Nova Fiance,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+TYA,Cable Join Stocek Comipany;Taiya Iietnam Electrie Hire;Taya Electric Wire;Taya Electrie Wire;Taya Eleetric Iire;Taya Eleetrie Wire,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+UXC,Hy Achtevcd Grxdec Ax,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VAB,Valuable Papers,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VBB,Caisse Centrale Desjardins;Collaborative Efforts,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VC6,Nguyen Phfrn Tufrn,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VC7,Annual Generadl Meetng,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VCC,Concrete Mixer Truck;Concrete Mixer Trucks;Concrete Pump Truck;Converging Values Steadfastly;Decision Approving Advance Payment;Moving Forward,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VCI,Authorised Signatory;Geneva Switzerland;Quebec Montre,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VCS,THPT Phenikaa;Vicostone Phenikaa;VICOSTONE Vitoria Regia,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VDB,UBCKNN VSDC SGDCKHN,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VDL,Les Vergers Du Mekong,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VDS,Viva Engage,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VDT,OTCP Ludi Thdp Binh,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VEA,Sacombank VEAM;XDCB VEAM,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VET,Nova Thabico,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VFC,Cuong Vinafto Logisfies;Engmeer Bachelors;Formality Nhimber;NUND Absri;Pinancial Statemenis;Stlock Corporafion;Vinafco Vinafso;Vinafeo Cemtral Region,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VFS,Bon Tiing Girlm;Nguyin Du Phtrdng Bin,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VGP,Thc Boarr,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VGT,Dong Xuan Knitting Sole;VINATEX INSIDERS HOLD POSITIONS,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VHC,Aquaculture Feed,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VHL,Cotto Binh Duong Brick;Cotto Gieng Day Brick,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VIE,Vietnarn Posts,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VIG,Stanley Brothers,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VIH,Commilee Direelor,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VIP,MTYV Vipco,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VIX,Extraordinay General Meelting;Ki Xupervitory Iiosrd;Sedteaber Authorizaton,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VJC,Boeing Max;Galaxy Joy,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VKC,Vinh Khanh Plastc Cable,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VLB,Blasting Commander,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VLC,Angkor Dairy;Del Monte;General Director Angkor Dairy;Moc Chau Dairy Cattle;Vinamilk Dairy Philippines Inc,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VLW,Cdc Nghj,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VND,VNDIRECTOR VNDIRECT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VNM,Angkor Dairy;Le Cognac Des Vikings;UBNS UBKT UBLT,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VNR,Assigning VINARE;Swiss Re Nexus,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VNX,Phgm Qulnh Giang;Phpm Quj,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VNZ,UNIFIED WALLET PIONEER,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VOS,BKSI Afeceling;Branclt Memther;Che Aiemher Limifted Coampamty;Crencrul Hirei;Crnmnanvrx Chinter;Cuulpalts Boaed;Ehhriemtal Shipmmng;Eirmer Ruardl;Enitrmer Runnd;Fegal Denurimeml;Indenendeim Buard Mlemhers;Legdl Pianning Potnrtmeml;Resaurees Crgdnizarm;Superrisorit Ruard;Superuivttre Buurdl;Tenartinenl Heud;Tiet Mam Alaritir Cornaranan,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VPB,Douglas Mawson Nam;EMEA Division SMBC;Sprint Milestone,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VPH,Casa Bonita,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VPL,CIMA CGMA ACCA;Jefferson Blvd;Richard Ellis Philippine;VACPA VTCA,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VPX,Solvay Brussels,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VSA,Reviewing Submissions;Trfrn Tufrn Hai,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VSF,Adjusting Credit Terms;Appointing Officials;Authorizing Loan Borrowing;Certain Matters Discussed;Colusa Miliket;Fifth Edition,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VSN,Meat Deli;Meat Deli Sai Gon;Meat Deli Saigon,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VTH,Deeision Dafe Confenf Appro,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VTJ,Affendlance Main Confent;Appointmenf Dafe Qualj;Managernenf Sfructiire,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VTR,Vietravel Coppration,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VTX,HDEC DOOSAN;Repair Department Vietranstimex Multimodal,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VTZ,Rotdfion Moulding,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+VUA,Stanley Brothers,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+WSB,Revised Manual;Sanmiguel Yamamura,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+WSS,WALL STRFET,NOT_A_PERSON,"honorific-free name detector (03e NO_HONORIFIC): organisation, product, place, heading or OCR-garbled text, not a person's name (list reviewed 2026-11-01)",,,2026-11-01
+A32,Hd Ngsc Oanh;Hoing Mqnh Cudng;Phpm VEn Ht,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+AAS,IgA Wgiu Bayo Bunyo;Ueg Lonbu,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+AAT,BURY UR;EỌH Yue;INN URS;ION BH HUẸU;JON BH UEHU;NX UES Suộp;OOUVA VYOWS Ney;UgkNSU TEL OS OP;Vo Hig Rash,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ABC,ION BH ARL NO,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ABS,Gop Fuel Station;GOP PETROLEUM STORE;NL Neg,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ACB,SRR Tne ÔN HỘ;YoRS YUTYD Og;YoRS YUTYD Tues,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ADP,TDđH Twenty,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ADS,Dd Thanh Ttng;LA Xudn Chidn;Phsm Ngqc Phric;Vfr Huy Dric;Vn Huy Drtc,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+AGX,VO Hodng Bich Nggc,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+AMS,MINH HAS BEEN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ANT,Nong Ma-terials Joint,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+APP,Ddo Kim Thdnh;Ddo Kim Thdrnh;Ddro Thanh Hir;Hoirng Binh Ducrng;LO Nggc Todn;LO Nggc Todrn;NguySn Manh Hirng;NguySn Ph;NguySn Phri Quang;Phqm Quang Tirng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+APT,Biri TAn Einh Tru;Brii Vln Tirng;Ddo XuAn Dric;Ddo Xudn Dric;Ddo Xudn Eric;DiQp Phf Vinh Tru;Hodng Vdn V;LC Thi Thny Trang;LC Thi Thty Trang;LC ThiThiry Trang;NguySn Thdnh Vinh;Trinh Ngpc Thufln;Trinh Ngqc ThuQn;TrucmgTitin Dflng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ART,LC Thi Thucrng;NguySn Thdnh LC,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BBC,Aquatex Bentre High-Tech Fisheries;Clear Delegation;Cookies Goody;Cracker Gooka,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BDT,ONY OL;Suaty YusYyo,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BMC,Dinh Th Thu Hircrng;Nguyn H TirOng Vy;Nguyn Thj Hal Vi,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BMK,LÊ XUÂN MẪN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BNA,Tran Hangi House,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BSI,Đ B E,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BSP,Bni V;Bni Vdn Thidng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BTP,Ria Gas Turbine Power Station;Ria Thermal Power Joint,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BTT,ORS OFA UL,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BTU,Nguyễn ThanhBìnhh PhóTổngGiámđốc,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BTV,Thân HuBnh Kim Th,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BVL,COEHAN DVINVES;Urban Area,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+BWS,Nguydn Tidn Lang;Ria Water Supply;Tran Khdnh Link,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+C22,Trân Duy D B;Vũ Thị Minh H Tì BK,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CAN,ABA OUD UI,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CAP,Trinh's Son-,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CDC,Mon Central Package;Mon Pipeline Package,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CFV,Dodn Dinh Hdng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CIG,"Lan, Armenia, Georgia",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CII,Cdo Thi Ngoc Van Secre;Doœn Minh Thu Hecd;Duceng Truteng Hai;HaUyen Th Thu Tra;Le Pham Mgoe Phuarig;Nguyen Ven Thỉnh Tronsformotion Officer;Wang Xuan Tmo,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CLC,DT'ONG TITN;NgiiyỄn Höỳng Minh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CMG,Dng TUng So'n;Nguyn Phu'O'c Hal,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CMK,Vfi Vdn Thinh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CMS,N Hoang D,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+COM,PVOIL Lube,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CTR,Neg Jovi Buệu,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CTS,Ria Vung Tau Seafood Processing Import;TRIEU TRANSACTION OFFICE,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CTX,TrầnAnhHải TVHĐQTkhông,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+CVN,Dinh Clinic Joint,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DAD,TWA PHT,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DAN,L G Thang Binh;Lrru Qu;Prqm Thdi Ldng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DCM,Để Thi Hos Không Bnd;Lễ Bute Quang Thies;Nguyễn Đức Hanh TW HBGT;Nquyén Đúc Thuan Thiứmh;Thmo Eielw,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DGC,WYO POH ALN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DHA,"Hường, Phường Trảng Dài, TӍnh Đӗng",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DHM,Ngd Quang Phric;TrAn Nggc Hdn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DHN,YuROp Yury,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DIC,HIEU VA OLTOC XA HOl CONG,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DKG,Bti Vdn Tudn;Ddng D;Ddng Dric Minh;LC Quli Son,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DOC,Ngd Hulnh Minh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DPG,"Erom Decembcr;Gencral Dircctor;Gendcr Male;Genza Dircctor;Giender Male;Giender Temale;Iran Anh Tuan, Mr;Irom Apnl;Roard Membcr",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DTK,TOA PP SN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+DVC,Hd Ven Titin,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ECI,Collecting Written Opinions;Direclors Imeeftings,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+EMS,Bi Đuậc Bš Đhíi,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+FCS,LÀIĐL GUÀN TPHCM,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+FDC,CặHG J E-EE,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+GAS,CAs THUG MIỄN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+GKM,Diro Thi Qulnh;Edo Thf Qulnn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+GMC,MAITHANH TOL,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HAC,Compeay DNSHSSENG,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HAD,Bti Th;TrAn FIuy Lodn;Vfl Vdn Khoan,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HAG,Livestock Food,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HFB,Ld Htru;Rja Vting Tau,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HFX,Nguyễn Việt Dũng UV HIDQT,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HHG,Dinh Vdn Thg;LrLu Minh So'n,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HMD,Lpi Vin Ludm;Phpm Vdn KhAn;Phpm Vnn KhAn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HNF,Bài Tuấn Anh- Thn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HNR,TrfuI H,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HPB,Naai Vnn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HPG,"Nguyen Duc Anh, Team Leader",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HPX,Le Mph Hiing;Nguygn Vi't Dix;Nguy'Zn Ngoc Than',OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HRB,TrAn Dirc Giane;Trdn Dric Giang,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HRC,"BiIi PhU';NguySn Chan Cuemg;Rja-Kampong Thorn, Cong",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+HSP,Vuone Tudn Anh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ITA,Multi-specialty Surgery,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+KHD,Ngô QuangHuy ChủtehHÐĐQT,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+KTL,Hd Quiic Binh;Pham Hiru Htng;TrAn Vt Nggc,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+LAW,Trreng Mgae,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+LM3,Dinh Titin Thdnh;Dofln Thanh Tudn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+LO5,Biri ThanhPhong;Hodng Thi Phucrng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+MAS,"Nang, Phlfong Hoa CU'ong, Thanh;Nling, PhLYang Hoa CLYcmg, Thanh",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+MDA,HodngVin Eic,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+MDF,Duong Tan Thanh Đ Ebor,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+MEF,Ducrng Quang Dflng;TrAn Vdn Htng;Trdn Vdn Hung,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+MGR,Mai Dfc Hodn;Mai Dirc Hirng;Mai Dric Hodn;Mai Dric Hoirn;Mai Eric Hodn;MaiEfc Hirng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NBT,Lai New Bridge Grade,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NDC,Hodng Minh Chdu,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NDT,Bùi Minh Hạnh Managing Direcfor,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NJC,Phqm Vdn TAn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NO1,HEIJT Lirmg,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NQN,Che Water Treatment,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+NTC,NguySn Thi TriSu Tien,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PBT,ÔuU UỆUU UẸ,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PEC,NHƯ GgG HH ÔNG Ha NHG,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PHP,Trjnh Thj Ngcc Bin;Trn Thj Thanh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PJS,Ilodng Ngq,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PLA,Phirng Ngqc Quang;Vfr Cao Ducrng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PMW,Ddng Hong Ddng;DJng Hint;FMam Tin LuSn;Nguyen Thi Bdng Banti;NguyJn VSn Manh;Nguytn Thj Nhung,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PPC,Ria Thermal Power Joint,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PPY,"NgO Vdn NhiQm, Thinh;NgO Vln NhiQm, Gidm",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PSE,Trinh Vdn Chucrng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PVD,EAES CTPng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PVH,JộÁnb JplB JựO,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+PVX,Bui Scm Tnrong;Phimg Van SS',OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+QNS,Dang Phir Quj,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SBA,Joimt Stock;Joint Stock Companÿ;THE SOCIALIST REPUBLIC OF VIETNAM,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SBH,Ha Hydro Pow-;Ha Hydro Power Joint Stock Com-;Ha Hydro Power Joint Stock Compa-;Ha Hydroelectric Joint Stock Com-,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SBT,Anka Milk;Anova Milk;Brainstorming Mind-mapping,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SGD,Văn Thế Hiển IBII VIÊN SG,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SGN,Imternal Shareltolders,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SSH,Nguyen Thi Hong Hanh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SVD,Bti Einh TiQn;Vfi Hodng Nam;Vfi TuAn Phucrng;Vfl TuSn Phuong,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SVG,Ddo Vdn Df'c;Edo Vdn Erlc,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+SZL,OSHI HOCEO,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TAB,HOLDER PERCENTAGR,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TBC,Hydro Power Joint Stock,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TCJ,Dodn Minh Tt;LG Htrng Tin;Trd Cao Ldnh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TCL,Hodng Dti'c Thlnh;LG VIn Cu'dng;LO Vdn Cud'ng;Ngd Nggc Khdnh;Trfln VIn Trud'ng;Vfr Nggc Hufng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TCW,Nguyen Van Engineer Appointnent,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TDC,Pagoda Festival;TMEUH Siu Vek,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TDG,Dietog Resoluton No,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TEG,"Aknhane Seiii;Clampant Limitedl;Dao Xunn Dục Hearl;Eeecuite Baatd;Eimied Tiabilitp;Enerpy Grong;Entetpriae Aceounting;Exeeutive Offirers;EXERGY GRGUP;Ha Ngục IMinh BDD;Hoang Dinh Lai Mlernber Resigned;Hoang Manh Huy Cienernl LHrectnf Re-apphointed;Huang Manh Huy Gieneral Dirertor;Le Thuy Linh BDOš Mlembar;Tran Thi Hanh BOS Memher;Trang Warl, Hanni;Trng Wnrd, Hanal;Trung Waad, Hanni;Trung Wasd, Hanei;Trung Wfnrd, Hanni;Trung Wnrd, Hanni;Vieltainese Aeeounitintt Stamdnris",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+THS,"Pham Vdn Lgi;Phpm V;Phpm Vin Lgi;Vdn Einh Dflng;Vf, Mpnh Doin;Vfi Mpnh Dodn;Vfr Mgnh Dodn",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TID,Bng Thj;Mai Thj Thm Hng;Trn Tn Nh,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TIG,Stanley Brother,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TLG,Nguyễn Đình Tâm A NNu NhÀNhy,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TNC,"RỊA-VŨNG TÀU, L",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TOS,BOURBON KAIMOOK,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TQN,Dixang TrQng Hiêu- Tong;Duorng Vn Thcnn;Ta Ngc Vuçing;Ta NgQc Vtrng;Trn Van Scm,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TQW,Einh Dirc Tirng;Einh Efc Tung,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TUG,Dd Ngqr Thing,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+TV6,Nguyen Thi Truc Purchased Land Plot;Trade Edueational Pursuant,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+UDC,"BIA XUÂN B, PHÙ MỸ, BR-VT",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VBB,Ria Transaction Office,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VBH,Hdr Htvu Quang,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VCM,"TY CÓ PHẢN BVL, JƑE",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VCR,Tourism Urban Area,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VFC,Supervisorp Contmitfee,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VGP,"Dang Wnh Hirng;Dtng Wnh Hing;HsAng Hdi;Pham Nggo Gulnh;Pham Ngqc Qulnh;Pharn Ngcc Quynh;Phgm Ngqc Qulnh;Phir Thuan, TF",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VHL,"Dodn Tuq Minh, Mr;Hiru Gdm;LC Dric Tdi;Qudch Hiru Thudn;Vucmg V",OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VIB,Bean Paradise Highpoint Pty,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VIC,NGUYZN VIFT QUANG,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VIN,Nguyễn Duy Dũng TH PBSP DÓ,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VIP,Phí Tuyết Thanh IV BKSỈ,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VLW,Dng Tn Chin;Huç'nh Ngçc;Hu'nh Ngçc Chin;HuS'nh NgQc Chiên;Nguyn HO'u Blnh;Nguyn Hü'u Bnh;Nguyn Th Hng;Nguyn Thj Hng Nhung;Trn Thn Oü'c;Trn Tn DO'c,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VNI,Nguydn Thi H;TrAn LC HiQp;Vfr Ngqc TuAn,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VNS,Động Phuữnp Hoan Mai Ene,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VNX,Trinh Xudn Tudn;Vfl Ddng Khoa;Vfl Edng Khoa;Vfl EEng Khoa,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VOC,UCLA Anderson,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+VTS,NguySn TrAn Xufln Htng,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+X26,TYCÔ PRÀN,OCR_NOISE,"name screen hit that is not a foreign-looking person name: Vietnamese name garbled by OCR / legacy font, place, heading or organisation (list reviewed 2026-11-01)",,,2026-11-01
+ABR,(label on p.12),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,12,2026-11-01
+AMS,(label on p.10),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,10,2026-11-01
+AMS,(label on p.9),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,9,2026-11-01
+BVH,(label on p.176),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,176,2026-11-01
+BVH,(label on p.177),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,177,2026-11-01
+CTD,(label on p.52),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,52,2026-11-01
+DCF,(label on p.12),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,12,2026-11-01
+DHT,(label on p.33),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,33,2026-11-01
+IMP,(label on p.24),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,24,2026-11-01
+IMP,(label on p.26),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,26,2026-11-01
+IMP,(label on p.28),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,28,2026-11-01
+MCH,(label on p.128),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,128,2026-11-01
+MPC,(label on p.21),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,21,2026-11-01
+MPC,(label on p.23),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,23,2026-11-01
+NTP,(label on p.15),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,15,2026-11-01
+PCG,(label on p.28),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,28,2026-11-01
+PLX,(label on p.18),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,18,2026-11-01
+SSH,(label on p.14),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,14,2026-11-01
+SSH,(label on p.32),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,32,2026-11-01
+STG,(label on p.14),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,14,2026-11-01
+TCM,(label on p.26),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,26,2026-11-01
+TRA,(label on p.24),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,24,2026-11-01
+TRA,(label on p.78),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,78,2026-11-01
+TYA,(label on p.17),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,17,2026-11-01
+TYA,(label on p.39),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,39,2026-11-01
+VC6,(label on p.17),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,17,2026-11-01
+VDG,(label on p.20),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,20,2026-11-01
+VNR,(label on p.11),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,11,2026-11-01
+VNR,(label on p.9),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,9,2026-11-01
+WSB,(label on p.37),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,37,2026-11-01
+WSB,(label on p.39),LABEL_PAGE_REVIEWED,page reviewed on the image: labels belong to recorded persons or are listed in label_page_checks.csv,,39,2026-11-01
+RIC,Juan Cheng I,NOT_A_MANAGER,AR p21: foreign partner of the 1994 joint venture (quốc tịch Đài Loan); no 2025 position at RIC stated,,21,2026-11-01
+RIC,Juan Chi Fa;Juan Hsiao Mei,NOT_A_MANAGER,AR p27: listed only as shareholders,,27,2026-11-01
+ND2,Yusuke Aichi,OCR_NOISE,"AR 2025 p4 OCR merged ""Yusuke … Takahashi"" with his home prefecture Aichi (CV: Nguyên quán Aichi); same person as record Yusuke Takahashi",,4,2026-11-01
+TCM,Kim Jong Gak Thánh,SAME_AS_RECORD,"OCR of ""Kim Jong Gak Thành viên độc lập"" (AR 2025 p83); recorded as Kim Jong Gak",,83,2026-11-01
+PGT,Director Kakazu Shogo Chairman,SAME_AS_RECORD,OCR/heading variant of Kakazu Shogo (recorded),,,2026-11-01
+PGT,General Director Kakazu Shogo,SAME_AS_RECORD,OCR/heading variant of Kakazu Shogo (recorded),,,2026-11-01
+PGT,Directors Ryotaro Ohiake,SAME_AS_RECORD,OCR/heading variant of Ryotaro Ohtake (recorded),,,2026-11-01
+BGE,Mr Ng Wee Siong,SAME_AS_RECORD,"OCR/heading variant of Ng Wee Siong, Leonard (recorded)",,,2026-11-01
+BGE,Np Wee Sionp,SAME_AS_RECORD,"OCR/heading variant of Ng Wee Siong, Leonard (recorded)",,,2026-11-01
+BGE,Wee Siong Chairman,SAME_AS_RECORD,"OCR/heading variant of Ng Wee Siong, Leonard (recorded)",,,2026-11-01
+APG,TEE CHUN,SAME_AS_RECORD,OCR/heading variant of Ong Tee Chun (recorded),,,2026-11-01
+MWG,Robert Willett,SAME_AS_RECORD,OCR/heading variant of Robert Alan Willett (recorded),,,2026-11-01
+VJC,PHILIPP RÖSLER,SAME_AS_RECORD,upper-case variant of Philipp Rösler (recorded),,7,2026-11-01
+VJC,Philipp Roesler,SAME_AS_RECORD,spelling variant (oe) of Philipp Rösler (recorded),,66,2026-11-01
+TMS,Charvanin TT,SAME_AS_RECORD,OCR variant of Charvanin Bunditkitsada (recorded),,44,2026-11-01
+SBT,Benjamin Brink,NOT_A_MANAGER,"speaker/participant at an AgriS forum (Giám đốc Khu vực Đông Nam Á, DEG (Đức)); not an AgriS manager",02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Hwan Soo Jung,NOT_A_MANAGER,speaker/participant at an AgriS forum (Phó Chủ tịch Hiệp hội Doanh nghiệp IIEA (Hàn Quốc)); not an AgriS manager,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Jade Koh,NOT_A_MANAGER,speaker/participant at an AgriS forum (Giám đốc Khu vực EDB Singapore); not an AgriS manager,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Hayoung Lee,NOT_A_MANAGER,speaker/participant at an AgriS forum (IFC); not an AgriS manager,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Michael Araneta,NOT_A_MANAGER,speaker/participant at an AgriS forum (AWS ASEAN); not an AgriS manager,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Jayson Dowie,NOT_A_MANAGER,speaker/participant at an AgriS forum (Giám đốc Farmacist (Úc)); not an AgriS manager,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+SBT,Monica Finlayson,NOT_A_MANAGER,"speaker/participant at an AgriS forum (Tham tán Nông nghiệp, Đại sứ quán Australia); not an AgriS manager",02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,23,2026-11-01
+KBC,Liu Shih-Chung,NOT_A_MANAGER,"""Chief Representative of the Taipei Economic and Cultural Office in Vietnam"" — photo caption with the CEO; not a KBC manager",,28,2026-11-01
+PAN,Youhei Kodaka,SUBSIDIARY_ONLY,"""Trước khi đảm nhận vị trí Tổng Giám đốc PAN Hulic …"" — General Director of the subsidiary PAN Hulic (AR 2025 p42), no position at PAN itself",,42,2026-11-01
+ABR,"Lan, Wan- Cht",SAME_AS_RECORD,"OCR variant of Lan, Wan-Chen (recorded)",,31,2026-11-01
+QNC,Jean Francois,SAME_AS_RECORD,short form of Guillaume Jean Francois (recorded),,11,2026-11-01
+BMI,Nicolas Marie,SAME_AS_RECORD,"part of ""Nicolas Marie Charles Henri du Cauze de Nazelle"" (recorded as Nicolas De Nazelle)",,56,2026-11-01
+VFC,Shinichi Meimber,OCR_NOISE,"OCR of ""Shinichi Member"" (Takahashi Shinichi, recorded)",,55,2026-11-01
+VFC,Takahashi Member Non-Execufive,OCR_NOISE,"OCR of ""Takahashi … Member Non-Executive"" (recorded)",,55,2026-11-01
+AAA,Lim Heon-young,SUBSIDIARY_ONLY,"listed as ""Lãnh đạo chủ chốt của công ty con"" in related parties (AR 2025 p85)",,85,2026-11-01
+BCR,Koh Teik Ling,NOT_A_MANAGER,"appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",,46,2026-11-01
+BCR,Kou Kok Yiow,NOT_A_MANAGER,"appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",,17,2026-11-01
+BCR,Sin Sok Joo,NOT_A_MANAGER,"appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",,36,2026-11-01
+BCR,Tan Cheo Siah Richard,NOT_A_MANAGER,"appears only in the related-person lists (managers of the parent company Bamboo Capital / its affiliates) in GOV 2025, not a BCR manager",,36,2026-11-01
+BCR,Wee Siong Leonard,SAME_AS_RECORD,"variant of Ng Wee Siong, Leonard (recorded)",,46,2026-11-01
+BVS,Saman Wijaya Bandara,NOT_A_MANAGER,"Phó Tổng Giám đốc of the auditor Ernst & Young Việt Nam (audit report signature, AR 2025 p106)",,106,2026-11-01
+DNL,Thanongsai Soukkhamthat,NOT_A_MANAGER,"Director of the Savannakhet Special Economic Zone (Laos), visiting delegation (AR 2025 p12)",,12,2026-11-01
+EVG,Maurizio Susan,NOT_A_MANAGER,"appointed General Manager of the Centara Hotel & Residences Vân Đồn property (AR 2025 p8 news item), not a manager of the listed company",,8,2026-11-01
+ITA,Levy Hall,NOT_A_PERSON,"name of a Tan Tao University building (""Gillis Hall; Levy Hall"")",,23,2026-11-01
+MAS,JOSEPH ALVIN CHAN TAN,NOT_A_MANAGER,"major shareholder (7,35%) only (AR 2025 p20)",,20,2026-11-01
+NTT,Wifford Liebe,NOT_A_MANAGER,CEO of the certification body (IDFL) signing product certificates reproduced in the AR,,19,2026-11-01
+NTT,Wiflord Liebe,NOT_A_MANAGER,CEO of the certification body (IDFL) signing product certificates reproduced in the AR,,17,2026-11-01
+NTT,Wiford Lieber,NOT_A_MANAGER,CEO of the certification body (IDFL) signing product certificates reproduced in the AR,,22,2026-11-01
+NTT,Wilford Liebe,NOT_A_MANAGER,CEO of the certification body (IDFL) signing product certificates reproduced in the AR,,15,2026-11-01
+SPB,Murata AICone,NOT_A_PERSON,"machine model in an equipment table (""Murata … Bobbin Tray, Nhật"")",,19,2026-11-01
+SPC,Yeo Joo Hua,NOT_FY2025,Deputy Director 2004-2011 in the company history list (AR 2025 p22),,22,2026-11-01
+PSP,Angg Shu,OCR_NOISE,OCR noise in a resolution table (AR 2025 p27),,27,2026-11-01
+VCK,John DesmondSheehy,SAME_AS_RECORD,OCR variant of John Desmond Sheehy (recorded),,86,2026-11-01
+ACG,Cheang Kok Chung,NOT_A_MANAGER,"""Executive Director"" of the ISO certification body signing An Cường's ISO 9001 certificate (AR 2025 p109)",,109,2026-11-01
+ABB,Syed Ahmad Tau,SAME_AS_RECORD,"OCR/spelling variant of Syed Ahmad Taufik Albar (recorded, INFERRED)",,,2026-11-01
+ABB,Syed Ahmad Tauﬁk Albar,SAME_AS_RECORD,"OCR/spelling variant of Syed Ahmad Taufik Albar (recorded, INFERRED)",,,2026-11-01
+ABB,Foong Seoung Yew,SAME_AS_RECORD,"OCR/spelling variant of Foong Seong Yew (recorded, INFERRED)",,,2026-11-01
+ADG,Lee SangSoek,SAME_AS_RECORD,"OCR/spelling variant of Lee SangSeok (recorded, INFERRED)",,,2026-11-01
+CAN,Wilson Cheah Hui Pin Thanh,SAME_AS_RECORD,"OCR/spelling variant of Wilson Cheah Hui Pin (recorded, INFERRED)",,,2026-11-01
+DAN,Bojinov Stefan,SAME_AS_RECORD,"OCR/spelling variant of Bojinov Stefan Georgiev (recorded, INFERRED)",,,2026-11-01
+DAN,Bcjinov Stefan Georgiev,SAME_AS_RECORD,"OCR/spelling variant of Bojinov Stefan Georgiev (recorded, INFERRED)",,,2026-11-01
+DAN,Dobrev Sasho Hristov,SAME_AS_RECORD,"OCR/spelling variant of Sasho Hristov Dobrev (recorded, INFERRED)",,,2026-11-01
+DAN,Pawtuk-Kotc Maria,SAME_AS_RECORD,"OCR/spelling variant of Pawtuk-Kot Maria Katarzyna (recorded, INFERRED)",,,2026-11-01
+DAN,Batakrishnan Lokesh,SAME_AS_RECORD,"OCR/spelling variant of Samykannu Batakrishnan Lokesh (recorded, INFERRED)",,,2026-11-01
+DCL,Subhash Kesavan Nai,SAME_AS_RECORD,"OCR/spelling variant of Subhash Kesavan Nair (recorded, INFERRED)",,,2026-11-01
+DCL,Spbhash Kegavan,SAME_AS_RECORD,"OCR/spelling variant of Subhash Kesavan Nair (recorded, INFERRED)",,,2026-11-01
+LGC,Christopher Daniel C,SAME_AS_RECORD,"OCR/spelling variant of Christopher Daniel C. Lizo (recorded, INFERRED)",,,2026-11-01
+LGC,Christopher DanieL Dismissat,SAME_AS_RECORD,"OCR/spelling variant of Christopher Daniel C. Lizo (recorded, INFERRED)",,,2026-11-01
+LGC,Christopher DanieLC Lizo,SAME_AS_RECORD,"OCR/spelling variant of Christopher Daniel C. Lizo (recorded, INFERRED)",,,2026-11-01
+LGC,Christopher DanietL,SAME_AS_RECORD,"OCR/spelling variant of Christopher Daniel C. Lizo (recorded, INFERRED)",,,2026-11-01
+LGC,FRANCIS GERARD ELIZAGA ABERILLA,SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,Elizaga Aberilla,SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,Francis Gerand Elizaga AberilLa,SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,"Francis Gerard E, Kỹ",SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,Francis Gerard Elizagøga Aberilla,SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,Francis Gerard Etizaga AberilLa,SAME_AS_RECORD,"OCR/spelling variant of Francis Gerard Elizaga Aberilla (recorded, INFERRED)",,,2026-11-01
+LGC,LUIS SORIANO RENON,SAME_AS_RECORD,"OCR/spelling variant of Luis Soriano Reñon (recorded, INFERRED)",,,2026-11-01
+LGC,Luis Soriano R,SAME_AS_RECORD,"OCR/spelling variant of Luis Soriano Reñon (recorded, INFERRED)",,,2026-11-01
+LTG,Johan Sverì Richard Boden,SAME_AS_RECORD,"OCR/spelling variant of Johan Sven Richard Boden (recorded, INFERRED)",,,2026-11-01
+LTG,Johan Sven,SAME_AS_RECORD,"OCR/spelling variant of Johan Sven Richard Boden (recorded, INFERRED)",,,2026-11-01
+LTG,Richard Boden,SAME_AS_RECORD,"OCR/spelling variant of Johan Sven Richard Boden (recorded, INFERRED)",,,2026-11-01
+LTG,Sven Richard,SAME_AS_RECORD,"OCR/spelling variant of Johan Sven Richard Boden (recorded, INFERRED)",,,2026-11-01
+OCB,Segawa Mitsuhiro Thánh,SAME_AS_RECORD,"OCR/spelling variant of Segawa Mitsuhiro (recorded, INFERRED)",,,2026-11-01
+OCB,Yoshizawa Tashiki Thinh,SAME_AS_RECORD,"OCR/spelling variant of Yoshizawa Toshiki (recorded, INFERRED)",,,2026-11-01
+SJF,Masayuke Takeuchi,SAME_AS_RECORD,"OCR/spelling variant of Masayuki Takeuchi (recorded, INFERRED)",,,2026-11-01
+SRA,Kazuya Krino,SAME_AS_RECORD,"OCR/spelling variant of Kazuya Kirino (recorded, INFERRED)",,,2026-11-01
+SSI,Kosuke Mlizuno,SAME_AS_RECORD,"OCR/spelling variant of Kosuke Mizuno (recorded, INFERRED)",,,2026-11-01
+SSI,Mizuno Kosuke,SAME_AS_RECORD,"OCR/spelling variant of Kosuke Mizuno (recorded, INFERRED)",,,2026-11-01
+TED,Mutsuya MORI Thạc,SAME_AS_RECORD,"OCR/spelling variant of Mutsuya Mori (recorded, INFERRED)",,,2026-11-01
+BID,"Yoo, Je Bong",SAME_AS_RECORD,"OCR/spelling variant of Yoo Je Bong (recorded, INFERRED)",,,2026-11-01
+CVN,TAKISHITA AKIRA,SAME_AS_RECORD,"OCR/spelling variant of Takishita Akira (recorded, INFERRED)",,,2026-11-01
+KTS,NARAYANASAMY RAVICHANDRAN,SAME_AS_RECORD,"OCR/spelling variant of Narayanasamy Ravichandran (recorded, INFERRED)",,,2026-11-01
+PGI,CHOI SUNG JIN,SAME_AS_RECORD,"OCR/spelling variant of Choi Sung Jin (recorded, INFERRED)",,,2026-11-01
+SBT,Vancliff Simon David,NOT_A_MANAGER,board candidate at the AGM 24/10/2024 (CV: Nationality British) but not elected — Resolution 16/2024/NQ-ĐHĐCĐ elected only Lê Quang Phúc and Huỳnh Bích Ngọc; no SBT position in 2025,02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,71,2026-11-01
+SBT,"Huỳnh Bích Ngọc, Ông Vancliff Simon",NOT_A_MANAGER,merged candidate-list text; Vancliff Simon David was not elected (Resolution 16/2024/NQ-ĐHĐCĐ),02_AgriS_SBT_-_Bao_cao_thuong_nien_ND_2024-2025,105,2026-11-01
+TNH,Chris Freundtopher E,SAME_AS_RECORD,AR typo of Christopher E. Freund (recorded),,24,2026-11-01
+TNH,Fernandez Lledo,SAME_AS_RECORD,partial name of Romeo Fernandez Lledo (recorded),,69,2026-11-01
+TNH,Romeo Fer,SAME_AS_RECORD,truncated name of Romeo Fernandez Lledo (recorded),,117,2026-11-01
+TNH,Romeo Fernandez Liedo,SAME_AS_RECORD,OCR variant of Romeo Fernandez Lledo (recorded),,91,2026-11-01
+ITA,MAYA DANGELAS,SAME_AS_RECORD,"a.k.a. of Đặng Thị Hoàng Yến (recorded, INFERRED)",,31,2026-11-01
+VPL,MARC VILLIERS TOWNSEND,SAME_AS_RECORD,"upper-case form of Marc Villiers Townsend (recorded, INFERRED)",,26,2026-11-01
+CMX,LEE MIN,SAME_AS_RECORD,"upper-case form of Lee Min (recorded, INFERRED)",,50,2026-11-01
+SVN,Michael Mare Lee,SAME_AS_RECORD,"Typographical spelling variant of Michael Marc Lee; user confirms p.10 is a typing error. Canonical record: Michael Marc Lee, Chairman of the Board, report PDF p.34. Nationality remains unresolved.",2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf,10,
+SVN,Michael Marc Lee,SAME_AS_RECORD,"Canonical person/role retained. 2025 annual report p.34 confirms Chairman; nationality not stated. HNX 2025 governance appendix has blank ID/passport field. Per research owner’s SVN-specific rule, classify Is_Foreign=1 while retaining Nationality=UNKNOWN; this is an operational coding decision, not verified citizenship.",2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf,34,2026-11-04
+VPX,Steve Yam,SAME_AS_RECORD,Position confirmed as Chief Information Officer in the 2025 annual report and recorded as UNKNOWN because nationality is not established. Company remains UNRESOLVED for foreign-manager status.,m88_20260404_vpbanks_bao_cao_thuong_nien_2025_en1775288878631mx9nn1d8.pdf,24,
+VIC,Adil Amad,SAME_AS_RECORD,OCR spelling variant of Adil Ahmad. Annual report profile and roster give the canonical spelling Adil Ahmad; recorded as the same FY2025 independent Board member.,HOSE_2025_VIC_Baocaothuongnien_2025.pdf,79,
+VIC,Dy-Liacco Ibasco,SAME_AS_RECORD,Truncated name variant of Ronaldo Dy-Liacco Ibasco in candidate extraction; record the canonical full name once.,HOSE_2025_VIC_Baocaothuongnien_2025.pdf,79,

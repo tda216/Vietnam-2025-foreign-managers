@@ -1,0 +1,15 @@
+{
+ "ownership": [
+  {
+   "Code": "SGER",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=49.92",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/SGER/AR2025_ae5bfa1bf426.pdf",
+   "Page": "47",
+   "Quote": "PT SUMBERMAS INTI ENERGI 50,08% WELLY THOMAS 8,61% VIVI RAMALYATI HUTAMA 10,86% PUBLIK/PUBLIC 30,85% Komposisi",
+   "As_Of": "2025-12-31",
+   "Note": "Indonesian PT holds 50.08 % at 31 Dec 2025 (also financial-statement note p274) -> foreign at most 49.92 %; inside KSEI bounds 0.3-55.6 %"
+  }
+ ]
+}

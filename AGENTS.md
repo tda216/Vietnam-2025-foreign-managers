@@ -1,10 +1,28 @@
-# AGENTS.md – Listed Companies & Foreign Managers (Vietnam FY2025)
+# AGENTS.md – Listed Companies & Foreign Managers, FY2025 (5 countries; shared rules + Vietnam)
 
 Guide for coding agents (Codex, Claude Code, …) working in this repo. `CLAUDE.md` imports this file.
 
+## Folder layout (since 7 Nov 2026)
+
+The project folder is `Data 2025-foreign-managers/` (renamed from `Vietnam-2025-foreign-managers`). It holds one folder per country, plus the files shared by all countries at the top level:
+
+```
+Data 2025-foreign-managers/
+  AGENTS.md, CLAUDE.md        shared rules (this file) and the Claude summary
+  NEW_COUNTRY_PLAYBOOK.md     how to do the next country (no BoardEx; lessons from VN and PH) - READ FIRST for a new country
+  README.md                   folder map and status per country
+  .venv/                      Python environment shared by all countries
+  vietnam/                    Vietnam: pipeline/, data/, output/ (sections below)
+  philippines/                Philippines: own AGENTS.md (country rules), pipeline/, data/, output/
+  <country>/                  the three remaining countries, created when their work starts
+```
+
+Cross-country files (e.g. the 5-country report, still to be written) go at the top level, not inside a country folder.
+
 ## What this project is
 
-A research dataset, for Vietnam, which is 1 of 5 countries using the same rules.
+A research dataset covering 5 countries that use the same rules. The sections below describe Vietnam, the first country, done in 2026-11.
+**All Vietnam paths below are relative to `vietnam/`.** Run Vietnam commands from inside `vietnam/`, using the shared environment one level up: `../.venv/bin/python -I pipeline/<step>.py`.
 
 1. Classify every listed company by foreign ownership (FO) at 31/12/2025:
    - FO > 50% → `FOREIGN_MAJORITY`.
@@ -45,10 +63,10 @@ The research team works in **Vietnamese**: reply in Vietnamese, keep it simple, 
 | Ownership | VSDC "FOL 31.12.2025" file as republished by HOSE/HNX. Foreign-listed issuers are resolved by hand in `data/manual/ownership_manual.csv` (rule `RULE_FOREIGN_LISTED_FOREIGN_CONTROLLER`). Managers are also searched for FOREIGN_MAJORITY companies with FO ≤ 55% (borderline) |
 | Search depth | "C3": deep search (websites, news) for top-200 market cap ∪ FO ≥ 10% ∪ foreign holder ≥ 5% ∪ companies where a foreign Board/Exec member was already found |
 
-## Repo layout
+## Vietnam folder layout (`vietnam/`)
 
 ```
-pipeline/            numbered steps (run from the repo root) + config.py, common.py, tools_add_records.py, qa_checks.py
+pipeline/            numbered steps (run from inside vietnam/) + config.py, common.py, tools_add_records.py, qa_checks.py
 data/manual/         HAND-REVIEWED INPUTS – the only place where facts are added or changed
   manager_records.csv      one row per foreign (or UNKNOWN) person × position, with quote/page/evidence type
   candidate_decisions.csv  why each screened name was dropped/merged (NOT_A_PERSON, OCR_NOISE, SAME_AS_RECORD,
@@ -63,21 +81,22 @@ raw/                 downloaded PDFs/HTML (git-ignored, ~88 GB) – UNTRUSTED in
 output/              deliverables
 ```
 
-Not in git: `raw/`, `data/full/text/`, `data/full/ocr/`, `.venv/`, `.tools/`, and the Bloomberg input `Bloomberg-Vietnam2025_8520.xlsx`. The Bloomberg file is licensed. Place it in the repo root locally; `01_universe.py` and `07_build_excel.py` need it.
+Not in git: `raw/`, `data/full/text/`, `data/full/ocr/`, `.venv/`, `.tools/`, and the Bloomberg input `Bloomberg-Vietnam2025_8520.xlsx`. The Bloomberg file is licensed. Place it in `vietnam/` locally (`config.ROOT` is `vietnam/`); `01_universe.py`, `07_build_excel.py` and `qa_checks.py` need it. Since 10 Nov 2026 (public repository, owner decision) the Bloomberg-derived files also stay local: every `*/data/universe.csv`, the output workbooks `*/output/*.xlsx` (they carry Market_Cap / Industry_Group, VN a Bloomberg_Raw sheet) and a few CSVs with Bloomberg columns (see `.gitignore`); rebuild them locally from the Bloomberg file.
 
 ## Setup
 
 ```bash
-python3 -m venv .venv
+python3 -m venv .venv          # at the top level, shared by all countries
 .venv/bin/pip install openpyxl requests beautifulsoup4 lxml pymupdf
-# OCR + RAR without root: download the official Ubuntu .debs and unpack them
+cd vietnam
+# OCR + RAR without root (Linux): download the official Ubuntu .debs and unpack them (macOS: Homebrew tesseract is used by PH)
 mkdir -p .tools/debs && cd .tools/debs && apt-get download tesseract-ocr tesseract-ocr-vie tesseract-ocr-eng \
   tesseract-ocr-osd libtesseract5 liblept5 libarchive-tools && cd ../..
 for d in .tools/debs/{tesseract,libtesseract,liblept}*.deb; do dpkg -x "$d" .tools/tesseract; done
 dpkg -x .tools/debs/libarchive-tools*.deb .tools/bsdtar
 ```
 
-Always run Python with **`-I`**, i.e. `.venv/bin/python -I pipeline/<step>.py`, because the scripts read untrusted downloaded files. Never execute anything from `raw/`. Keep downloads in their own directories.
+Always run Python with **`-I`**, i.e. (inside `vietnam/`) `../.venv/bin/python -I pipeline/<step>.py`, because the scripts read untrusted downloaded files. Never execute anything from `raw/`. Keep downloads in their own directories.
 
 ## Pipeline (run = `full`, or `pilot` for the 30-company pilot)
 
@@ -96,11 +115,12 @@ Always run Python with **`-I`**, i.e. `.venv/bin/python -I pipeline/<step>.py`, 
 
 Typical rebuild after adding a batch:
 ```bash
-.venv/bin/python -I pipeline/tools_add_records.py full data/manual/batches/<batch>.json
-.venv/bin/python -I pipeline/05a_candidates.py full && .venv/bin/python -I pipeline/07_build_excel.py full \
-  && .venv/bin/python -I pipeline/qa_checks.py full
+cd vietnam
+../.venv/bin/python -I pipeline/tools_add_records.py full data/manual/batches/<batch>.json
+../.venv/bin/python -I pipeline/05a_candidates.py full && ../.venv/bin/python -I pipeline/07_build_excel.py full \
+  && ../.venv/bin/python -I pipeline/qa_checks.py full
 ```
-Do not change `data/manual/` while a build is running. To stop a step, use an anchored pattern: `pkill -f "^.venv/bin/python -I pipeline/05a"`.
+Do not change `data/manual/` while a build is running. To stop a step, use an anchored pattern: `pkill -f "^\.\./\.venv/bin/python -I pipeline/05a"`.
 
 ## Review workflow and lessons learned (read before recording anything)
 
@@ -133,6 +153,8 @@ Do not change `data/manual/` while a build is running. To stop a step, use an an
   - The workbook's README sheet still names a deleted `Checkpoint1_…xlsx`. The code is fixed; this needs a rebuild with the Bloomberg file present.
 
 ## Adapting to another country
+
+**Start with `NEW_COUNTRY_PLAYBOOK.md`** (top level). It covers the day-0 decisions, a statement-first approach to ownership, managers from the companies' own director/officer tables, and the lessons from the Philippines. BoardEx is no longer used (owner, 7 Nov 2026). Create the country's own folder at the top level, next to `vietnam/` and `philippines/`.
 
 Reusable as-is:
 - The schema, flag rules, evidence types and inference tiers.

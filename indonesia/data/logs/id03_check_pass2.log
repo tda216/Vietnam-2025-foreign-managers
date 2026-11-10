@@ -1,0 +1,14 @@
+/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+companies 50/547
+companies 100/547
+companies 150/547
+companies 200/547
+companies 250/547
+companies 300/547
+companies 350/547
+companies 400/547
+companies 450/547
+companies 500/547
+this run: [('NOT_FOUND', 365), ('SITE_BLOCKS_SCRIPTS', 58), ('SITE_ERROR', 58), ('JS_ONLY_SITE', 50), ('AVAILABLE_WEBSITE', 11), ('IDX_LINK_ONLY', 5)]
+ar_availability.csv all companies: [('AVAILABLE_WEBSITE', 415), ('NOT_FOUND', 365), ('SITE_ERROR', 58), ('SITE_BLOCKS_SCRIPTS', 58), ('JS_ONLY_SITE', 50), ('NO_WEBSITE', 7), ('IDX_LINK_ONLY', 5)]

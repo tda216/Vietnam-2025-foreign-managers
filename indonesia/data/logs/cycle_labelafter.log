@@ -1,0 +1,15 @@
+documents 1242 | with foreign label 219 | no label at all 478
+composition: SUM_OK 289 of 788
+FO class: [('LOCAL', 749), ('FOREIGN_MAJORITY', 127), ('REVIEW', 77)]
+source: [('KSEI_BOUNDS_20251230', 625), ('AR2025_TABLE_AUTO', 138), ('AR2025_NAMED_HOLDERS_AUTO', 88), ('AR2025_MANUAL', 25)]
+open: [('NEEDS_MANUAL:NO_TABLE_ROW', 44), ('NEEDS_MANUAL:SUM_OFF', 19), ('NO_AR', 9), ('NEEDS_MANUAL:OUTSIDE_KSEI_BOUNDS', 2), ('NEEDS_MANUAL:WITHIN_5_POINTS_OF_50', 2), ('NEEDS_MANUAL:NAMED_SUM_OVER_100', 1)]
+proposals 169 Counter({'OTHER': 84, 'PROFILE': 77, 'STATEMENT': 8}) companies 81
+saved indonesia/output/Indonesia_2025_Foreign_Managers.xlsx | flags: {'OUT_OF_SCOPE': 62, 'NONE_FOUND': 504, 'NOT_SEARCHED_FM': 127, 'FO_REVIEW': 77, 'FOUND': 140, 'NO_SOURCE': 82, 'UNRESOLVED': 23} | records 302
+  QA record_in_non_local_firm: 0 
+  QA record_missing_quote_or_page: 0 
+  QA record_bad_role_group: 0 
+  QA record_left_before_2025: 0 
+  QA record_appointed_after_2025: 0 
+  QA record_duplicate: 0 
+  QA flag_zero_without_source: 0 
+  QA flag_set_outside_local: 0 

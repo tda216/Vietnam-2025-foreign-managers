@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "Ticker_Local": "SVN",
+      "Manager_Name": "Michael Marc Lee",
+      "Raw_Position": "Chủ tịch Hội đồng quản trị",
+      "Role_Group": "Board",
+      "Nationality": "UNKNOWN",
+      "Nationality_Raw": "",
+      "Is_Foreign": "",
+      "Dual_Nationality": "",
+      "Local_File": "raw/docs/SVN/HNX_2025_SVN_Baocaothuongthien_2025__zip/01_2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf",
+      "Page": 34,
+      "Evidence_Type": "",
+      "Evidence_Quote": "Ông Michael Marc Lee — Chủ tịch HĐQT",
+      "Source_URL": "https://cafef1.mediacdn.vn/download/210426/svn-bao-cao-thuong-nien-2025-1-610131.pdf",
+      "Other_Sources": "HNX filing listing: https://hnx.vn/vi-vn/m-niem-yet/tin-tuc/Bao%20cao%20thuong%20nien%202025-610131-1.html; issuer filing page: https://solavina.vn/bao-cao-thuong-nien-nam-2025/",
+      "Reviewed_On": "2026-11-04",
+      "Note": "UNKNOWN nationality. The Vietnamese annual report spells the same Chairman as Michael Mare Lee on PDF p.10 and Michael Marc Lee on PDF p.34; user confirms p.10 spelling is a typographical error, so use Michael Marc Lee as canonical name."
+    }
+  ],
+  "decisions": [
+    {
+      "Ticker_Local": "SVN",
+      "Name": "Michael Mare Lee",
+      "Decision": "SAME_AS_RECORD",
+      "Reason": "Typographical spelling variant of Michael Marc Lee; user confirms p.10 is a typing error. Canonical record: Michael Marc Lee, Chairman of the Board, report PDF p.34. Nationality remains unresolved.",
+      "Source_File": "2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf",
+      "Page": "10"
+    },
+    {
+      "Ticker_Local": "SVN",
+      "Name": "Michael Marc Lee",
+      "Decision": "SAME_AS_RECORD",
+      "Reason": "Manager position recorded as UNKNOWN in Foreign_Managers. Annual report names him Chairman of the Board; nationality is not stated in the evidence reviewed, so the company remains UNRESOLVED for foreign-manager status.",
+      "Source_File": "2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf",
+      "Page": "34"
+    }
+  ]
+}

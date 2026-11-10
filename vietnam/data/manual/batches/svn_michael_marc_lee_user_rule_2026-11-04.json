@@ -1,0 +1,20 @@
+{
+  "decision_date": "2026-11-04",
+  "ticker": "SVN",
+  "person": "Michael Marc Lee",
+  "decision": "Is_Foreign=1; Nationality=UNKNOWN; Evidence_Type=INFERRED",
+  "basis": "User-directed default for this record: where Vietnamese nationality/CCCD is not disclosed in the reviewed official filings, code as foreign for the binary variable. This does not establish country of citizenship.",
+  "sources": [
+    {
+      "title": "SVN 2025 Annual Report",
+      "url": "https://cafef1.mediacdn.vn/download/210426/svn-bao-cao-thuong-nien-2025-1-610131.pdf",
+      "page": 34,
+      "quote": "Ông Michael Marc Lee — Chủ tịch HĐQT"
+    },
+    {
+      "title": "SVN 2025 Semi-annual Corporate Governance Report (HNX)",
+      "url": "https://owa.hnx.vn/ftp/cims/2025/7_W5/000000015254359_VI_BaoCaoQuanTri_6thang_2025.pdf",
+      "section": "Appendix 2; ID/passport number, issue date and place field blank"
+    }
+  ]
+}

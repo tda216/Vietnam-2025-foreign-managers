@@ -1,0 +1,53 @@
+/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+49 companies to query (0 done), pause 3.0s
+1 AKSI [('OK', 10), ('OK', 1), ('OK', 1), ('OK', 1), ('OK', 1)] 2026-01-07
+2 AMAG [('OK', 8), ('OK', 1)] 2026-01-06
+3 AMOR [('OK', 10), ('OK', 1), ('OK', 2), ('OK', 2), ('OK', 1)] 2026-01-07
+4 AREA [('OK', 9)] 2026-01-06
+5 ASPR [('OK', 8), ('OK', 5)] 2026-01-08
+6 BBKP [('OK', 12), ('OK', 1), ('OK', 1), ('OK', 2), ('OK', 2), ('OK', 1)] 2026-01-06
+7 BISI [('OK', 8), ('OK', 5)] 2026-01-07
+8 CNTB [('NO_REGISTER_REPORT', '')] 
+9 CPRI [('OK', 8), ('OK', 6)] 2026-01-12
+10 CSMI [('OK', 8), ('OK', 5)] 2026-01-12
+11 CTTH [('OK', 10), ('OK', 2), ('OK', 1), ('OK', 1), ('OK', 2)] 2026-01-07
+12 DCII [('OK', 8)] 2026-01-05
+13 EAST [('OK', 11), ('OK', 5)] 2026-01-07
+14 ENZO [('OK', 10), ('OK', 1), ('OK', 4)] 2026-01-09
+15 GIAA [('OK', 10)] 2026-01-08
+16 IFSH [('OK', 24), ('OK', 6)] 2026-01-07
+17 INDO [('OK', 8)] 2026-01-09
+18 INPC [('OK', 12), ('OK', 3)] 2026-01-08
+19 IOTF [('OK', 8), ('OK', 2)] 2026-01-06
+20 ISEA [('OK', 8), ('OK', 8)] 2026-01-09
+21 KDTN [('OK', 9), ('OK', 1), ('OK', 2), ('OK', 1), ('OK', 2), ('OK', 1)] 2026-01-06
+22 KICI [('OK', 7), ('OK', 1)] 2026-01-08
+23 KIJA [('OK', 8), ('OK', 4)] 2026-01-09
+24 KOKA [('OK', 8), ('OK', 5)] 2026-01-09
+25 KUAS [('OK', 10), ('OK', 1)] 2026-01-07
+26 LFLO [('OK', 8), ('OK', 1)] 2026-01-06
+27 MARK [('OK', 10), ('OK', 5)] 2026-01-13
+28 MDLA [('OK', 10), ('OK', 2), ('OK', 1), ('OK', 1), ('OK', 2)] 2026-01-08
+29 MPIX [('OK', 13), ('OK', 14)] 2026-01-07
+30 MPRO [('OK', 9), ('OK', 1), ('OK', 1)] 2026-01-07
+31 MTRA [('NO_REGISTER_REPORT', '')] 
+32 MTSM [('OK', 8), ('OK', 2), ('OK', 1), ('OK', 1), ('OK', 1), ('OK', 2)] 2026-01-06
+33 NZIA [('OK', 8), ('OK', 10)] 2026-01-07
+34 OBAT [('OK', 8), ('OK', 8)] 2026-01-05
+35 OBMD [('OK', 8)] 2026-01-06
+36 OILS [('OK', 8), ('OK', 1)] 2026-01-05
+37 PGUN [('OK', 10), ('OK', 5)] 2026-01-07
+38 PLAS [('NO_REGISTER_REPORT', '')] 
+39 PMUI [('OK', 7), ('OK', 6)] 2026-01-07
+40 PTPP [('OK', 8), ('OK', 10)] 2026-01-06
+41 RGAS [('OK', 8), ('OK', 5)] 2026-01-07
+42 RUNS [('OK', 10)] 2026-01-08
+43 SMIL [('OK', 8), ('OK', 2)] 2026-01-06
+44 TCID [('OK', 8), ('OK', 1), ('OK', 1)] 2026-01-06
+45 TMPO [('OK', 10)] 2026-01-07
+46 TYRE [('OK', 8), ('OK', 5), ('OK', 1)] 2026-01-09
+47 UNIT [('NO_REGISTER_REPORT', '')] 
+48 WIIM [('OK', 8), ('OK', 1), ('OK', 1)] 2026-01-06
+49 WTON [('OK', 8), ('OK', 2)] 2026-01-05
+this run: Counter({'OK': 112, 'NO_REGISTER_REPORT': 4})

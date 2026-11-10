@@ -1,0 +1,9 @@
+companies 50/352
+companies 100/352
+companies 150/352
+companies 200/352
+companies 250/352
+companies 300/352
+companies 350/352
+this run: [('NOT_FOUND', 214), ('AVAILABLE_WEBSITE', 91), ('SITE_BLOCKS_SCRIPTS', 78), ('BURSA_LINK_ONLY', 60), ('SITE_ERROR', 51), ('NOT_DUE_YET', 29), ('AVAILABLE_INSAGE', 1)]
+ar_availability.csv all companies: [('AVAILABLE_WEBSITE', 428), ('NOT_FOUND', 214), ('AVAILABLE_INSAGE', 193), ('SITE_BLOCKS_SCRIPTS', 78), ('BURSA_LINK_ONLY', 60), ('NOT_DUE_YET', 56), ('SITE_ERROR', 51), ('NO_FY2025_AR_IN_INDEX', 28), ('NO_WEBSITE', 19)]
