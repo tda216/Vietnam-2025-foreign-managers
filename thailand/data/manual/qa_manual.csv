@@ -1,0 +1,157 @@
+Kind,Ticker_Local,Item,Check,Country_Check,Result,Reviewed_On
+RECORD,TKT,HO KWAN WONG,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,UEC,YOUNG TAI LU,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,MINT,Emmanuel Jude Dillipraj Rajakarier,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,PSL,NEELAKANTAN VASUDEVAN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,ALUCON,TAKAAKI TAKEUCHI,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,CHOW,MAN WAI KOO,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TLI,Chor Ee Tan,executive list row + name / profile read,UNKNOWN,OK,2026-11-09
+RECORD,TSC,TARO TERAURA,person block text: Thai nationality field = No,INFERRED_STRONG: quote matches the profile,OK,2026-11-09
+RECORD,IRC,Tatsuo Kubota,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,GTV,HUYNH MINH TUAN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,EGCO,SHINICHIRO SUZUKI,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,FMT,NOBUTAKA TANIGUCHI,person block text: Thai nationality field = No,INFERRED_MEDIUM: quote matches the profile,OK,2026-11-09
+RECORD,BAY,Masatoshi Komoriya,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TIPCO,PIERRE VANSTOFLEGATTE,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,IRC,Akira Tokoro,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,AYUD,THOMAS CHARLES WILSON,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,CHOW,MARK DAVID REMIJAN,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,EAST,HIROOMI YAMAMURA,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,NRF,SUN TAN,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,BAY,Bunsei Okubo,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,IFS,CHIONH YI CHIAN,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,CTW,CHUN-TANG YUAN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,KAMART,EIKO SHIRAI,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,CPR,คาซูฮิโระ เอนโดะ,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,TFI,แท ลิม คิม,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,GPSC,Adrianus Josephus Van Den Broek,person block text: Thai nationality field = No,INFERRED_MEDIUM: quote matches the profile,OK,2026-11-09
+RECORD,INGRS,FARAH BINTI RAMELI,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,YUASA,TSUNENORI YOSHIMURA,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,MUD,SOPHIE MARIE HUYNH,executive list row + name / profile read,UNKNOWN,OK,2026-11-09
+RECORD,CREDIT,ROY AGUSTINUS GUNARA,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,PMTA,JEAN PAUL THEVENIN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,TTT,YOSHINOBU GAMO,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TYCN,Huang Li Hui,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,TRUE,Hua Wang,person block text: Thai nationality field = No,INFERRED_MEDIUM: quote matches the profile,OK,2026-11-09
+RECORD,SHANG,Stephane Antoine Calvet,executive list row + name / profile read,INFERRED_WEAK,OK,2026-11-09
+RECORD,AH,Xin Rhu Yeap,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,BAY,Chandrashekar Subramanian Krishoolndmangalam,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TYCN,LU YEN-CHUAN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,STANLY,YASUAKI KAIZUMI,person block text: Thai nationality field = No,INFERRED_STRONG: quote matches the profile,OK,2026-11-09
+RECORD,TTCL,Hiroshi Shoji,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,STGT,Chia Chee Ping,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,GJS,TAKAYUKI SUZUKI,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,GSTEEL,CHRISTOPHER MICHAEL NACSON,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,ASTR,SAMUEL COYN MATEER,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TTCL,BRETT LOLLBACK,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,STX,IKUO ANO,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,ANI,DAMIEN SEAH YANG HWEE,person block text: Thai nationality field = No,INFERRED_MEDIUM: quote matches the profile,OK,2026-11-09
+RECORD,PTL,AMIT PRAKASH,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,STANLY,HARUKI UCHIDA,person block text: Thai nationality field = No,INFERRED_STRONG: quote matches the profile,OK,2026-11-09
+RECORD,CHOW,MAN WAI KOO,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TTA,MOHAMMED RASHED AHMED M. ALNASSERI,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,BA,คริสทอป คลาเรนซ์,executive list row + name / profile read,INFERRED_WEAK,OK,2026-11-09
+RECORD,CCET,TAI-CHANG CHIANG,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,CAZ,Wang Youp Jhee,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,BAY,Masakazu Osawa,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,RICHY,BENJAMIN ATABOONWONG,page image checked,UNKNOWN,OK,2026-11-09
+RECORD,ONSENS,Kyoichi Takeda,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,TRUE,Khurrum Ashfaque,executive list row + name / profile read,INFERRED_WEAK,OK,2026-11-09
+RECORD,SYMC,AFZAL BIN ABDUL RAHIM,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,BJCHI,KYUYOUNG LEE,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,ROCTEC,Weng Sam Lam,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,TSTH,SANJAY KUMAR SHRIVASTAV,person block text: Thai nationality field = No,DOC_FIELD: quote matches the profile,OK,2026-11-09
+RECORD,PSGC,"SOUPHANH KEOMIXAY, Ph.D.",person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,DEXON,Jarno De Jonge,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,CCET,SHENG-CHIEH HSU,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,AYUD,AARON MITCHELL FRYER,person block text: Thai nationality field = No,INFERRED_MEDIUM: quote matches the profile,OK,2026-11-09
+RECORD,TSTH,JAYANTA CHAKRABORTY,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,SHANG,CHRISTOPHER SIEW SAN PHONG,page image checked,BOARDEX,OK,2026-11-09
+RECORD,EGCO,SHINSUKE NAKAYAMA,person block text: Thai nationality field = No,INFERRED_STRONG: quote matches the profile,OK,2026-11-09
+RECORD,BKGI,SUJIE CAO,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,ADVANC,GERARDO C. JR. JR.ABLAZA,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,HANA,Insuk KIm,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,KYE,Hidetoshi Yamato,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,ITD,WILLIAM LEE ZENTGRAF,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,CENTEL,Timothy Blaiklock,BoardEx role record and nationality label,BOARDEX,OK,2026-11-09
+RECORD,LHFG,HWANG SHENG-WEN,person block text: Thai nationality field = No,INFERRED_WEAK,OK,2026-11-09
+RECORD,CIMBT,Jason Leong,BoardEx role record and nationality label,BOARDEX,OK,2026-11-09
+RECORD,TOG,PAUL BRYAN FUSSEY,person block text: Thai nationality field = No,BOARDEX,OK,2026-11-09
+RECORD,S11,TAY CHRISTOPHER CHARLES,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+RECORD,CIMBT,Dato Seri Azmil Bin Raja Abdul Aziz,BoardEx role record and nationality label,BOARDEX,OK,2026-11-09
+RECORD,AH,KENNETH NG SHIH YEK,person block text: Thai nationality field = No,UNKNOWN,OK,2026-11-09
+FLAG_0_COMPANY,NCP,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,PYLON,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,MTC,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,ACE,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,AAI,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,M,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,IMH,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,KSL,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,GEL,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,SPALI,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,SGF,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,DOD,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,MBAX,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,KKC,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,SNP,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,A,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,CIG,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,ACG,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,WPH,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,NNCL,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,PHOL,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,MEB,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,YGG,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,BGRIM,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,SMD100,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,PPM,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,J,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 n/a (e-form); executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,UTP,BOARD_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,YONG,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+FLAG_0_COMPANY,BRR,ALL_STATED,full text of all report files has no 'Thai nationality: No' / 'สัญชาติไทย: ไม่ใช่'; board count vs 7.2.1 OK; executives without the field read as Thai names,,OK,2026-11-09
+RECORD,FND,Chih Hao Chang / Director (Executive),independent re-check of p18 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,CHIH YAO CHUANG / Chairman of the board (Executive),independent re-check of p19 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,Cheng Yung LIN / Director (Non-executive),independent re-check of p19 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,YU-JOU LIN / Director (Non-executive),independent re-check of p19 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,Wen-Long Lin / Director (Non-executive),independent re-check of p19 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,"HO-JIN TZOU / Director (Non-executive, Independent director)",independent re-check of p20 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,KWONPING HO / Chairman of the board (Executive),independent re-check of p16 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,"ARIEL P VERA / Director (Non-executive, Independent director)",independent re-check of p17 (ONE_REPORT_FIELD); page image for multi-profile pages,"ERROR→FIXED: country missed (CPA of Philippines, Filipino name) → INFERRED_WEAK Philippines",FIXED,2026-11-09
+RECORD,LRH,REN YUNG HO / Director (Non-executive),independent re-check of p18 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,KWONCJAN HO / Director (Executive),independent re-check of p18 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,EDDY HOCK LYE SEE / Director (Executive),independent re-check of p18 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,STUART D. READING / Director (Executive),independent re-check of p18 (ONE_REPORT_FIELD); page image for multi-profile pages,ERROR→FIXED: written rule gives INFERRED_STRONG Singapore (was S>M Australia),FIXED,2026-11-09
+RECORD,LRH,REN HUA HO / Director (Executive),independent re-check of p19 (ONE_REPORT_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,SVI,"Carsten Bremerskov Kaysen / Vice President of Sales, Europe",independent re-check of p159 (ONE_REPORT_FIELD); page image for multi-profile pages,ERROR→FIXED: country page p157 (was p159),FIXED,2026-11-09
+RECORD,THBEV,Timothy Chia Chee Ming / Independent Director and Audit Committee Member,independent re-check of p193 (DOC_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,THBEV,Wee Joo Yeow / Independent Director,independent re-check of p27 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,THBEV,Michael Chye Hin Fah / Executive Committee Member; Chief Beer Product Group,independent re-check of p47 (DOC_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,THBEV,Koh Poh Tiong / Executive Committee Member,independent re-check of p38 (INFERRED); page image for multi-profile pages,Singapore evidence kept in Note,FIXED,2026-11-09
+RECORD,6603,Tse Yan Kei / Chief of Staff,independent re-check of p68 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,6603,Ong Ying Shyun / Chief Financial Officer,independent re-check of p67 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Jean Paul Thevenin / Non-Executive Director; Risk Management Committee Chairman,independent re-check of p21 (DOC_FIELD); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Paul Burger Whiley / Executive Director,independent re-check of p8 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Paul Burger Whiley / Chief Operating Officer,independent re-check of p8 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Tang Kee Fei / Independent Director; Audit Committee Chairman,independent re-check of p9 (INFERRED); page image for multi-profile pages,"BORDERLINE: MEDIUM by institution (Singapore employers, no country word) – kept as earlier M! overrides",OK_BORDERLINE,2026-11-09
+RECORD,MMT,Tan Yew Chee William / Independent Director; Remuneration Committee Chairman,independent re-check of p9 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Michel Lefebvre / Independent Director; Nomination Committee Chairman,independent re-check of p9 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Teo Chor Ping / Senior Project Manager – Decommissioning (Project Director),independent re-check of p15 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,MMT,Simon Wilde / Commercial Director,independent re-check of p12 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,FND,Yen Chih Huang / CEO,independent re-check of p23 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+RECORD,LRH,"Edmund Tan / Vice President, Head, Business Excellence & Strategic Targets",independent re-check of p15 (INFERRED); page image for multi-profile pages,UNKNOWN,FIXED,2026-11-09
+RECORD,SNJ,Bo Nystrup Nielsen / Strategy and Coporate Development Division Manager,independent re-check of p241 (INFERRED); page image for multi-profile pages,OK,OK,2026-11-09
+FLAG_0_COMPANY,SEED,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,GLAND,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,MCHAI,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,LNE,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,TNH,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,CITY,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,QDC,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,MVP,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,BPP,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+FLAG_0_COMPANY,AKS,all report PDFs,full-text search for 'Thai nationality: No' / ไม่ใช่ / foreign 'Nationality:' + non-Thai names in board/executive lists (image pages viewed),,OK,2026-11-09
+QA_FINDING,MMT,Zlatan Cehic,independent QA 09/11/2026,,MISSED→FIXED: SUBSIDIARY_ONLY decision,2026-11-09
+QA_FINDING,FND,previous board (resigned May 2025),independent QA 09/11/2026,,MISSED→FIXED: One Report 2024 read; CHUN-NAM WONG and HUAI HSIN LEE recorded ('Thai nationality: No'),2026-11-09
+QA_FINDING,ALL,executive rows of directors,independent QA 09/11/2026,,PIPELINE→FIXED: 07 now writes an Executive row when a director with 'No' is also in a 7.4.1 list without the field (+67 rows),2026-11-09
+QA_FINDING,PMTA,JEAN PAUL THEVENIN,independent QA 09/11/2026,,FIXED: country basis BOARDEX (same BoardEx id as TTA),2026-11-09

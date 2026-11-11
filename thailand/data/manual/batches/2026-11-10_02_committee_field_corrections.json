@@ -1,0 +1,167 @@
+{
+ "corrections": [
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TRUE",
+    "Sharad Chandra Mehrotra"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Sharad Chandra Mehrotra Chief Consumer Business Officer and Member of the Executive Committee Age 58 Years Date of Appoi … - Familial relationship between director and executive - None - Education  MBA, Marketing, Indira Gandhi National Open University  Bachelor of Engineering, University of Pune Expertise  Integrated Telecom Services GICS 50101020 / Informa",
+    "Source": "Form 56-1 One Report 2025 (TRUE), PDF 01_ONEREPORTTRUEE.PDF p353",
+    "Local_File": "raw/docs/TRUE/1756ONE270320262011160517E__zip/01_ONEREPORTTRUEE.PDF",
+    "Page": "353",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country INFERRED_MEDIUM: education in India: University of Pune (India) + name"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Sharad Chandra Mehrotra Gender: Male Age: 58 years old Highest level of education: Master's degree Major: Marketing Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TRUE), PDF 02_STRUCTURETRUEE.PDF p26 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TRUE/1756ONE270320262011160517E__zip/02_STRUCTURETRUEE.PDF",
+    "Page": "26",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p26 (found 10/11/2026; was INFERRED_WEAK from the name); position from p353; country INFERRED_MEDIUM: education in India: University of Pune (India) + name"
+   }
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TLI",
+    "Chor Ee Tan"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Mr. Chor Ee Tan – Senior Executive Vice President and Chief Strategy and Innovation Officer (executive list p42, no nationality field)",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 02_STRUCTURETLIE.PDF p42",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/02_STRUCTURETLIE.PDF",
+    "Page": "42",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country cannot be inferred"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Chor Ee Tan Gender: Male Age: 45 years old Highest level of education: Master's degree Major: Finance Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 02_STRUCTURETLIE.PDF p39 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/02_STRUCTURETLIE.PDF",
+    "Page": "39",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p39 (found 10/11/2026; was INFERRED_WEAK from the name); position from p42; country cannot be inferred"
+   }
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TLI",
+    "Hsi-Ling Yang"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Hsi-Ling Yang • Chief Financial Officer, appointed on 16 August 2025 • Chief Actuary, appointed on 1 October 2021 • Exec … Management Committee Member, appointed on 1 October 2021 40 • Master’s in Business Administration (Insurance), National Taiwan University • Bachelor’s in Mathematics, National Taiwan University • Fellow of the Society of Actuaries of Thaila",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 01_ONEREPORTTLIE.PDF p312",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/01_ONEREPORTTLIE.PDF",
+    "Page": "312",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country INFERRED_MEDIUM: education / career in Taiwan named in the profile (report p312) + name"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Hsi-Ling Yang Gender: Male Age: 45 years old Highest level of education: Master's degree Major: Business Administration Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 02_STRUCTURETLIE.PDF p38 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/02_STRUCTURETLIE.PDF",
+    "Page": "38",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p38 (found 10/11/2026; was INFERRED_WEAK from the name); position from p312; country INFERRED_MEDIUM: education / career in Taiwan named in the profile (report p312) + name"
+   }
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TLI",
+    "Kean Hin Lim"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Mr. Kean Hin Lim – President (executive list p42, no nationality field)",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 02_STRUCTURETLIE.PDF p42",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/02_STRUCTURETLIE.PDF",
+    "Page": "42",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country cannot be inferred"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Kean Hin Lim Gender: Male Age: 61 years old Highest level of education: Bachelor's degree Major: Actuarial Science Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TLI), PDF 02_STRUCTURETLIE.PDF p38 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TLI/1697ONE270320261342290033E__zip/02_STRUCTURETLIE.PDF",
+    "Page": "38",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p38 (found 10/11/2026; was INFERRED_WEAK from the name); position from p42; country cannot be inferred"
+   }
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TURTLE",
+    "IAN CRAIG LONGDEN"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Mr. IAN CRAIG LONGDEN – CHIEF EXECUTIVE OFFICER (executive list p25, no nationality field)",
+    "Source": "Form 56-1 One Report 2025 (TURTLE), PDF 02_STRUCTURETURTLEE.PDF p25",
+    "Local_File": "raw/docs/TURTLE/1042ONE160620261745190629E__zip/02_STRUCTURETURTLEE.PDF",
+    "Page": "25",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country cannot be inferred"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Ian Craig Longden Gender: Male Age: 67 years old Highest level of education: Below a bachelor's degree Major: - Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TURTLE), PDF 02_STRUCTURETURTLEE.PDF p23 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TURTLE/1042ONE160620261745190629E__zip/02_STRUCTURETURTLEE.PDF",
+    "Page": "23",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p23 (found 10/11/2026; was INFERRED_WEAK from the name); position from p25; country cannot be inferred"
+   }
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "TRC",
+    "Loh Eng Kee"
+   ],
+   "before": {
+    "Evidence_Type": "INFERRED",
+    "Evidence_Quote": "Loh Eng Kee Deputy Chief Executive Officer, Executive Committee and Acting Vice President of Operation Division Age: 68 … 87% (262,039 shares) Family Relationship among Executives: None Education: Technical Diploma in Mechanical Engineering, Singapore Polytechnic, Singapore Training: Institution Program Thai Institute of Director Association Director Accredita",
+    "Source": "Form 56-1 One Report 2025 (TRC), PDF 01_ONEREPORTTRCE.PDF p327",
+    "Local_File": "raw/docs/TRC/0890ONE070420261738040501E__zip/01_ONEREPORTTRCE.PDF",
+    "Page": "327",
+    "Thai_Nationality_Stated": "",
+    "Residing_In_Thailand": "",
+    "Note": "INFERRED_WEAK (foreign status): non-Thai name in the executive list, which has no nationality field; country INFERRED_MEDIUM: education / career in Singapore named in the profile (report p327) + name"
+   },
+   "after": {
+    "Evidence_Type": "ONE_REPORT_FIELD",
+    "Evidence_Quote": "Mr. Loh Eng Kee Gender: Male Age: 68 years old Highest level of education: Below a bachelor's degree Major: Mechanical Engineering, Singapore Polytechnic, Singapore Thai nationality: No Residing in Thailand: Yes",
+    "Source": "Form 56-1 One Report 2025 (TRC), PDF 02_STRUCTURETRCE.PDF p22 (executive committee list, 7.3.2)",
+    "Local_File": "raw/docs/TRC/0890ONE070420261738040501E__zip/02_STRUCTURETRCE.PDF",
+    "Page": "22",
+    "Thai_Nationality_Stated": "No",
+    "Residing_In_Thailand": "Yes",
+    "Note": "foreign status: 'Thai nationality: No' in the executive-committee list p22 (found 10/11/2026; was INFERRED_WEAK from the name); position from p327; country INFERRED_MEDIUM: education / career in Singapore named in the profile (report p327) + name"
+   }
+  }
+ ],
+ "why": "foreign status of 6 executives is printed ('Thai nationality: No') in the One Report executive-committee list, which 05 maps to SKIP; found while searching UNKNOWN countries 10/11/2026"
+}

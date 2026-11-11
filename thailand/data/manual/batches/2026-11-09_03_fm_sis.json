@@ -1,0 +1,276 @@
+{
+ "country": [
+  {
+   "Ticker_Local": "SIS",
+   "Manager_Name": "HWEE HAI LIM",
+   "Nationality": "Singapore",
+   "Nationality_Raw": "Singapore",
+   "Country_Evidence_Type": "DOC_FIELD",
+   "Country_Quote": "Board diversity table: column 'Mr. Lim Hwee Hai' – Nationality 'Singapore' (checked on the page image)",
+   "Country_Source": "Form 56-1 One Report 2025 (SIS) – board diversity table, PDF 01_ONE_REPORT_SISE.PDF p136",
+   "Country_Source_URL": "https://market.sec.or.th/public/idisc/Download?FILEID=dat/f56/0776E1N240320261857040378E.zip",
+   "Note": ""
+  },
+  {
+   "Ticker_Local": "SIS",
+   "Manager_Name": "HWEE NOI LIM",
+   "Nationality": "Singapore",
+   "Nationality_Raw": "Singapore",
+   "Country_Evidence_Type": "DOC_FIELD",
+   "Country_Quote": "Board diversity table: column 'Mrs. Lim Hwee Noi' – Nationality 'Singapore' (checked on the page image)",
+   "Country_Source": "Form 56-1 One Report 2025 (SIS) – board diversity table, PDF 01_ONE_REPORT_SISE.PDF p136",
+   "Country_Source_URL": "https://market.sec.or.th/public/idisc/Download?FILEID=dat/f56/0776E1N240320261857040378E.zip",
+   "Note": ""
+  }
+ ],
+ "candidate_decisions": [
+  {
+   "Ticker_Local": "BCT",
+   "Name": "Mr. Rajendra Vijay [1][2]",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 65.88%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/BCT/0200ONE300620261628410695B__zip/02_STRUCTUREBCTB.PDF",
+   "Page": "49"
+  },
+  {
+   "Ticker_Local": "BCT",
+   "Name": "Mr. Jayant Gehlot",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 65.88%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/BCT/0200ONE300620261628410695B__zip/02_STRUCTUREBCTB.PDF",
+   "Page": "49"
+  },
+  {
+   "Ticker_Local": "GJS",
+   "Name": "Mr. RAJEEV JHAWAR [1]",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 57.26%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GJS/0585ONE300320261616240788E__zip/02_STRUCTUREGJSE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GJS",
+   "Name": "Mr. TOSHIKAZU MUKAIYAMA",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 57.26%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GJS/0585ONE300320261616240788E__zip/02_STRUCTUREGJSE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GJS",
+   "Name": "Mr. Hiroshi Ebina",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 57.26%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GJS/0585ONE300320261616240788E__zip/02_STRUCTUREGJSE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GJS",
+   "Name": "Mr. Hisashi Hisashi",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 57.26%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GJS/0585ONE300320261616240788E__zip/02_STRUCTUREGJSE.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "GJS",
+   "Name": "Mr. Yoshihiko Sadatoshi",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 57.26%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GJS/0585ONE300320261616240788E__zip/02_STRUCTUREGJSE.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "GSTEEL",
+   "Name": "Mr. RAJEEV JHAWAR [1]",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 68.36%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GSTEEL/0891ONE300320261629040075E__zip/02_STRUCTUREGSTEELE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GSTEEL",
+   "Name": "Mr. TOSHIKAZU MUKAIYAMA",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 68.36%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GSTEEL/0891ONE300320261629040075E__zip/02_STRUCTUREGSTEELE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GSTEEL",
+   "Name": "Mr. Hiroshi Ebina",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 68.36%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GSTEEL/0891ONE300320261629040075E__zip/02_STRUCTUREGSTEELE.PDF",
+   "Page": "22"
+  },
+  {
+   "Ticker_Local": "GSTEEL",
+   "Name": "Mr. Hisashi Kato",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 68.36%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GSTEEL/0891ONE300320261629040075E__zip/02_STRUCTUREGSTEELE.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "GSTEEL",
+   "Name": "Mr. Yoshihiko Sadatoshi",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 68.36%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GSTEEL/0891ONE300320261629040075E__zip/02_STRUCTUREGSTEELE.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "GYT",
+   "Name": "Mr. Eric Cheng",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 66.96%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/GYT/0034ONE300320261753350608E__zip/02_STRUCTUREGYTE.PDF",
+   "Page": "26"
+  },
+  {
+   "Ticker_Local": "HFT",
+   "Name": "Mr. SHEN, KUO - JUNG",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.48%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/HFT/0755ONE310320261836090857E__zip/02_STRUCTUREHFTE.PDF",
+   "Page": "26"
+  },
+  {
+   "Ticker_Local": "IFS",
+   "Name": "Mr. Ee Huei Voon",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 73.21%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IFS/1036ONE160320262002420629B__zip/02_STRUCTUREIFSB.PDF",
+   "Page": "49"
+  },
+  {
+   "Ticker_Local": "IVL",
+   "Name": "Mr. Alastair Mark Port",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.58%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IVL/1027ONE200320261303190524E__zip/02_STRUCTUREIVLE.PDF",
+   "Page": "27"
+  },
+  {
+   "Ticker_Local": "IVL",
+   "Name": "Mr. Diego Boeri",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.58%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IVL/1027ONE200320261303190524E__zip/02_STRUCTUREIVLE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "IVL",
+   "Name": "Mr. Anuj Lohia",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.58%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IVL/1027ONE200320261303190524E__zip/02_STRUCTUREIVLE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "IVL",
+   "Name": "Mrs. Aradhana Lohia Sharma",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.58%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IVL/1027ONE200320261303190524E__zip/02_STRUCTUREIVLE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "IVL",
+   "Name": "Mr. Nicolas Seguin",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 69.58%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/IVL/1027ONE200320261303190524E__zip/02_STRUCTUREIVLE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "METCO",
+   "Name": "Mr. SHIGERU TAKAMATSU",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 74.28%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/METCO/0304ONE221220251836330103E__zip/02_STRUCTUREMETCOE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "METCO",
+   "Name": "Mr. Seiji Kubosaka",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 74.28%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/METCO/0304ONE221220251836330103E__zip/02_STRUCTUREMETCOE.PDF",
+   "Page": "28"
+  },
+  {
+   "Ticker_Local": "MST",
+   "Name": "Mr. Koh Swee Ong",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 83.52%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/MST/0744ONE270320261324320053E__zip/02_STRUCTUREMSTE.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "SPACK",
+   "Name": "Mr. YOSHIAKI SUTO",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 75.75%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/SPACK/0768ONE310320261634460755E__zip/02_STRUCTURESPACKE.PDF",
+   "Page": "25"
+  },
+  {
+   "Ticker_Local": "TMW",
+   "Name": "นาย โทมัทสุ อะซายาม่า",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 70.74%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TMW/0740ONE290620260939380178T__zip/02_STRUCTURETMWT.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "TMW",
+   "Name": "นาย ฮิโรสึกุ ทานาเบะ",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 70.74%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TMW/0740ONE290620260939380178T__zip/02_STRUCTURETMWT.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "TMW",
+   "Name": "นาย ฮิโรชิ ฮานาโอกะ",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 70.74%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TMW/0740ONE290620260939380178T__zip/02_STRUCTURETMWT.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "TMW",
+   "Name": "นาย มาซาฮิโร ฟูนาดะ [1]",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 70.74%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TMW/0740ONE290620260939380178T__zip/02_STRUCTURETMWT.PDF",
+   "Page": "23"
+  },
+  {
+   "Ticker_Local": "TR",
+   "Name": "Mr. Udaishanker Mahaprasad Misra",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 89.12%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TR/0075ONE260620261102120984B__zip/02_STRUCTURETRB.PDF",
+   "Page": "44"
+  },
+  {
+   "Ticker_Local": "TR",
+   "Name": "Mr. Rajesh Kumar Jha [1]",
+   "Decision": "NOT_SEARCHED_FOREIGN_MAJORITY",
+   "Reason": "FOREIGN_MAJORITY company (FO 89.12%): executive list without a nationality field is not searched beyond BoardEx and the One Report (plan decision 07/11/2026); company flag is already set by stated directors",
+   "Source_File": "raw/docs/TR/0075ONE260620261102120984B__zip/02_STRUCTURETRB.PDF",
+   "Page": "44"
+  },
+  {
+   "Ticker_Local": "SIS",
+   "Name": "Hwee Lim",
+   "Decision": "SAME_AS_RECORD",
+   "Reason": "BoardEx \"Hwee Lim\" (id 1959266) is one of the siblings Lim Hwee Hai / Lim Hwee Noi, both in the One Report board list (Thai nationality: No, recorded); the id matched both names equally, so it is not attached to either",
+   "Source_File": "",
+   "Page": ""
+  }
+ ]
+}

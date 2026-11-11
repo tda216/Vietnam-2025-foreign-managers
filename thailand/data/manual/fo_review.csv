@@ -1,0 +1,88 @@
+Ticker_Local,Decision,Basis,Page,Reviewed_On
+BAY,USE_FILING,MUFG Bank (Japan) holds 76.88% directly at 31/12/2025 – see ownership_manual.csv,72,2026-11-08
+SHANG,KEEP_FACTSHEET,"Shangri-La Asia Group 73.61% is held 'through its subsidiaries including Siam Suite Holding Limited which is a company duly registered in Thailand' (indirect, via a Thai juristic person): registered foreign holding stays the factsheet 48.75% (same convention as Vietnam: indirect control via domestic entities not counted)",43,2026-11-08
+OHTL,KEEP_FACTSHEET,Mandarin Oriental Holdings B.V. 42.39% + other foreign holders within the 49% foreign limit (no waiver stated); factsheet 48.75%,26,2026-11-08
+KYE,KEEP_FACTSHEET,Mitsubishi Electric Corporation 45.34%; other top holders Thai; factsheet 47.47% <= 50,24,2026-11-08
+TPA,KEEP_FACTSHEET,MCC Methacrylates UK Overseas Holdco 42.28%; Asiatic Acrylic Company Limited 34.12% is on the Thai register (factsheet foreign 44.92% ~ MCC + others),25,2026-11-08
+LST,KEEP_FACTSHEET,"Hap Seng Consolidated Berhad 20% + Lam Soon Cannery 7.48% + custodians ~ factsheet 41.99%; Lam Soon Holding Co., Ltd. 42.11% is on the Thai register",51,2026-11-08
+CSC,KEEP_FACTSHEET,Japanese holders Nippon Closures 37.582% + Toyo Seikan 10.000% = 47.58% (table states nationality); at the 40% factsheet cap but < 50,27,2026-11-08
+THRE,KEEP_FACTSHEET,HWIC Asia Fund 47.14% within the 49% foreign limit; factsheet 48.92%,27,2026-11-08
+WIIK,KEEP_FACTSHEET,Morgan Stanley & Co. International plc (British) 47.75% within the 49% limit; factsheet 48.46%,48,2026-11-08
+AYUD,KEEP_FACTSHEET,Allianz Asia Holding (via Deutsche Bank AG Singapore custodian) 38.93% + UBS 2.12%; factsheet 42.59%,13,2026-11-08
+FMT,KEEP_FACTSHEET,"CTJ Holdings2, Ltd. 42.25%; other top holders Thai; factsheet 44.89%",21,2026-11-08
+SSSC,KEEP_FACTSHEET,"Okaya & Co., Ltd. (Japan) 33.25%; factsheet 36.26%",30,2026-11-08
+RAM,KEEP_FACTSHEET,Cypress Consolidated Healthcare Pte. Ltd. 24.99%; factsheet 25.80%,37,2026-11-08
+KGI,KEEP_FACTSHEET,KGI Asia (Holdings) 34.97%; factsheet 36.95%,28,2026-11-08
+WACOAL,KEEP_FACTSHEET,Wacoal Corporation 33.61% (as at 31/12/2025); factsheet 33.67%,42,2026-11-08
+PSL,KEEP_FACTSHEET,Globex Corporation Limited 28.40% is on the Thai register (factsheet foreign 21.70% ~ Julius Baer 14.82% + Graintrade 8.34% - …),112,2026-11-08
+BJC,KEEP_FACTSHEET,TCC Corporation / TCC Holdings (2519) are Thai-registered companies (word 'Corporation' marked them); FO 9.29%,79,2026-11-09
+CTW,KEEP_FACTSHEET,"FO 40.75% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+GYT,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 66.96% (as of Nov 2026)",,2026-11-09
+ASTR,KEEP_FACTSHEET,"FO 46.03% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TR,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 89.12% (as of Nov 2026)",,2026-11-09
+TNL,KEEP_FACTSHEET,Saha Pathana Inter-Holding Plc. and I.C.C. International Plc. are Thai companies ('Plc' marked them); FO 0.26%,44,2026-11-09
+ALUCON,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 78.45% (as of Nov 2026)",,2026-11-09
+TC,KEEP_FACTSHEET,"FO 47.06% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+WIN,KEEP_FACTSHEET,"foreign limit 95.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.08% (as of Nov 2026)",,2026-11-09
+BCT,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 65.88% (as of Nov 2026)",,2026-11-09
+QH,KEEP_FACTSHEET,Land and Houses PLC is a Thai company; FO 7.55%,,2026-11-09
+METCO,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 74.28% (as of Nov 2026)",,2026-11-09
+HANA,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 41.98% (as of Nov 2026)",,2026-11-09
+SVOA,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.92% (as of Nov 2026)",,2026-11-09
+DELTA,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 92.11% (as of Nov 2026)",,2026-11-09
+NOBLE,KEEP_FACTSHEET,"FO 37.37% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+GJS,KEEP_FACTSHEET,Nippon Steel group 57.60% at 30/12/2025 incl. G Steel PCL (Thai) 8.24%; direct foreign Asia Credit Opportunities I (Mauritius) 40.45% + Nippon Steel 7.70% + Quam Securities 5.86% > 50%; factsheet 57.26% (limit 100%),31,2026-11-09
+CCET,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 84.68% (as of Nov 2026)",,2026-11-09
+AEONTS,KEEP_FACTSHEET,"AEON Financial Service (Japan) 35.12% direct; ACS Capital Corporation and AEON Holdings (Thailand) are Thai-registered (indirect, not counted); FO 46.18% <= limit 49%",,2026-11-09
+FPT,KEEP_FACTSHEET,"Frasers Property Holdings (Thailand) 38.3% is Thai-registered (indirect, not counted); FO at limit 49%",,2026-11-09
+YUASA,KEEP_FACTSHEET,"FO 40.69% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+AH,KEEP_FACTSHEET,"FO 47.69% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TSTH,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 70.43% (as of Nov 2026)",,2026-11-09
+MFEC,KEEP_FACTSHEET,TIS Inc. (Japan) 48.99% inside the foreign register; FO at limit 49%,,2026-11-09
+TMW,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 70.74% (as of Nov 2026)",,2026-11-09
+MST,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 83.52% (as of Nov 2026)",,2026-11-09
+TYCN,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 43.42% (as of Nov 2026)",,2026-11-09
+HFT,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 69.48% (as of Nov 2026)",,2026-11-09
+SPACK,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 75.75% (as of Nov 2026)",,2026-11-09
+PICO,KEEP_FACTSHEET,"FO 49.15% <= foreign limit 49.99% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+SIS,KEEP_FACTSHEET,SiS Technologies (Thailand) Pte. 47.29% inside the foreign register; FO 48.97% <= limit 49%,,2026-11-09
+TKT,KEEP_FACTSHEET,"FO 45.21% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TAPAC,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.68% (as of Nov 2026)",,2026-11-09
+INOX,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 77.16% (as of Nov 2026)",,2026-11-09
+PTL,KEEP_FACTSHEET,"Polyplex Corporation (India) owns directly and indirectly 51% (connected-transactions table); factsheet 51.06% (limit 100%, not capped)",103,2026-11-09
+ASK,KEEP_FACTSHEET,"Chailease group 57.91% incl. Chailease Capital (Thailand) 9.42% (Thai-registered, indirect – not counted); direct foreign Chailease Finance 36.61% + Chailease International (Malaysia) 11.88% = 48.49% <= limit 49%",26,2026-11-09
+CPR,KEEP_FACTSHEET,"FO 49.0% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TSC,KEEP_FACTSHEET,"FO 26.95% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TPAC,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.22% (as of Nov 2026)",,2026-11-09
+GSTEEL,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 68.36% (as of Nov 2026)",,2026-11-09
+SYNEX,KEEP_FACTSHEET,"FO 41.12% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TISCO,KEEP_FACTSHEET,the 99.99% holder TISCO Financial Group PLC is the Thai parent in a subsidiary's list; FO 27.64% <= limit 49%,,2026-11-09
+SMT,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 14.93% (as of Nov 2026)",,2026-11-09
+BLA,KEEP_FACTSHEET,State Street 24.21% (custodian) inside the foreign register; FO at the 25% limit of a life insurer,,2026-11-09
+LHFG,KEEP_FACTSHEET,CTBC Bank (Taiwan) 46.61% inside the foreign register; FO 46.96% <= limit 49%,,2026-11-09
+IVL,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 69.58% (as of Nov 2026)",,2026-11-09
+IFS,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 73.21% (as of Nov 2026)",,2026-11-09
+SYMC,KEEP_FACTSHEET,"FO 49.0% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+AAV,KEEP_FACTSHEET,airline: foreign limit 0.1% of the listed holding company; FO at the limit,,2026-11-09
+BEAUTY,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.01% (as of Nov 2026)",,2026-11-09
+BJCHI,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 73.27% (as of Nov 2026)",,2026-11-09
+MEGA,KEEP_FACTSHEET,"Shah family 50.13% is not in the foreign register (factsheet 13.95% with limit 100%, so the register is not capped)",81,2026-11-09
+ALPHAX,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 30.76% (as of Nov 2026)",,2026-11-09
+NDR,KEEP_FACTSHEET,"FO 41.59% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TWPC,KEEP_FACTSHEET,"FO 46.66% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+SPRC,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 72.04% (as of Nov 2026)",,2026-11-09
+INGRS,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 60.46% (as of Nov 2026)",,2026-11-09
+HUMAN,KEEP_FACTSHEET,"FO 28.63% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+CPT,KEEP_FACTSHEET,"FO 47.55% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+VRANDA,KEEP_FACTSHEET,"FO 25.65% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TTT,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 71.91% (as of Nov 2026)",,2026-11-09
+KISS,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 36.1% (as of Nov 2026)",,2026-11-09
+TEGH,KEEP_FACTSHEET,"FO 25.09% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+NTSC,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 0.0% (as of Nov 2026)",,2026-11-09
+DEXON,KEEP_FACTSHEET,"FO 38.02% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+FSX,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 68.7% (as of Nov 2026)",,2026-11-09
+BKGI,KEEP_FACTSHEET,"foreign limit 51.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 43.28% (as of Nov 2026)",,2026-11-09
+PCE,KEEP_FACTSHEET,"FO 30.79% <= foreign limit 49.0% (legal cap of the foreign register); no foreign strategic holder above the limit in the One Report top-10 list, non-financial issuer (no waiver case)",,2026-11-09
+TIDLOR,KEEP_FACTSHEET,"foreign limit 100.0% > 50%, so the factsheet register is not capped and counts every foreign holder; FO 9.06% (as of Nov 2026)",,2026-11-09
+MRDIYT,KEEP_FACTSHEET,"MR. D.I.Y. Co., Ltd. 25.09% is Thai-registered (indirect); Tan Yu Yeh / Tan Yu Wei / MDIH (Singapore) 34.23% sit in the foreign register; FO at limit 49%",32,2026-11-09
+FND,KEEP_FACTSHEET,"One Report 2025 (F&D) p69: after the mandatory tender offer of 15 May 2025 'Mr. Chang Chih-Hao held 95.39% of the Company’s total shares'; p15 (list as of 31/12/2024): Mr. Chang Chih Hao 46.72%, Thai NVDR Co., Ltd. 26.95%, TSD for Depositors 22.57%. The registered foreign holding is capped at the 49% foreign limit and the rest is held through NVDR / the depository, so FO stays the factsheet 49.00% (decision 07/11/2026: NVDR is not added); see NVDR_Sensitive.",69,2026-11-09

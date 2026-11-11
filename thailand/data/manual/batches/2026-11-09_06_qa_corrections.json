@@ -1,0 +1,59 @@
+{
+ "corrections": [
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "THBEV",
+    "Koh Poh Tiong"
+   ],
+   "before": {
+    "Is_Foreign": "1",
+    "Nationality": "Singapore",
+    "Country_Evidence_Type": "INFERRED_MEDIUM",
+    "Nationality_Raw": "INFERRED"
+   },
+   "after": "UNKNOWN row"
+  },
+  {
+   "file": "manager_records.csv",
+   "key": [
+    "LRH",
+    "Edmund Tan"
+   ],
+   "before": {
+    "Is_Foreign": "1",
+    "Nationality": "Singapore",
+    "Country_Evidence_Type": "INFERRED_MEDIUM"
+   },
+   "after": "UNKNOWN row"
+  },
+  {
+   "file": "country_records.csv",
+   "key": [
+    "PMTA",
+    "JEAN PAUL THEVENIN"
+   ],
+   "before": "France INFERRED_WEAK",
+   "after": "France BOARDEX"
+  },
+  {
+   "file": "country_records.csv",
+   "key": [
+    "LRH",
+    "STUART D. READING"
+   ],
+   "before": "Australia INFERRED_MEDIUM",
+   "after": "Singapore INFERRED_STRONG"
+  },
+  {
+   "file": "country_records.csv",
+   "key": [
+    "SVI",
+    "Carsten Bremerskov Kaysen"
+   ],
+   "before": "p159",
+   "after": "p157"
+  }
+ ],
+ "why": "independent QA of the rows added on 09/11/2026"
+}

@@ -1,0 +1,737 @@
+[
+ {
+  "Person_Key": "fong leong wai",
+  "Manager_Names": [
+   "WAI LEONG FONG"
+  ],
+  "Ticker_Locals": [
+   "CEN"
+  ],
+  "Status": "FOUND",
+  "Country": "Malaysia",
+  "Nationality_Word": "Malaysian",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "FONG WAI LEONG | Male, Aged 56, Malaysian | Independent Non-Executive Director | Mr Fong Wai Leong was appointed to the Board on 4 January 2021. ... Mr Fong Wai Leong is a qualified Chartered Accountant with the Malaysia Institute of Certified Public Accountants.",
+  "Source_Title": "Oceancash Pacific Berhad (Bursa Malaysia) Annual Report 2024, Board of Directors profiles, PDF page 47 (AR 2023 PDF p.36: 'FONG WAI LEONG Male, Aged 55, Malaysian')",
+  "URL": "https://oceancash.com/wp-content/uploads/2025/04/Annual-Report-2024.pdf",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "Same full name (CEN writes 'Mr. Wai Leong Fong'); CEN One Report 2024 (cenplc.com, PDF p.338) gives age 56 and 'Accounting & Finance, Malaysia Institute of Certified Public Accountants' - Oceancash AR2024 gives 'Aged 56' and MICPA chartered accountant (AR2023: aged 55 vs CEN 2023 report age 54 at a different reference date). Oceancash also says he advised on investments in Thailand. Note: no source names CEN and Oceancash together.",
+  "Searches": [
+   "\"Fong Wai Leong\" director accountant Malaysia",
+   "\"Fong Wai Leong\" \"Malaysian\" aged annual report independent non-executive director",
+   "Avillion Berhad annual report \"Fong Wai Leong\" Malaysian"
+  ],
+  "Hints": "NATIONALITY_FROM_OTHER_ISSUER. Also CEO/Executive Director of Avillion Berhad (Bursa) and director of PBS Berhad / Pelikan International. Avillion AR on reliance.listedcompany.com returns a 202 bot-challenge (skipped)."
+ },
+ {
+  "Person_Key": "ช ช ต น ว",
+  "Manager_Names": [
+   "ชิว ชุน ตี"
+  ],
+  "Ticker_Locals": [
+   "MGT"
+  ],
+  "Status": "FOUND",
+  "Country": "Malaysia",
+  "Nationality_Word": "มาเลเซีย",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "ข้อมูลของผู้ได้รับการเสนอชื่อเพื่อแต่งตั้งเป็นกรรมการ บริษัท เมกาเคม (ประเทศไทย) จำกัด (มหาชน) ข้อมูลทั่วไป ชื่อ – นามสกุล : นายชิว ชุน ตี อายุ : 65 ปี สัญชาติ : มาเลเซีย ที่อยู่ : 18 Springleaf Height Singapore 788112",
+  "Source_Title": "Megachem (Thailand) PCL - Notice of AGM 2026 (Thai), Enclosure 1 nominee profile, PDF page 10 (page image checked)",
+  "URL": "https://megachem.co.th/wp-content/uploads/2026/03/Notice-AGM-2026_TH.pdf",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "The issuer's own (MGT) AGM notice: same Thai name 'นายชิว ชุน ตี', age 65, BSc Chemistry University of Guelph, director of Megachem (Thailand) PCL since 2548 (2005) and chairman of Megachem Ltd since 2554 - matches the MGT One Report 2025 profile.",
+  "Searches": [
+   "\"Chew Choon Tee\" Megachem nationality Singaporean"
+  ],
+  "Hints": "Address in Singapore and Megachem Ltd (Singapore) 'country of principal residence: Singapore' = residence only; the nationality field says Malaysia."
+ },
+ {
+  "Person_Key": "qiyu wang",
+  "Manager_Names": [
+   "QIYU WANG"
+  ],
+  "Ticker_Locals": [
+   "PSL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Jackie Wang\" Google Thailand country director"
+  ],
+  "Hints": "Opened Bangkok Post Women of the Year 2021 'Jackie Wang', Koktail 'The Future List: Jackie Wang', The Standard 'google-jack-wang', Marketing Oops (Google SEA leadership 2019): career only (Industry Head Google Thailand, Google US - Nest brand manager, McCann), no nationality. Brand Buffet (Sep 2025): replaced as Google Thailand Country Manager by Rafael Scislowski, moved to a regional role in Singapore."
+ },
+ {
+  "Person_Key": "ben faouzi harrath",
+  "Manager_Names": [
+   "Ben Harrath Faouzi"
+  ],
+  "Ticker_Locals": [
+   "SUTHA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Faouzi Ben Harrath\" OR \"Ben Harrath Faouzi\" Carmeuse",
+   "\"Faouzi Ben Harrath\" nationalité OR nationality OR belge OR tunisien"
+  ],
+  "Hints": "Only aggregator profiles (MarketScreener: VP Operations / COO Carmeuse SA, Carmeuse Coordination Center SA, Carmeuse Nederland BV; VP Marketing, Innovation & Supply Chain Carmeuse Europe NV since 2018; engineering degree Faculte Polytechnique de Mons 1991) - employer/education only, no nationality. goldenlime.co.th still fails TLS verification (incomplete certificate chain) for curl and WebFetch - skipped. Next step: SUTHA AGM notice nominee profile or a French/Belgian register that prints nationality."
+ },
+ {
+  "Person_Key": "น พ ฟอง แจน",
+  "Manager_Names": [
+   "ฟอง พิน แจน"
+  ],
+  "Ticker_Locals": [
+   "CHO"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"ฟอง พิน แจน\" OR \"ฟองพินแจน\" ช.ทวี กรรมการ"
+  ],
+  "Hints": "No web hit for the Thai-script name; Latin spelling still unknown. cho.co.th fails TLS verification (skipped), so the CHO 2024 AGM/board-appointment documents could not be opened."
+ },
+ {
+  "Person_Key": "chin hock lim",
+  "Manager_Names": [
+   "LIM CHIN HOCK"
+  ],
+  "Ticker_Locals": [
+   "TRUBB"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Lim Chin Hock\" latex OR rubber Thailand doctor agricultural engineering",
+   "\"Lim Chin Hock\" Thai Rubber Latex OR Thaitex OR \"rubber latex\" Malaysian"
+  ],
+  "Hints": "No web page about him found (round 1 search also empty). TRUBB One Report p.255: age 78, doctorate in Agricultural Engineering, R&D Manager since 1 Mar 1998."
+ },
+ {
+  "Person_Key": "gerard mcgurk",
+  "Manager_Names": [
+   "Gerard McGurk"
+  ],
+  "Ticker_Locals": [
+   "ILM"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Gerard McGurk\" retail",
+   "\"Gerard McGurk\" Robinson OR \"Index Living Mall\" OR \"Central Retail\"",
+   "\"Gerard McGurk\" Index Living Mall India interview British OR Irish OR Scottish"
+  ],
+  "Hints": "Career only (aggregators): Marks & Spencer commercial manager 1984-1998 (UK employer - not nationality), SVP Merchandising / COO Robinson PCL (Thailand) 1998-2010; ILM Head of Retail & Commercial Operations (IndiaRetailing Nov 2024 / Images Retail Dec 2024 interviews - indiaretailing.com returns HTTP 402, magzter paywalled). Foreign status itself is INFERRED (name only)."
+ },
+ {
+  "Person_Key": "kiat low low marco peng",
+  "Manager_Names": [
+   "MARCO LOW PENG KIAT LOW"
+  ],
+  "Ticker_Locals": [
+   "NDR"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Marco Low Peng Kiat\" nationality",
+   "\"Low Peng Kiat\" Malaysian OR Singaporean Low Keng Huat son"
+  ],
+  "Hints": "No explicit nationality found. Checked NDR AGM notices 2022-2026 (ndrubber.co.th; 2023 notice p.35 re-election profile has no nationality field). The Edge Singapore (theedgesingapore.com, 'value investor requests Low Keng Huat's independent directors ask better price'): the 2025 offeror for Low Keng Huat (Singapore) Ltd is owned by Consistent Record Sdn Bhd (Malaysian company) owned by Marco Low and his mother - ownership only, not nationality. lkhs.com.sg returns 403 (skipped). Next step: the LKH 2025 offer document / IFA circular (SGXNet) may describe the offeror's directors."
+ },
+ {
+  "Person_Key": "lau wayne william",
+  "Manager_Names": [
+   "WILLIAM WAYNE LAU"
+  ],
+  "Ticker_Locals": [
+   "NOBLE"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"William Wayne Lau\" OR \"Lau William Wayne\" B.S.C. Group Hong Kong"
+  ],
+  "Hints": "Results only cover William W. Lau, founder/chairman of B.S.C. Group (Hong Kong; ex-NED Sands China) - probably his father, a different person; aggregator pages only, no nationality. HKEX INED-appointment announcements (China-Hongkong Photo, 1123) normally give no nationality."
+ },
+ {
+  "Person_Key": "anthony caprara franco la",
+  "Manager_Names": [
+   "Anthony Franco La Caprara"
+  ],
+  "Ticker_Locals": [
+   "SHR"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Anthony La Caprara\" OR \"Anthony Franco La Caprara\" hotels design technical",
+   "\"La Caprara\" hotel Thailand OR Maldives OR Fiji senior vice president technical services"
+  ],
+  "Hints": "No web page about him found (no news, no profile). Foreign status itself is INFERRED (name only)."
+ },
+ {
+  "Person_Key": "e monty richardson",
+  "Manager_Names": [
+   "Monty E. Richardson"
+  ],
+  "Ticker_Locals": [
+   "DEXON"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Monty Richardson\" pipeline inspection ILI",
+   "\"Monty Richardson\" Dexon OR \"in-line inspection\" OR pigging Thailand"
+  ],
+  "Hints": "No web page about him found; dexon-technology.com has no management bios (round 1)."
+ },
+ {
+  "Person_Key": "andrew boagey peter",
+  "Manager_Names": [
+   "PETER ANDREW BOAGEY"
+  ],
+  "Ticker_Locals": [
+   "TPA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Peter Boagey\" Mitsubishi Chemical",
+   "\"Boagey\" methacrylates OR Lucite OR MMA chairman Thailand"
+  ],
+  "Hints": "TPA AGM 2026 nominee profile (thaipolyacrylic.com, Attachment 4 'Mr. Peter Andrew Boagey', age 58, appointed 15 Dec 2025, BSc Engineering University of Durham, UK) has no nationality field - UK education only. No web page states his nationality; predecessor Tok Chee Ming was a Mitsubishi Chemical Group officer."
+ },
+ {
+  "Person_Key": "alvin gee",
+  "Manager_Names": [
+   "Alvin Gee"
+  ],
+  "Ticker_Locals": [
+   "BEM"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Alvin Gee\" Bangkok Expressway OR BEM OR \"CH. Karnchang\""
+  ],
+  "Hints": "BEM Information Memorandum 2024 (investor.bemplc.co.th/storage/document/information-memorandum/2024/20240329-bem-information-memorandum-en.pdf p.45) lists 'Mr. Alvin Gee, Deputy Managing Director Administration' without nationality. Aggregators: Boston College 1993; ex-CEO Southeast Asia Energy; CK Power board 2013-15 - no nationality."
+ },
+ {
+  "Person_Key": "craig ian longden",
+  "Manager_Names": [
+   "IAN CRAIG LONGDEN"
+  ],
+  "Ticker_Locals": [
+   "TURTLE"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Ian Longden\" Super Turtle OR \"Lawson\" Thailand CEO",
+   "\"Ian Longden\" Big C OR \"Yves Rocher\" OR Tesco British",
+   "\"Ian Longden\" Watsons OR \"Tesco Lotus\" Englishman OR British OR Australian OR expat Bangkok"
+  ],
+  "Hints": "Career only: ex-MD Yves Rocher Thailand; Big C Supercenter executive director & SVP small store format; 20 years in Thai beauty/food retail (Watsons, Big C, Tesco Lotus) per Bangkok Post 11 Dec 2017 (article text obfuscated for non-subscribers). superturtle.co.th management page has no nationality. Note: TURTLE executive-committee table states 'Thai nationality: No' (stated foreign)."
+ },
+ {
+  "Person_Key": "sai simon suen wah",
+  "Manager_Names": [
+   "SAI WAH SIMON SUEN"
+  ],
+  "Ticker_Locals": [
+   "CTW",
+   "ITD"
+  ],
+  "Status": "FOUND",
+  "Country": "United Kingdom",
+  "Nationality_Word": "British",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "Profiles of the nominated directors 3. Name-Surname : Mr. Sai Wah Simon Suen Position in the Company : Independent Director, Chairman of the Audit Committee and Chairman of the Nomination and Compensation Committee Age : 66 Years Nationality : British Education : MBA, Finance Major, University of Hawaii, USA",
+  "Source_Title": "Charoong Thai Wire & Cable PCL - Invitation to the Annual General Meeting of Shareholders for 2026, profiles of the nominated directors, PDF page 15 (printed page 13; page image checked)",
+  "URL": "https://ctw.co.th/wp-content/uploads/2026/03/Invitation-letter-for-Annual-General-Shareholders-Meeting-for-2026.pdf",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "The issuer's own (CTW) AGM notice: same full name, CTW independent director / audit-committee chairman, 17 years on board (since 2009), University of Hawaii MBA, and 'Independent Director, Member of Audit Committee, Italian-Thai Development Plc., 2018 - Present' - links both CTW and ITD positions.",
+  "Searches": [
+   "\"Simon Suen\" Charoong Thai Wire OR \"Italian-Thai\" director"
+  ],
+  "Hints": "Covers both Ticker_Locals (CTW and ITD) - the CTW profile names his ITD directorship."
+ },
+ {
+  "Person_Key": "chor ee tan",
+  "Manager_Names": [
+   "Chor Ee Tan"
+  ],
+  "Ticker_Locals": [
+   "TLI"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tan Chor Ee\" actuary",
+   "\"Chor Ee\" Tan AIA Taiwan chief financial officer Thai Life",
+   "\"Tan Chor Ee\" OR \"Chor Ee Tan\" Thai Life Insurance chief strategy"
+  ],
+  "Hints": "No web page about him found (results only on other AIA/Thai Life executives). Profile (TLI One Report p.311): LSE BSc/MSc, FSA (USA), ex-CFO/CMO AIA Taiwan - education/employer only."
+ },
+ {
+  "Person_Key": "ก ซ น ล ว อ",
+  "Manager_Names": [
+   "ซือ ลุ๋น กัว"
+  ],
+  "Ticker_Locals": [
+   "CPL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [],
+  "Hints": "Checked CPL AGM notices 2566-2569 (cpl.co.th/storage/investor-documents/agm/<year>/invitation-full.pdf): AGM 2025 (2568) re-election profile p.24 'นายกัว ซือ ลุ๋น', age 70, director since 13 Dec 1994, education 'Diploma Shu the Junior College of Technology' (probably Shu-Te, Taiwan - education only), no nationality field. Latin spelling still unknown."
+ },
+ {
+  "Person_Key": "adam husin",
+  "Manager_Names": [
+   "Husin Adam"
+  ],
+  "Ticker_Locals": [
+   "TKN"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Adam Husin\" OR \"Husin Adam\" Taokaenoi chief strategy commercial officer",
+   "\"Adam Husin\" OR \"Husin Adam\" Mondelez OR Nestle OR Unilever OR FMCG Asia"
+  ],
+  "Hints": "No web page about him found. TKN One Report p.168: age 52, MBA, CSCO since 16 Aug 2023, resides in Thailand."
+ },
+ {
+  "Person_Key": "ง ยะ หวาง เซ เต",
+  "Manager_Names": [
+   "เต็ง เซียะ หวาง"
+  ],
+  "Ticker_Locals": [
+   "DIMET"
+  ],
+  "Status": "FOUND",
+  "Country": "Taiwan",
+  "Nationality_Word": "ไต้หวัน",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "ประวัติโดยสังเขปของผู้ที่ได้รับการเสนอชื่อให้เข้าดำรงตำแหน่งกรรมการแทนกรรมการที่ครบกำหนดตามวาระ ชื่อ - นามสกุล นาย เต็ง เซียะ หวาง ประเภทของกรรมการ ประธานกรรมการ กรรมการตรวจสอบ ประธานกรรมการสรรหาและพิจารณาค่าตอบแทน อายุ 62 ปี สัญชาติ ไต้หวัน",
+  "Source_Title": "DIMET (Siam) PCL - Notice of AGM 2024 (หนังสือเชิญประชุมสามัญผู้ถือหุ้น AGM 2567), Enclosure 3 nominee profile, PDF page 24 (also Enclosure 6 independent-director proxy profile, PDF page 32: 'สัญชาติ : ไต้หวัน'); page image checked (text layer drops the tone mark: 'ไตหวัน')",
+  "URL": "https://1802eb64c5.clvaw-cdnwnd.com/804b1585d730977ac57c9a636f64697f/200000500-217392173a/หนังสือเชิญประชุมสามัญผู้ถือหุ้น AGM 2567 TH-6.pdf?ph=1802eb64c5",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "The issuer's own (DIMET) AGM notice, linked from dimetsiam.com/th/การประชุมผู้ถือหุ้น-agm/: same Thai name 'นาย เต็ง เซียะ หวาง', Chairman + audit committee + chairman of nomination & remuneration committee - matches the DIMET One Report 2025 (Chairman, independent director).",
+  "Searches": [],
+  "Hints": "Career: Feng Chia University (Taiwan) BSc; Evergreen Construction (Taiwan) 1991-1999; Green River Panel (Thailand); TDIC South. Romanised name not in the notice."
+ },
+ {
+  "Person_Key": "carlos diaz leonel rigby",
+  "Manager_Names": [
+   "Carlos Leonel Diaz Rigby"
+  ],
+  "Ticker_Locals": [
+   "SAPPE"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Carlos Diaz Rigby\" OR \"Carlos L. Diaz Rigby\"",
+   "\"Carlos Diaz\" Sappe chief commercial officer"
+  ],
+  "Hints": "No web page linking a Carlos (Leonel) Diaz Rigby to SAPPE found; sappe.com board/about pages have no executive nationality. Name suggests a Latin-American background (not evidence)."
+ },
+ {
+  "Person_Key": "chang foo long",
+  "Manager_Names": [
+   "CHANG LONG FOO"
+  ],
+  "Ticker_Locals": [
+   "CGH"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Chang Long Foo\" OR \"Foo Chang Long\" OR \"Long Foo Chang\" True Health OR Lifetrack",
+   "\"Chang Foo\" \"True Health\" OR \"True Digital\" managing director"
+  ],
+  "Hints": "No web page about him found. CGH IR site (ir.cgholdings.co.th) lists only placeholder AGM 2027 files; older AGM notices load via script (not reached); cgh.listedcompany.com returns a 202 bot challenge (skipped)."
+ },
+ {
+  "Person_Key": "huynh marie sophie",
+  "Manager_Names": [
+   "SOPHIE MARIE HUYNH"
+  ],
+  "Ticker_Locals": [
+   "MUD"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Sophie Huynh\" Mud and Hound OR \"Mud & Hound\" OR Bangkok",
+   "\"Sophie Huynh\" deputy CEO international business development"
+  ],
+  "Hints": "No web page about her found; mudandhound.co.th management page lists no nationality."
+ },
+ {
+  "Person_Key": "brett lollback",
+  "Manager_Names": [
+   "BRETT LOLLBACK"
+  ],
+  "Ticker_Locals": [
+   "TTCL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Brett Lollback\"",
+   "\"Lollback\" TTCL OR engineering OR EPC vice chairman"
+  ],
+  "Hints": "Only aggregator pages (MarketScreener/Zonebourse): TTCL director from Dec 2022 (?), VP Unit Operation Officer EPC Business Unit (2018-), director of Tmsp Sdn Bhd (Malaysia) and Blackwood Technology BV - employer only, no nationality."
+ },
+ {
+  "Person_Key": "chan kin tak",
+  "Manager_Names": [
+   "CHAN KIN TAK"
+  ],
+  "Ticker_Locals": [
+   "TURTLE",
+   "VGI"
+  ],
+  "Status": "FOUND",
+  "Country": "United Kingdom",
+  "Nationality_Word": "British",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "Profiles of Candidates Nominated for Election as Directors Name : Mr. Chan Kin Tak Age : 60 Nationality : British Type of directorship to be appointed : Director Date of appointment as director : 15 November 2007 ... Chief Operation Officer / Authorised Director",
+  "Source_Title": "VGI PCL - Invitation to the 2025 Annual General Meeting of Shareholders, Enclosure 3 'Profiles of Candidates Nominated for Election as Directors', PDF page 61 (printed page 55); image-only page - quote transcribed from the page image",
+  "URL": "https://investor.vgi.co.th/storage/document/shareholder-meetings/invitation/agm2025/vgi-agm2025-invitation-en.pdf",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "The issuer's own (VGI) AGM notice: same full name, VGI director / Chief Operation Officer / authorised director, education 'St. Louis Old Boy College', DCP 2013 / DAP 2010 - matches the VGI One Report 2025 profile; the same page lists 'Positions in other Thai listed companies: 2022-Present Director, Super Turtle Plc' (TURTLE position).",
+  "Searches": [
+   "\"Chan Kin Tak\" VGI OR BTS OR \"Hong Kong\" chief operating officer"
+  ],
+  "Hints": "Covers both Ticker_Locals (VGI and TURTLE). VGI AGM 2026 minutes (p.31-33) confirm his re-election at the 2025 AGM. Date of appointment shown as 15 Nov 2007 (VGI One Report 2025 says 15 Oct 2024 - likely a re-appointment date); identity otherwise matches."
+ },
+ {
+  "Person_Key": "hsin huai lee",
+  "Manager_Names": [
+   "HUAI HSIN LEE"
+  ],
+  "Ticker_Locals": [
+   "FND"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Huai Hsin Lee\" OR \"Lee Huai Hsin\" Food and Drinks Thailand"
+  ],
+  "Hints": "FND documents on fnd.co.th (One Report files): Thai name 'นาย หวยซิน ลี', executive director, 9.89% shareholder, nomination & remuneration committee member (resigned May 2025) - no nationality field. Family: father Kasem Deemaitree and sister Huai Hui Lee (both Thai per earlier note) - not evidence."
+ },
+ {
+  "Person_Key": "john thompson trevor",
+  "Manager_Names": [
+   "TREVOR JOHN THOMPSON"
+  ],
+  "Ticker_Locals": [
+   "PLANET"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Trevor Thompson\" Planet Communications Asia co-founder Thailand",
+   "\"Trevor Thompson\" Planet Comm OR \"Planet Communications\" Canadian OR British OR Australian"
+  ],
+  "Hints": "PLANET AGM nominee profiles 2014-2017 (planetcomm.com/wp-content/uploads/2018/10/09-AGM-<year>-Brief-personal-profiles*.pdf) give age, director since 27 Apr 1994, 'Bachelor of Commerce, Engineering, British Columbia Institute of Technology, Canada' - no nationality field (Canadian education only). Company about page: co-founder with Prapat Rathlertkarn."
+ },
+ {
+  "Person_Key": "han mong siew",
+  "Manager_Names": [
+   "Mong Siew Han"
+  ],
+  "Ticker_Locals": [
+   "MTI"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Mong Siew Han\" OR \"Han Mong Siew\" Muang Thai",
+   "\"Mong Siew Han\" OR \"Dr. Mong Siew\" Thailand honorary doctorate businessman"
+  ],
+  "Hints": "Only a MarketScreener page ('Siew Han Mong', MTI executive director since Aug 2019; lists NTU and Ayudhya Allianz C.P. Life - may be mixed data). MTI website board page and IR pages are JavaScript-driven; MTI AGM notices not reached."
+ },
+ {
+  "Person_Key": "chia jiun yuan",
+  "Manager_Names": [
+   "YUAN JIUN CHIA"
+  ],
+  "Ticker_Locals": [
+   "PICO"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Chia Yuan Jiun\" Pico",
+   "Pico Far East Holdings annual report \"Chia Yuan Jiun\" aged director biography"
+  ],
+  "Hints": "Identity confirmed but no nationality: HKEX announcement of Pico Far East Holdings (752) 31 Dec 2025 (https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1231/2025123101881.pdf p.2): 'Ms. Jean Chia Yuan Jiun, aged 52, joined the Group in 1998 ... She is also a director of Pico (Thailand) Public Company Limited ... served as its chief executive officer until June 9, 2024' - LSE graduate; directorships in Singapore (Pte Ltd) and Malaysian (Sdn Bhd) subsidiaries; 2002-03 HK annual reports say she then worked from Singapore. picothai.com investors page returns HTTP 522 (PICO AGM notices not reachable)."
+ },
+ {
+  "Person_Key": "beng chia james kerry lee",
+  "Manager_Names": [
+   "KERRY JAMES CHIA BENG LEE"
+  ],
+  "Ticker_Locals": [
+   "LANNA"
+  ],
+  "Status": "FOUND",
+  "Country": "Singapore",
+  "Nationality_Word": "Singaporean",
+  "Evidence_Type": "WEBSITE",
+  "Descriptor": false,
+  "Quote": "Mr. Kerry James Chia Beng Lee Board of Directors Mr. Kerry James Chia Beng Lee Position: Director Age 59 years Nationality Singaporean Date of Appointment April 22, 2024 Education and Training Diploma in Nautical Studies, Singapore Polytechnic",
+  "Source_Title": "Lanna Resources PCL website - Board of Directors - Mr. Kerry James Chia Beng Lee",
+  "URL": "https://www.lannar.com/en/board-of-directors-modal/mr-kerry-james-chia-beng-lee/",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "The issuer's own (LANNA) board page: same full name, Director appointed 22 Apr 2024, age 59, nautical-studies diploma - all match the LANNA One Report 2025 p.169.",
+  "Searches": [
+   "\"Kerry Lee\" INSEE OR \"Siam City Cement\" nautical"
+  ],
+  "Hints": "Company website field 'Nationality'. Also SCCC/INSEE nominee (Group Strategic Materials & Fuel; ex-CEO Siam City Cement Trading)."
+ },
+ {
+  "Person_Key": "tak tim timothy wong",
+  "Manager_Names": [
+   "TIM TAK TIMOTHY WONG"
+  ],
+  "Ticker_Locals": [
+   "PIS"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Timothy Wong\" KWI CFO Thailand RMIT",
+   "\"Wong Tim Tak\" OR \"Tim Tak Wong\" KWI OR \"Pro Inside\" OR Loxbit"
+  ],
+  "Hints": "Aggregators only (MarketScreener 'Tak Wong Tim'): KWI Group CFO & Secretary from 1 Nov 2023, PIS independent director since 2022, ex-director Loxbit Plc 2005-2021 - no nationality. PIS AGM notices 2025 and 2026 (proinside.co.th) do not contain his profile."
+ },
+ {
+  "Person_Key": "christopher robert tape",
+  "Manager_Names": [
+   "CHRISTOPHER ROBERT TAPE"
+  ],
+  "Ticker_Locals": [
+   "PIMO"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Christopher Tape\" OR \"Chris Tape\" ABB Indonesia OR Fasco OR \"Pioneer Motor\"",
+   "\"Christopher Tape\" OR \"Chris Tape\" ABB country manager Indonesia president"
+  ],
+  "Hints": "Aggregators only (ex-ABB Thailand MD & Country Manager 1980-1996, Fasco Asia Pacific). PIMO website (pioneermotor.th.com download.php?cid=83) shareholder-meeting files for 2024 are image-only scans of financial statements; the AGM notice with his re-election profile was not located."
+ }
+]

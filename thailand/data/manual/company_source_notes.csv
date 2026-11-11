@@ -1,0 +1,30 @@
+Ticker_Local,Source_Basis,Note,Reviewed_On
+TNH,ONE_REPORT_FY2025_JUL,"Fiscal year 1 Aug 2024 – 31 Jul 2025 (One Report 2025 filed 08/12/2025, from the SEC filing list); the FY2026 report filed 03/11/2026 is not yet downloadable from SEC",2026-11-09
+CITY,ONE_REPORT_FY2025_JUL,"Fiscal year end 31 July 2025 (e-One Report filed 24/10/2025, from the SEC filing list); the FY2026 report filed 27/10/2026 is not yet downloadable from SEC",2026-11-09
+QDC,ONE_REPORT_2024_FALLBACK,"One Report 2025 (filed 05/11/2026) not yet downloadable from SEC; One Report 2024 (as JCK Hospitality, filed 15/09/2026) used as the last resort – people appointed later in 2025 may be missing",2026-11-09
+MVP,ONE_REPORT_2024_FALLBACK,One Report 2025 (filed 29/10/2026) not yet downloadable from SEC; One Report 2024 (filed 27/03/2025) used as the last resort – people appointed later in 2025 may be missing,2026-11-09
+AKS,ONE_REPORT_2024_FALLBACK,"Delisted (SEC profile 'NonListed'); the last One Report is 2024 (filed 31/03/2025); ownership not resolved (largest holder ZICO TRUST (S) LTD, a nominee account, 17.99%)",2026-11-09
+BANPUU,ONE_REPORT_2025,Bloomberg 'BANPU PCL /OLD' = Banpu PCL before its 2026 amalgamation with Banpu Power; One Report 2025 filed 08/05/2026 (SEC id 0000000337); FO from the factsheet of the successor BANPU (Nov 2026),2026-11-09
+SNJ,ONE_REPORT_2025,SET symbol S&J (Bloomberg drops '&'),2026-11-09
+SEED,ONE_REPORT_2025,SET symbol SE-ED (Bloomberg drops '-'),2026-11-09
+FND,ONE_REPORT_2025,SET symbol F&D (Bloomberg drops '&'),2026-11-09
+MCHAI,ONE_REPORT_2025,SET symbol M-CHAI (Bloomberg drops '-'),2026-11-09
+QCON,ONE_REPORT_2025,SET symbol Q-CON (Bloomberg drops '-'),2026-11-09
+LNE,ONE_REPORT_2025,SET symbol L&E (Bloomberg drops '&'),2026-11-09
+SVI,ONE_REPORT_2025,Delisted (SEC profile 'NonListed'); One Report 2025 (filed 25/03/2026) taken from the SEC filing list – the SET factsheet no longer exists,2026-11-09
+GLAND,ONE_REPORT_2025,Delisted (SEC profile 'NonListed'); One Report 2025 (filed 27/03/2026) taken from the SEC filing list,2026-11-09
+BPP,ONE_REPORT_2025,Delisted after the 2026 amalgamation with Banpu; One Report 2025 (filed 20/03/2026) taken from the SEC filing list,2026-11-09
+LRH,ONE_REPORT_2025,"Suspended (SP sign) since 05/06/2025, no SET factsheet; One Report 2025 (filed 31/03/2026) taken from the SEC filing list",2026-11-09
+UOBKH,,Delisted 25/04/2026 after a tender offer by UOB-Kay Hian Holdings; no One Report 2025 on SEC and the 2024 file returns 'file not found',2026-11-09
+THBEV,FOREIGN_LISTING_ANNUAL_REPORT,"No Form 56-1: ThaiBev Annual Report 2025 (SGX; FY 1 Oct 2024 – 30 Sep 2025; board and management as of 26 Nov 2025) compared with the 2024 report (as of 21 Nov 2024) for people who left; no profile states nationality, Thai-named people passed the name screen",2026-11-09
+6603,FOREIGN_LISTING_ANNUAL_REPORT,"No Form 56-1: IFBH Annual Report 2025 (HKEX; board as of 31 Dec 2025, senior management biographies); no profile states nationality, Thai-named people passed the name screen",2026-11-09
+MMT,FOREIGN_LISTING_ANNUAL_REPORT,"No Form 56-1: Mermaid Annual Report 2025 (SGX; 7 directors through 2025, key executives); country managers of foreign subsidiaries not counted",2026-11-09
+FN_US,,"Ownership: rule for foreign-listed companies without a controller (decision 09/11/2026) – no Thai holder in the 2025 proxy → FOREIGN_MAJORITY. Managers not searched (FOREIGN_MAJORITY, no One Report)",2026-11-09
+FLG,,"Ownership: rule for foreign-listed companies without a controller (decision 09/11/2026) – Thai holders 1.90% → FOREIGN_MAJORITY. Note: incorporated in Singapore, principal place of business Santiago (Chile); Thai assets held by subsidiaries. Managers not searched",2026-11-09
+1949,,"Ownership: rule for foreign-listed companies without a controller (decision 09/11/2026) – Thai founders' Pynk Holding 10.63% → FOREIGN_MAJORITY. Managers not searched (FOREIGN_MAJORITY, no One Report)",2026-11-09
+8444,,"Ownership: identified Taiwanese / Samoa-registered holders 50.36% (2025 Annual Report, list at 19/04/2026, unchanged since 18/12/2025) → FOREIGN_MAJORITY. Managers not searched (FOREIGN_MAJORITY, no One Report)",2026-11-09
+ZUUS,,"No accessible filing: US SEC EDGAR refuses the project's User-Agent (HTTP 403, not worked around)",2026-11-09
+BKMP,,"No accessible filing (OTC; no market cap in Bloomberg); US SEC EDGAR refuses the project's User-Agent (HTTP 403, not worked around)",2026-11-09
+VPSN,,No filings: trading suspended by the US SEC in July 2007 ('has made no public filings with the Commission'),2026-11-09
+TAPAC,ONE_REPORT_2024_FALLBACK,"No One Report 2025 on SEC at 09/11/2026: the latest 56-1 is for year 2024 (filed late, 13/07/2026); used as the last resort – people appointed later in 2025 may be missing",2026-11-09
+MILL,ONE_REPORT_2024_FALLBACK,No One Report 2025 on SEC at 09/11/2026: the latest 56-1 is for year 2024 (filed 01/04/2025); used as the last resort – people appointed later in 2025 may be missing,2026-11-09

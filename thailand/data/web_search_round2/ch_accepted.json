@@ -1,0 +1,74 @@
+[
+ {
+  "Ticker_Local": "AH",
+  "Manager_Name": "TEO LEE NGO",
+  "Nationality": "Malaysia",
+  "Nationality_Raw": "Malaysian",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/PwtPjwbw5cJ_K1NobNj3DcHfTsw/appointments",
+  "Company": "SAKTHI GLOBAL AUTO HOLDINGS",
+  "Identity": "DOB June 1950 = age 75; director of Sakthi Global Auto Holdings (acquired by AAPICO), correspondence address Bang Pa-In, Ayutthaya (AAPICO head office), residence Thailand"
+ },
+ {
+  "Ticker_Local": "AH",
+  "Manager_Name": "Xin Rhu Yeap",
+  "Nationality": "Malaysia",
+  "Nationality_Raw": "Malaysian",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/s4A_bWN-5s_ooMnVknqHdT6b4Rw/appointments",
+  "Company": "SAKTHI GLOBAL AUTO HOLDINGS",
+  "Identity": "DOB December 1979 = age 46; director of Sakthi Global Auto Holdings (AAPICO group), address Bang Pa-In, Ayutthaya, residence Thailand"
+ },
+ {
+  "Ticker_Local": "TU",
+  "Manager_Name": "ADAM BRENNAN",
+  "Nationality": "United Kingdom",
+  "Nationality_Raw": "British",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/Sfpe24tlLg3mQUvos0qPzMkW454/appointments",
+  "Company": "AQUACULTURE STEWARDSHIP COUNCIL",
+  "Identity": "Adam Russell Brennan, DOB March 1986 = age 39; director of the Aquaculture Stewardship Council (seafood sustainability, his field at Thai Union), residence Thailand"
+ },
+ {
+  "Ticker_Local": "HANA",
+  "Manager_Name": "Richard David Han",
+  "Nationality": "United States",
+  "Nationality_Raw": "Usa",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/8rCH2Jx7BhaYe8HwU57Z8uwM7Rs/appointments",
+  "Company": "HANA (UK) LIMITED",
+  "Identity": "DOB May 1957 = age 68; director of Hana (UK) Limited (Hana Microelectronics group); record as filed before 1991"
+ },
+ {
+  "Ticker_Local": "TPA",
+  "Manager_Name": "TOK CHEE MING",
+  "Nationality": "Singapore",
+  "Nationality_Raw": "Singaporean",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/mNwvYU4biieay8zdFInrubA95hU/appointments",
+  "Company": "MCC METHACRYLATES CHINA HOLDINGS",
+  "Identity": "DOB April 1970 = age 55 (One Report: engineering degree, not residing in Thailand); director of MCC Methacrylates China Holdings (Mitsubishi Chemical group, TPA's group), residence Singapore"
+ },
+ {
+  "Ticker_Local": "NDR",
+  "Manager_Name": "MARCO LOW PENG KIAT LOW",
+  "Nationality": "Malaysia",
+  "Nationality_Raw": "Malaysian",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/eBli8DYgmDLLlFlrGYOrhiqwatQ/appointments",
+  "Company": "JOHSIEN PTE LIMITED",
+  "Identity": "Marco Peng Kiat Low, DOB November 1972 = age 53; residence Malaysia (One Report: director of Consistent Record Sdn. Bhd., Malaysia; degree from City University, England). Identity by full name + birth year + residence"
+ },
+ {
+  "Ticker_Local": "NOBLE",
+  "Manager_Name": "WILLIAM WAYNE LAU",
+  "Nationality": "United Kingdom",
+  "Nationality_Raw": "British",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/h_Czeyw1E2aGNrLOxINke6MuJYQ/appointments",
+  "Company": "MANHATTAN SHOWERS LIMITED",
+  "Identity": "DOB September 1976 = age 49 (One Report: law degree, not residing in Thailand); address and residence Hong Kong. Identity by full name + birth year + residence"
+ },
+ {
+  "Ticker_Local": "TCMC",
+  "Manager_Name": "Tuan Jin Aw",
+  "Nationality": "Malaysia",
+  "Nationality_Raw": "Malaysian",
+  "URL": "https://find-and-update.company-information.service.gov.uk/officers/9NBTbom8nZmai4INAv3IkqhlBow/appointments",
+  "Company": "DONNELLEY FINANCIAL SOLUTIONS GROUP UK",
+  "Identity": "DOB August 1976 = age 49; finance director in the UK (Donnelley Financial, resigned 11 Jul 2025) before joining TCM Living (UK, TCMC group) in Aug 2025; NATIONALITY_CONFLICT: two other officer records with the same birth date (2018, 2022) say Thai, while the One Report says 'Thai nationality: No' and the other records say Malaysian"
+ }
+]

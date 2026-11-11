@@ -1,0 +1,8 @@
+Ticker_Local,SET_Symbol,Reason,Checked_On
+SNJ,S&J,"Bloomberg drops '&' (S&J International Enterprises PCL)",2026-11-09
+BANPUU,BANPU,"Bloomberg 'BANPU PCL /OLD' = Banpu PCL before its 2026 amalgamation with Banpu Power (SEC id 0000000337, One Report 2025 filed 08/05/2026); the SET symbol BANPU now shows the amalgamated successor, so its factsheet FO (Nov 2026) is a proxy",2026-11-09
+SEED,SE-ED,"Bloomberg drops '-' (SE-Education PCL)",2026-11-09
+FND,F&D,"Bloomberg drops '&' (Food and Drinks PCL)",2026-11-09
+MCHAI,M-CHAI,"Bloomberg drops '-' (Mahachai Hospital PCL)",2026-11-09
+QCON,Q-CON,"Bloomberg drops '-' (Quality Construction Products PCL)",2026-11-09
+LNE,L&E,"Bloomberg drops '&' (Lighting & Equipment PCL)",2026-11-09

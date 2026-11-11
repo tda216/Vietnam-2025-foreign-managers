@@ -1,0 +1,750 @@
+[
+ {
+  "Person_Key": "aniello sorrentino",
+  "Manager_Names": [
+   "Aniello Sorrentino"
+  ],
+  "Ticker_Locals": [
+   "BH"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Aniello Sorrentino\" Bumrungrad American",
+   "\"Neil Sorrentino\" Bumrungrad",
+   "\"Sorrentino\" Bumrungrad International \"American\" hospital executive Asian Hospital"
+  ],
+  "Hints": "Also known as Neil M. Sorrentino (MarketScreener insider profile: Chief Strategy Officer BH since Feb 2017; CEO International Business Development & Hospital, Bumrungrad International Ltd. 2006-2008; MBA Florida Atlantic, doctorate Nova Southeastern, BA Univ. of South Florida). No page states his nationality; US education only."
+ },
+ {
+  "Person_Key": "minhaj zafar",
+  "Manager_Names": [
+   "MINHAJ ZAFAR"
+  ],
+  "Ticker_Locals": [
+   "PSL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Minhaj Zafar\" Precious Shipping",
+   "\"Minhaj Zafar\" Indian marine engineer Bangkok"
+  ],
+  "Hints": "No web page about him beyond PSL's own profile (Indian education/employers only)."
+ },
+ {
+  "Person_Key": "chia sherlyn",
+  "Manager_Names": [
+   "SHERLYN CHIA"
+  ],
+  "Ticker_Locals": [
+   "ETL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Sherlyn Chia\" Euroasia nationality",
+   "\"Sherlyn Chia\" ETL OR \"Euroasia Total Logistics\" director",
+   "\"Sherlyn Chia\" Malaysian OR Singaporean OR Malaysia OR Singapore"
+  ],
+  "Hints": "No web page about her found. etl.co.th is a JS site (no IR documents retrievable by plain fetch). ETL top holders: WICE Logistics 43.15%, NOYA HOLDING (HK) 15.94%, Miss Sherlyn Chia 12.28%; LL.B. Leeds, BPTC BPP (UK)."
+ },
+ {
+  "Person_Key": "chee soh yong",
+  "Manager_Names": [
+   "Soh Chee Yong"
+  ],
+  "Ticker_Locals": [
+   "ASIA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Soh Chee Yong\" Chomthana OR \"Asia Hotel\" OR Singaporean",
+   "\"Soh Chee Yong\" Société Générale OR Commerzbank OR \"Deutsche Bank\" Singapore"
+  ],
+  "Hints": "No web page about him found."
+ },
+ {
+  "Person_Key": "chen jit wee",
+  "Manager_Names": [
+   "CHEN JIT WEE"
+  ],
+  "Ticker_Locals": [
+   "TRUBB"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Chen Jit Wee\""
+  ],
+  "Hints": "No web page about him found (only similar names)."
+ },
+ {
+  "Person_Key": "chan christopher tsz ying",
+  "Manager_Names": [
+   "Tsz Ying Christopher Chan"
+  ],
+  "Ticker_Locals": [
+   "CREDIT"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Christopher Chan\" \"Thai Credit\" bank IT executive vice president",
+   "\"Chan Tsz Ying\" OR \"Tsz Ying Chan\" Christopher Krungsri OR \"Standard Chartered\" OR \"GE Capital\""
+  ],
+  "Hints": "Opened https://investor.thaicreditbank.com/en/leadership/management-team/31/mr-tsz-ying-christopher-chan : First EVP since 23 May 2016; B.Math and B.Comp.Sci., University of Windsor, Canada; Standard Chartered 1988-2004, GE Capital 2004-09, Bank of Ayudhya 2009-16. No nationality stated (Canadian education is not nationality)."
+ },
+ {
+  "Person_Key": "ซ น นดา ล เฉ",
+  "Manager_Names": [
+   "ลูซินดา เฉิน"
+  ],
+  "Ticker_Locals": [
+   "D"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Lucinda Chen\" Dental Corporation Bangkok International Dental Center",
+   "\"Lucinda Chen\" BIDC OR \"Bangkok International Dental\" OR Thailand marketing",
+   "\"Lucinda Chen\" Singaporean dental Bangkok"
+  ],
+  "Hints": "Latin spelling confirmed as 'Lucinda Chen'. Opened https://www.thailandstarterkit.com/podcasts/brewed-in-bangkok/bib038-all-smiles-with-lucinda-chen/ (podcast BiB038, 22 May 2026): 'Lucinda Chen, one of the directors of Bangkok International Dental Center. Lucinda is from Singapore and is a London School of Economics graduate.' and 'About Lucinda Lucinda is from Singapore ... She used to work at Accenture in Singapore as a Business Consultant ... Lucinda is the Director and International Relations Manager of the Bangkok International Dental Center (BIDC), which is managed by the Dental Corporation PLC'. 'from Singapore' is origin, not an explicit nationality statement (a search summary called her 'Singaporean' but the page does not). vritimes.com article returned 429 (skipped). Owner may treat as INFERRED_MEDIUM (Singapore)."
+ },
+ {
+  "Person_Key": "boon choon kiat",
+  "Manager_Names": [
+   "Boon Choon Kiat",
+   "CHOON KIAT BOON"
+  ],
+  "Ticker_Locals": [
+   "CHEWA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Boon Choon Kiat\" Chewathai",
+   "\"Boon Choon Kiat\" Singaporean OR Singapore OR Malaysian Thailand property",
+   "Chewathai founder \"Boon\" Singaporean OR Singapore developer Bangkok condominium Bangkok Post"
+  ],
+  "Hints": "MarketScreener CHOON-KIAT-BOON-A1DWK0: MD/CEO Chewathai since 13 Mar 2008; undergraduate NTU Singapore 1998. Opened investor.chewathai.com/en/newsroom/news-clippings/534333 (ShareInvestor Q&A, 1 Jul 2016): Chewathai was set up in 2008 as a JV of the Panichewa family and TEE Development Pte Ltd of Singapore (TEE Land, SGX) - Boon probably came from the TEE side, but no nationality is stated. TEE Land / TEE International SGX annual reports might profile him."
+ },
+ {
+  "Person_Key": "aw jin tuan",
+  "Manager_Names": [
+   "Tuan Jin Aw"
+  ],
+  "Ticker_Locals": [
+   "TCMC"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tuan Jin Aw\" OR \"Aw Tuan Jin\" CFO"
+  ],
+  "Hints": "Identity confirmed by theorg.com/org/tcm-living/org-chart/tuan-jin-aw: Group CFO TCM Living since Aug 2025; Finance Director EMEA, Donnelley Financial Solutions Oct 2009-Jul 2025; BSc Accounting & Finance, LSE - this matches the Companies House 'Tuan Jin AW' (DFS UK directorships, 'Nationality Malaysian') found in round 1. Companies House was out of scope for this pass; no other source states nationality."
+ },
+ {
+  "Person_Key": "ern lim wee",
+  "Manager_Names": [
+   "Lim Wee Ern"
+  ],
+  "Ticker_Locals": [
+   "TRU"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Lim Wee Ern\" Thairung OR \"Thai Rung\" OR Malaysian",
+   "\"Lim Wee Ern\""
+  ],
+  "Hints": "MarketScreener LIM-WEE-ERN-A18999: Assistant MD OEM Sales & Export, Thai Rung Union Car; GM Sales & Marketing TTR Thairung; undergraduate University of Arkansas (USA). No nationality statement."
+ },
+ {
+  "Person_Key": "julia petpaisit w",
+  "Manager_Names": [
+   "JULIA W. PETPAISIT"
+  ],
+  "Ticker_Locals": [
+   "PANEL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Julia Petpaisit\" OR \"Julia W. Petpaisit\" Panelesmatic",
+   "Panelesmatic Solution CEO Julia founder cleanroom panel Thailand"
+  ],
+  "Hints": "Only company/market pages (CEO since 1990; family held 40.53% after the Feb 2024 mai IPO). No nationality statement."
+ },
+ {
+  "Person_Key": "chee ming tok",
+  "Manager_Names": [
+   "TOK CHEE MING"
+  ],
+  "Ticker_Locals": [
+   "TPA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tok Chee Ming\" Mitsubishi Chemical",
+   "\"Chee Ming Tok\" OR \"Tok Chee Ming\" Singapore Lucite logistics"
+  ],
+  "Hints": "MarketScreener CHEE-MING-TOK-A2ITAV: Chairman TPA from 11 May 2023; Mitsubishi Chemical Group corporate officer from 2020; corporate officer Lucite International Singapore Pte Ltd 2011/12-2019/20; finalscout: Director Global Supply Chain Management, Mitsubishi Chemical Methacrylates, Singapore; undergraduate NTU 1995. Singapore employer/education is not nationality."
+ },
+ {
+  "Person_Key": "loo seah sin",
+  "Manager_Names": [
+   "SEAH SIN LOO"
+  ],
+  "Ticker_Locals": [
+   "KAMART"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Seah Sin Loo\" OR \"Loo Seah Sin\" Karmarts"
+  ],
+  "Hints": "No web page about him found."
+ },
+ {
+  "Person_Key": "michael sagild",
+  "Manager_Names": [
+   "MICHAEL SAGILD"
+  ],
+  "Ticker_Locals": [
+   "BEYOND"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Michael Sagild\" hotel",
+   "\"Sagild\" Thailand \"Bound and Beyond\" OR Danish OR Denmark general manager",
+   "\"Michael Sagild\" Danish OR Dane OR Swede OR \"born in\""
+  ],
+  "Hints": "Opened hospitalitynet.org/appointment/79010936.html and mynewsdesk BLINK Design Group press release (CEO of BLINK Design Group, Bangkok; founder Sagild and Associates; ex-MD Asia Pacific Development MGM Hospitality; ex-CEO Stein Group International; ex-COO Minor Hotels & Resorts / Anantara) - neither states nationality. Danish surname only (not evidence). Old Minor International (MINT) annual reports c.2006-08 might print his nationality."
+ },
+ {
+  "Person_Key": "ataboonwong benjamin",
+  "Manager_Names": [
+   "BENJAMIN ATABOONWONG"
+  ],
+  "Ticker_Locals": [
+   "RICHY"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Benjamin Ataboonwong\""
+  ],
+  "Hints": "Opened RICHY AGM 2025 invitation https://www.richy.co.th/uploads/meeting/03aa8-.pdf (PDF p.5, p.56): nominee 'นายเบนจามินทร์ อรรถบูรณ์วงศ์', age 31, proposed by a shareholder; Bachelor International Development Studies, Australian Catholic University, Sydney; MBA Assumption University; International Business Manager of RICHY since 2018; director of อรรถบูรณ์สินทรัพย์ Co. The nominee profile has no nationality field. Australian education is not nationality. Family: Somsak Ataboonwongse (Thai) is a RICHY director."
+ },
+ {
+  "Person_Key": "hin kean lim",
+  "Manager_Names": [
+   "Kean Hin Lim"
+  ],
+  "Ticker_Locals": [
+   "TLI"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Lim Kean Hin\" Thai Life Insurance president",
+   "\"Kean Hin Lim\" OR \"Lim Kean Hin\" insurance Tokio Marine OR Generali OR Prudential",
+   "\"Lim Kean Hin\""
+  ],
+  "Hints": "No web page about him found."
+ },
+ {
+  "Person_Key": "น นเวน ย เฉ",
+  "Manager_Names": [
+   "ยูนเวน เฉิน"
+  ],
+  "Ticker_Locals": [
+   "CPL"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"ยูนเวน เฉิน\" OR \"Yunwen Chen\" CPL Group ซี.พี.แอล."
+  ],
+  "Hints": "CPL One Report: นางสาว ยูนเวน เฉิน, female, age 49, master's in management, executive director from 24 Feb 2568 (2025), skills fashion/commerce; สัญชาติไทย: ไม่ใช่, resident in Thailand: ใช่. Another CPL director is listed by MarketScreener as 'Rui Teng Chen' (since 2010). Latin spelling unverified; no web page found."
+ },
+ {
+  "Person_Key": "peng teo wilson yong",
+  "Manager_Names": [
+   "WILSON TEO YONG PENG",
+   "Wilson Teo Yong Peng"
+  ],
+  "Ticker_Locals": [
+   "ARIP",
+   "IT",
+   "SVOA"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Wilson Teo Yong Peng\" OR \"Teo Yong Peng\" SVOA",
+   "\"Wilson Teo\" SVOA OR \"IT City\" Singaporean OR Singapore CFO Thailand"
+  ],
+  "Hints": "MarketScreener YONG-PENG-TEO-A0X3RB: CFO/director SVOA since c.2002, director ARIP, IT City (from 10 Apr 2018), Digitech One; former director of Business Online (BOL) until Nov 2020; doctorate Univ. of Manchester, MBA Oxford Brookes. No nationality statement."
+ },
+ {
+  "Person_Key": "charles christopher tay",
+  "Manager_Names": [
+   "TAY CHRISTOPHER CHARLES"
+  ],
+  "Ticker_Locals": [
+   "S11"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Christopher Charles Tay\" OR \"Tay Christopher Charles\" Singapore"
+  ],
+  "Hints": "MarketScreener CHRISTOPHER-CHARLES-TAY-A2983J: director S 11 Group since 11 May 2016; Honest Joe's Autos Pte Ltd, Fussfree Auto; former director KPMG Consulting Pte Ltd (to 2002); MBA Manchester Business School. Singapore businesses only - no nationality statement."
+ },
+ {
+  "Person_Key": "lam sam weng",
+  "Manager_Names": [
+   "Weng Sam Lam"
+  ],
+  "Ticker_Locals": [
+   "ROCTEC"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Lam Weng Sam\" OR \"Weng Sam Lam\" ROCTEC OR \"Roctec Global\"",
+   "\"Sam Lam\" Roctec Master Ad MACO CEO appointed Hong Kong VGI"
+  ],
+  "Hints": "Known as Mr. Sam Lam (Weng Sam Lam / Sam Lam Weng): chairman of Roctec Technology Ltd (Hong Kong), CEO of Master Ad PCL from Aug 2023 (renamed ROCTEC Global Dec 2023); CEO & director Trans.Ad Solutions; undergraduate HKUST, graduate degree Hong Kong PolyU (MarketScreener SAM-LAM-WENG-A2I145). roctec.com.hk/?p=18926 now redirects to the homepage. Hong Kong education/employer only - no nationality statement."
+ },
+ {
+  "Person_Key": "chong tai yih",
+  "Manager_Names": [
+   "TAI CHONG YIH"
+  ],
+  "Ticker_Locals": [
+   "TRT"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tai Chong Yih\" OR \"Chong Yih Tai\" Tirathai",
+   "\"Tai Chong Yih\" Nok Air OR \"Max Metal\" Malaysian investor"
+  ],
+  "Hints": "MarketScreener TAI-CHONG-YIH-A0XC19: director Tirathai since Jul 2005, deputy CEO & director Nok Airlines from 16 Jul 2020, chairman Max Metal Corp from 29 Sep 2023; undergraduate Univ. of Toronto, graduate Sasin (Thailand). He holds 9.08% of GREEN (Green Resources). AsianInvestor 14 Apr 2004 'RHB's Thai Tai' says a 'Chong Yih Tai' started at United Malayan Banking in Kuala Lumpur and became RHB country head for Thailand (rest behind sign-in; identity and nationality not confirmed). TRT AGM invitation link on tirathai.co.th returned 404. The NOK / MAX AGM nominee profiles may print nationality."
+ },
+ {
+  "Person_Key": "lu tai young",
+  "Manager_Names": [
+   "YOUNG TAI LU"
+  ],
+  "Ticker_Locals": [
+   "UEC"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Young Tai Lu\" Unimit Engineering",
+   "\"Unimit Engineering\" \"John Lu\" OR \"Young Tai Lu\" Taiwan OR Taiwanese OR American co-founder"
+  ],
+  "Hints": "Known as John Lu, Co-President of Unimit Engineering (SCMP article 1350791 opened: no nationality descriptor). MarketScreener TAI-LU-YOUNG-A0TAQ6: Co-President & Executive Director UEC 2011-2017; Director Mitsui & Co. (U.S.A.) 2005-06; undergraduate Northwestern Univ., MBA Univ. of Wisconsin (USA). US education/employer is not nationality."
+ },
+ {
+  "Person_Key": "barraza erick hamburger",
+  "Manager_Names": [
+   "ERICK HAMBURGER BARRAZA"
+  ],
+  "Ticker_Locals": [
+   "BOL"
+  ],
+  "Status": "FOUND",
+  "Country": "Colombia",
+  "Nationality_Word": "Colombian",
+  "Evidence_Type": "DOC_FIELD",
+  "Descriptor": false,
+  "Quote": "No Name Designation Age Appointment Date of Current Position Gender Race Religion Nationality 1. Erick Hamburger Barraza Executive Director/ GCEO 56 01/05/2022 Male Latin American Christian Colombian",
+  "Source_Title": "CTOS Digital Berhad (Bursa Malaysia 5301) Corporate Governance Report, financial year 31 Dec 2024, Senior Leadership Team table, PDF page 43",
+  "URL": "https://www.insage.com.my/ir/cmn/downloading.aspx?sFileName=25120000062041&sReportType=AUDIT&sCompanyCode=CTOS",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "Same full name 'Erick Hamburger Barraza', age 56 in both documents; CTOS Digital Berhad is BOL's largest holder (24.83%); BOL One Report says he left the BOL board on 5 May 2025 and was replaced by Mr. Loh Kok Leong, who is a CTOS Digital non-independent non-executive director (same CTOS CG report p.61). CTOS GCEO since 1 May 2022 (interim GCEO Loh Kok Leong from 1 May 2025). Page image checked (table row aligned).",
+  "Searches": [
+   "\"Erick Hamburger\" Dun & Bradstreet OR CTOS OR \"Business Online\"",
+   "\"Erick Hamburger Barraza\"",
+   "CTOS Digital Berhad annual report directors profile \"Erick Hamburger\" Nationality"
+  ],
+  "Hints": "Also: MarketScreener reproduces the Bursa 'Change in Boardroom' announcement of his appointment as CTOS executive director (30 Sep 2022) with 'Colombian' nationality (marketscreener blocks plain curl, so not used as the quote). Career: Experian Colombia & Mexico CEO, Brightpoint, Motorola, McKinsey; BSc Pontificia Universidad Javeriana (Colombia), MBA MIT Sloan."
+ },
+ {
+  "Person_Key": "david pollock",
+  "Manager_Names": [
+   "David Pollock"
+  ],
+  "Ticker_Locals": [
+   "PRTR"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"David Pollock\" PRTR OR \"Personnel Consultant\" Bangkok executive search",
+   "\"David Pollock\" PRTR Thailand Scottish OR British OR Scot recruitment Eastern Seaboard"
+  ],
+  "Hints": "theorg.com/org/prtr/org-chart/david-pollock: Head of Executive Recruitment Services at PRTR, joined Jan 2010 after eight years as consultant/manager at a Scottish sales & marketing recruitment boutique. Employer in Scotland is not nationality."
+ },
+ {
+  "Person_Key": "john kian seng tay",
+  "Manager_Names": [
+   "KIAN SENG JOHN TAY"
+  ],
+  "Ticker_Locals": [
+   "RML"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tay Kian Seng\" OR \"John Tay Kian Seng\" Raimon Land OR Mesa OR director"
+  ],
+  "Hints": "raimonland.com board page (Mr. Tay Kian Seng John, director since 9 Sep 2020; B.Eng (Hons) Mechanical & Production Engineering, NTU Singapore). MarketScreener KIAN-SENG-TAY-A33G6A: director Mesa Investment Pte Ltd (since 2011) and Kwee & Partners Pte Ltd (Singapore, Kwee family/Pontiac Land); ex-Capella Hotel Management Shanghai; ex-SVP Pacific Star International Thailand. No nationality statement."
+ },
+ {
+  "Person_Key": "frank gerard johan kempen van",
+  "Manager_Names": [
+   "Frank Johan Gerard Van Kempen"
+  ],
+  "Ticker_Locals": [
+   "MTI"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Frank van Kempen\" OR \"Frank Johan Gerard van Kempen\" Muang Thai OR Fortis OR Ageas",
+   "\"van Kempen\" Etiqa OR \"Maybank Ageas\" director \"Dutch\" OR \"Nationality\"",
+   "\"Frank Johan Gerard van Kempen\" Dutch OR Netherlands OR nationality"
+  ],
+  "Hints": "Ageas nominee: Ageas Asia chief commercial officer (Post Online); director Ageas Federal Life (India), Ageas Asia Services (HK), EastWest Ageas Life (PH), Etiqa General Insurance Berhad (Vice Chairman from Jul 2012) and Etiqa Life Insurance Berhad (from Jan 2018); education Tilburg Univ. and Univ. of Amsterdam (MarketScreener). Etiqa profile page https://www.etiqa.com/?p=10873 returned 403 to WebFetch (blocked - not worked around); Malaysian insurer board profiles often print nationality, so a manual look at that page or an Etiqa/Maybank annual report could settle it."
+ },
+ {
+  "Person_Key": "chia heng song",
+  "Manager_Names": [
+   "CHIA SONG HENG"
+  ],
+  "Ticker_Locals": [
+   "PICO"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Chia Song Heng\" Pico Far East Singaporean OR Malaysian OR nationality",
+   "Pico Far East Holdings annual report \"Chia Song Heng\" aged director biography"
+  ],
+  "Hints": "Opened Pico Far East (HKEX 752) annual report 2006 directors' profile https://www.hkexnews.hk/listedco/listconews/sehk/2007/0202/00752/F108.pdf: 'James Chia Song Heng, aged 54, is a founding director of the Pico Group ... He is President of Pico Singapore ... Chairman of Pico (Thailand) Public Company Limited' - no nationality. Brother of Lawrence Chia Song Huat (Vice Chairman, Singapore Chamber of Commerce (Hong Kong)). Singapore role is not nationality."
+ },
+ {
+  "Person_Key": "camille ma",
+  "Manager_Names": [
+   "Camille Ma"
+  ],
+  "Ticker_Locals": [
+   "MINT",
+   "OSP"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Camille Ma\" CFO Charoen Pokphand Morgan Stanley director",
+   "\"Camille Ma\" Bangkok Wellesley Siam Society OR \"Securities One\" profile"
+  ],
+  "Hints": "Opened minor.com/en/management/audit-committee/216/ms-camille-ma: born 1957; BA Political Science & East Asian Studies, Wellesley College (USA); MM Sasin; Financial Advisor to Chairman of Charoen Pokphand Group (2004-2015); Morgan Stanley (Asia) equity analyst; Securities One Pcl (1994-98); Council Member of The Siam Society. No nationality statement."
+ },
+ {
+  "Person_Key": "johson lim",
+  "Manager_Names": [
+   "Johson Lim"
+  ],
+  "Ticker_Locals": [
+   "SMO"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Johson Lim\" Smothong OR palm oil",
+   "\"Johson Lim\" Malaysia director"
+  ],
+  "Hints": "NOT web evidence, but relevant: SMO's own One Report 2025 (local text cache, ONEREPORTSMOE p.13) says: 'Mr. Johson Lim's Group (Lum Family): International entrepreneurs from Malaysia with global expertise in palm oil production technology and machinery.' ('from Malaysia' describes the family group's origin, not an explicit nationality - owner to decide whether it supports a descriptor/INFERRED code). Lam family holds 18.19% (Lam Tuck Keong 8.07%, Johson Lim 5.90%, Lam Yone Zheok 4.21%). No web page found."
+ },
+ {
+  "Person_Key": "cheong sung tsoi",
+  "Manager_Names": [
+   "SUNG CHEONG TSOI"
+  ],
+  "Ticker_Locals": [
+   "SFT"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Tsoi Sung Cheong\" OR \"Sung Cheong Tsoi\" Shrinkflex"
+  ],
+  "Hints": "MarketScreener SUN-CHONG-TSOI-A32LGC ('Sun Chong Tsoi'): CEO & executive director Shrinkflex (Thailand) since 2019; director Standard Recycle Co. (2008-), Standard Polymer Co. (1997-); ex-director Cheong Ming Enterprises Thailand (1994-2019); undergraduate Mapua Institute of Technology (Philippines). No nationality statement."
+ },
+ {
+  "Person_Key": "jacky ka lam ming",
+  "Manager_Names": [
+   "KA MING JACKY LAM"
+  ],
+  "Ticker_Locals": [
+   "NATION"
+  ],
+  "Status": "NOT_FOUND",
+  "Country": "",
+  "Nationality_Word": "",
+  "Evidence_Type": "",
+  "Descriptor": false,
+  "Quote": "",
+  "Source_Title": "",
+  "URL": "",
+  "Accessed": "2026-11-11",
+  "Identity_Link": "",
+  "Searches": [
+   "\"Ka Ming Jacky Lam\" OR \"Lam Ka Ming Jacky\" Nation Group OR \"Super Turtle\" OR \"JJ Golf\""
+  ],
+  "Hints": "Only MarketScreener KA-MING-JACKY-LAM-A3BLD3 (NATION director since 2018; ex-director Super Turtle). Checked NATION 2026 AGM notice (https://www.nationgroup.com/api/files/attachments/5388): he was not up for re-election and the nominee template has no nationality field."
+ }
+]
