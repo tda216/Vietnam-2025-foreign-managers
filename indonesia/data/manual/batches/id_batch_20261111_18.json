@@ -1,0 +1,64 @@
+{
+ "records": [
+  {
+   "Code": "GIAA",
+   "File": "raw/idx_ar_ann/GIAA/AR2025ANN_part3_afa735078171.pdf",
+   "Page": 102,
+   "Manager_Name": "Balagopal Kunduvara",
+   "Raw_Position": "Direktur Keuangan dan Manajemen Risiko / Director of Finance and Risk Management",
+   "Role_Group": "Executive",
+   "Nationality": "Singapore",
+   "Nationality_Raw": "Warga Negara Singapura",
+   "Evidence_Quote": "Kepemilikan Saham Garuda Indonesia Garuda Indonesia Share Ownership Tidak memiliki None Kewarganegaraan Nationality Warga Negara Singapura Singaporean citizen",
+   "Appointed_Date": "2025-10-15",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); first appointed by the EGMS of 15 October 2025 (same page); born in India",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "GIAA",
+   "File": "raw/idx_ar_ann/GIAA/AR2025ANN_part3_afa735078171.pdf",
+   "Page": 107,
+   "Manager_Name": "Neil Raymond Mills",
+   "Raw_Position": "Direktur Transformasi / Director of Transformation",
+   "Role_Group": "Executive",
+   "Nationality": "United Kingdom",
+   "Nationality_Raw": "Warga Negara Inggris",
+   "Evidence_Quote": "Kewarganegaraan Nationality Warga Negara Inggris United Kingdom Citizen",
+   "Appointed_Date": "2025-10-15",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); first appointed by the EGMS of 15 October 2025 (same page); born in Pretoria, South Africa",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "MNCN",
+   "File": "raw/idx_ar_ann/MNCN/AR2025ANN_part2_2daaaaae53d2.pdf",
+   "Page": 46,
+   "Manager_Name": "Joel Richard Hogarth",
+   "Raw_Position": "Komisaris Independen / Independent Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "United Kingdom",
+   "Nationality_Raw": "Warga Negara Inggris",
+   "Evidence_Quote": "Warga Negara Inggris, lahir pada tahun 1976. Joel Richard Hogarth menjabat sebagai Komisaris Independen PT Media Nusantara Citra Tbk sejak 26 Agustus 2020",
+   "Appointed_Date": "2020-08-26",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); also Chairman of the Audit Committee and the Nomination & Remuneration Committee",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "DEWA",
+   "File": "raw/idx_ar_ann/DEWA/AR2025ANN_part6_210a33536acb.pdf",
+   "Page": 63,
+   "Manager_Name": "Nalinkant Amratlal Rathod",
+   "Raw_Position": "Komisaris / Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "India",
+   "Nationality_Raw": "Kewarganegaraan India",
+   "Evidence_Quote": "Nalinkant Amratlal Rathod Komisaris Commissioner Tempat, Tanggal Lahir Place, Date of Birth India, 12 Mei 1950 India, May 12, 1950 Usia Age 75 tahun 75 years old Kewarganegaraan Citizenship India",
+   "Appointed_Date": "",
+   "Resigned_Date": "",
+   "Note": "Name / position from the page graphic (page image viewed); legal basis Deed No. 7 dated 8 July 2025; concurrent-positions list says 'Presiden Komisaris PT Darma Henwa Tbk (2020-saat ini)' while the profile title is Komisaris – title of the profile kept",
+   "Other_Sources": ""
+  }
+ ]
+}

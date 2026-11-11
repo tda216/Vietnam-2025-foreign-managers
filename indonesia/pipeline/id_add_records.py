@@ -48,6 +48,7 @@ def main():
     idx = {r["File"]: r for r in rows(D / "text_index.csv")}
     urls = {r["File"]: (r["URL"], "Annual Report 2025 (company website)") for r in rows(D / "web_ar_files.csv") if r.get("File")}
     urls.update({r["File"]: (r["URL"], "Annual Report 2025 (IDX, via www.idx.id)") for r in rows(D / "idx_ar_files.csv") if r.get("File")})
+    urls.update({r["File"]: (r["URL"], f"Annual Report 2025 (IDX announcement of {r['Ann_Date']}, via www.idx.id)") for r in rows(D / "idx_ar_ann_files.csv") if r.get("File")})
     uni = {r["Code"]: r for r in rows(D / "universe.csv")}
     old = rows(REC)
     keys = list(old[0].keys()) if old else []

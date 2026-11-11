@@ -1,0 +1,26 @@
+{
+ "ownership": [
+  {
+   "Code": "BEKS",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=33.89",
+   "Method": "BAE_REGISTER_202512",
+   "File": "raw/idx_reg/BEKS/REG202512_part2_ad0bce22a297.pdf",
+   "Page": "1",
+   "Quote": "PEMERINTAH PROVINSI BANTEN 34.289.755.661 66.11 34.289.755.661 66.11 0",
+   "As_Of": "2025-12-31",
+   "Note": "Provincial Government of Banten 66.11 % at 31 Dec 2025 -> foreign at most 33.89 % | IDX announcement 2026-01-06 (https://www.idx.id/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/a6d5d10842_cbf1f50b2e.pdf)"
+  },
+  {
+   "Code": "MSIE",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "0.15",
+   "Method": "BAE_REGISTER_202512",
+   "File": "raw/idx_reg/MSIE/REG202512_part2_fcfab043e874.pdf",
+   "Page": "5",
+   "Quote": "PEMODAL ASING 1 Perorangan Asing 4 400 0,00003 24 2.139.700 0,14655 28 2.140.100 0,14658 2 Perseroan Terbatas 0 0 0,00000 0 0 0,00000 0 0 0,00000 SUB TOTAL 4 400 0,00003 24 2.139.700 0,14655 28 2.140.",
+   "As_Of": "2025-12-31",
+   "Note": "Bima Registra composition, December 2025: national investors 99.853 %, foreign investors 0.147 % (foreign individuals); holders >= 5 % (p4) all Status L | IDX announcement 2026-01-08 (https://www.idx.id/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/fe7d892879_a9acbd3c87.pdf)"
+  }
+ ]
+}

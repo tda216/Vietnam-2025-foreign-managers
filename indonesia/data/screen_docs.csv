@@ -123,6 +123,9 @@ AYAM,raw/web_ar/AYAM/AR2025_22f4fb9bcd78.pdf,21,0,0,,,
 AYLS,raw/idx_ar/AYLS/AR2025_AnnualReport2025_AYLS_att1_2b95016c79a6.pdf,10,0,0,,,
 BABP,raw/idx_ar/BABP/AR2025_AnnualReport2025_BABP_att1_209af0dd13cd.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BABP,raw/idx_ar/BABP/AR2025_AnnualReport2025_BABP_att2_5466cd52db05.pdf,20,0,0,,,
+BACA,raw/idx_ar_ann/BACA/AR2025ANN_part3_3783f52e2470.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+BACA,raw/idx_ar_ann/BACA/AR2025ANN_part2_7bf9a73523f6.pdf,28,0,0,,,
+BACA,raw/idx_ar_ann/BACA/AR2025ANN_part1_c613ad9c5fa9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BAIK,raw/idx_ar/BAIK/AR2025_AnnualReport2025_BAIK_att1_27e1282cb107.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BAIK,raw/idx_ar/BAIK/AR2025_AnnualReport2025_BAIK_att2_57ea5beba4a9.pdf,10,0,0,,,
 BAJA,raw/web_ar/BAJA/AR2025_b8fb141e0fcf.pdf,17,0,0,,,
@@ -172,7 +175,7 @@ BBRM,raw/web_ar/BBRM/AR2025_51067d708b01.pdf,16,2,0,Singapore,33,
 BBSI,raw/web_ar/BBSI/AR2025_34e92be251a7.pdf,24,0,0,,,
 BBSS,raw/web_ar/BBSS/AR2025_517485f04482.pdf,24,0,0,,,
 BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_26206abf6f14.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_att2_3dff09e40dd0.pdf,99,0,0,,,
+BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_att2_3dff09e40dd0.pdf,94,0,0,,,
 BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_att4_5c7be1899382.pdf,193,0,0,,,
 BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_att1_69e0e1f79dcb.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BBTN,raw/idx_ar/BBTN/AR2025_AnnualReport2025_BBTN_att5_774b500bbd93.pdf,15,0,0,,,
@@ -184,7 +187,8 @@ BCIC,raw/web_ar/BCIC/AR2025_d4b2f69ca831.pdf,58,30,2,Japan;South Korea,84;85;89;
 BCIP,raw/idx_ar/BCIP/AR2025_AnnualReport2025_BCIP_att1_a90854536893.pdf,9,0,0,,,
 BDKR,raw/web_ar/BDKR/AR2025_6d0dd974d42a.pdf,16,0,0,,,
 BEER,raw/idx_ar/BEER/AR2025_AnnualReport2025_BEER_att1_7000d95caedb.pdf,18,0,0,,,
-BEKS,raw/idx_ar/BEKS/AR2025_AnnualReport2025_BEKS_att1_c01d0c2745f5.pdf,67,0,0,,,
+BEKS,raw/idx_ar_ann/BEKS/AR2025ANN_part4_1873468157b6.pdf,59,0,0,,,
+BEKS,raw/idx_ar_ann/BEKS/AR2025ANN_part3_872ba410ee70.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BELI,raw/idx_ar/BELI/AR2025_AnnualReport2025_BELI_att1_84d99cbaa534.pdf,30,0,1,,51,
 BELI,raw/idx_ar/BELI/AR2025_AnnualReport2025_BELI_att2_f5710f6e82e7.pdf,4,0,0,,,
 BELI,raw/idx_ar/BELI/AR2025_AnnualReport2025_BELI_att3_f82c1fcb615a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -193,7 +197,7 @@ BELL,raw/idx_ar/BELL/AR2025_AnnualReport2025_BELL_att1_c28ad641bb77.pdf,0,0,0,,,
 BELL,raw/idx_ar/BELL/AR2025_AnnualReport2025_BELL_att2_d105f35d3bcf.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BESS,raw/web_ar/BESS/AR2025_64f348b0ae60.pdf,20,0,0,,,
 BEST,raw/web_ar/BEST/AR2025_4c30cd5becc0.pdf,13,2,0,Japan,16;25,
-BGTG,raw/idx_ar/BGTG/AR2025_AnnualReport2025_BGTG_att1_cb32ba5b149c.pdf,50,0,0,,,
+BGTG,raw/idx_ar/BGTG/AR2025_AnnualReport2025_BGTG_att1_cb32ba5b149c.pdf,48,0,0,,,
 BIKE,raw/idx_ar/BIKE/AR2025_AnnualReport2025_BIKE_att1_3fc6d68f776d.pdf,8,0,0,,,
 BIMA,raw/web_ar/BIMA/AR2025_54caf58e9146.pdf,18,0,0,,,
 BINA,raw/idx_ar/BINA/AR2025_AnnualReport2025_BINA_att2_0f0353f5d4a2.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -206,7 +210,7 @@ BISI,raw/web_ar/BISI/AR2025_847155a838e5.pdf,22,0,0,,,
 BJBR,raw/idx_ar/BJBR/AR2025_AnnualReport2025_BJBR_att3_7a5ec6c01af5.pdf,179,0,0,,,
 BJBR,raw/idx_ar/BJBR/AR2025_AnnualReport2025_BJBR_att2_e388da21b9b1.pdf,1,0,0,,,
 BJBR,raw/idx_ar/BJBR/AR2025_AnnualReport2025_BJBR_att1_e9ac8996455f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-BJTM,raw/web_ar/BJTM/AR2025_c0d2680020fc.pdf,64,0,0,,,
+BJTM,raw/web_ar/BJTM/AR2025_c0d2680020fc.pdf,62,0,0,,,
 BKDP,raw/web_ar/BKDP/AR2025_1b82275bd584.pdf,22,0,0,,,
 BKSL,raw/web_ar/BKSL/AR2025_515a39f68b6c.pdf,35,1,0,United States,67,
 BLES,raw/idx_ar/BLES/AR2025_AnnualReport2025_BLES_att1_50564f4fcd7e.pdf,27,0,0,,,
@@ -215,9 +219,9 @@ BLTA,raw/web_ar/BLTA/AR2025_ca92346547d1.pdf,6,0,0,,,
 BLUE,raw/idx_ar/BLUE/AR2025_AnnualReport2025_BLUE_att1_261eaf391698.pdf,14,0,0,,,
 BMBL,raw/idx_ar/BMBL/AR2025_AnnualReport2025_BMBL_att1_4809226aa9c1.pdf,8,0,0,,,
 BMHS,raw/web_ar/BMHS/AR2025_c1e1f13d6a76.pdf,48,3,0,India;Singapore,52,
-BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att4_25708c81e813.pdf,74,0,0,,,
+BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att4_25708c81e813.pdf,73,0,0,,,
 BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att1_4f4df330c7dc.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att2_7d706487ead2.pdf,11,0,6,,131;353;374,
+BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att2_7d706487ead2.pdf,10,0,6,,131;353;374,
 BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att5_a21bbb825951.pdf,76,0,0,,,
 BMRI,raw/idx_ar/BMRI/AR2025_AnnualReport2025_BMRI_att3_bd4a59182e5f.pdf,11,0,2,,353;374,
 BMTR,raw/idx_ar/BMTR/AR2025_AnnualReport2025_BMTR_att1_10a5d69abfa9.pdf,24,3,0,Canada;United Kingdom,60;135,
@@ -242,7 +246,7 @@ BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att7_56d63f41be89.pdf,56,0,0,,
 BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att6_67e9b796be81.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att3_7a68f97034ec.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att5_81a4fb48a231.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att2_97ecffcb771f.pdf,45,0,0,,,
+BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att2_97ecffcb771f.pdf,44,0,0,,,
 BRIS,raw/idx_ar/BRIS/AR2025_AnnualReport2025_BRIS_att4_fe4414e5aaf6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BRNA,raw/idx_ar/BRNA/AR2025_AnnualReport2025_BRNA_att1_45c0e5f70c49.pdf,23,0,0,,,
 BRNA,raw/idx_ar/BRNA/AR2025_AnnualReport2025_BRNA_a35f312f8ae3.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -265,7 +269,7 @@ BTEK,raw/idx_ar/BTEK/AR2025_AnnualReport2025_BTEK_att2_fc290dccad0d.pdf,7,0,0,,,
 BTON,raw/idx_ar/BTON/AR2025_AnnualReport2025_BTON_att1_43c6780a3660.pdf,18,0,0,,,
 BTPS,raw/idx_ar/BTPS/AR2025_AnnualReport2025_BTPS_28a218486841.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 BTPS,raw/idx_ar/BTPS/AR2025_AnnualReport2025_BTPS_att1_d0471cc266f6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-BTPS,raw/idx_ar/BTPS/AR2025_AnnualReport2025_BTPS_att2_fe064b79c5e3.pdf,28,0,0,,,
+BTPS,raw/idx_ar/BTPS/AR2025_AnnualReport2025_BTPS_att2_fe064b79c5e3.pdf,27,0,0,,,
 BUAH,raw/idx_ar/BUAH/AR2025_AnnualReport2025_BUAH_att1_14b757689dd9.pdf,20,0,0,,,
 BUDI,raw/web_ar/BUDI/AR2025_e35a8f83b1da.pdf,28,0,0,,,
 BUKA,raw/idx_ar/BUKA/AR2025_AnnualReport2025_BUKA_att2_16bce5883902.pdf,11,1,0,Australia,53,
@@ -286,7 +290,7 @@ CANI,raw/idx_ar/CANI/AR2025_AnnualReport2025_CANI_att3_18c5293b893d.pdf,0,0,0,,,
 CANI,raw/idx_ar/CANI/AR2025_AnnualReport2025_CANI_285173ef0c00.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CANI,raw/idx_ar/CANI/AR2025_AnnualReport2025_CANI_att2_847cd9bdd821.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CANI,raw/idx_ar/CANI/AR2025_AnnualReport2025_CANI_att1_b20953a63014.pdf,8,4,0,Singapore,57;59,
-CARE,raw/idx_ar/CARE/AR2025_AnnualReport2025_CARE_att1_b73857ecfbb3.pdf,14,0,0,,,
+CARE,raw/idx_ar/CARE/AR2025_AnnualReport2025_CARE_att1_b73857ecfbb3.pdf,13,0,0,,,
 CARS,raw/idx_ar/CARS/AR2025_AnnualReport2025_CARS_att2_29b60ef190a4.pdf,18,0,0,,,
 CARS,raw/idx_ar/CARS/AR2025_AnnualReport2025_CARS_att1_e12b2f59b25a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CASA,raw/idx_ar/CASA/AR2025_AnnualReport2025_CASA_att1_62d0ce70957a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -306,12 +310,13 @@ CBUT,raw/idx_ar/CBUT/AR2025_AnnualReport2025_CBUT_17f5e5fc05c8.pdf,0,0,0,,,NO_NA
 CBUT,raw/idx_ar/CBUT/AR2025_AnnualReport2025_CBUT_att1_b0dec72043ca.pdf,14,0,0,,,
 CCSI,raw/idx_ar/CCSI/AR2025_AnnualReport2025_CCSI_att1_ce4256eb8084.pdf,22,4,0,Singapore,77;91,
 CDIA,raw/web_ar/CDIA/AR2025_61d99d22ea50.pdf,14,4,0,Malaysia;Thailand,77;79;81;87,
-CEKA,raw/idx_ar/CEKA/AR2025_AnnualReport2025_CEKA_att3_7e7e7793bb35.pdf,16,3,0,Singapore,38,
-CEKA,raw/idx_ar/CEKA/AR2025_AnnualReport2025_CEKA_att2_da2b64c23660.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CEKA,raw/idx_ar/CEKA/AR2025_AnnualReport2025_CEKA_att1_f6a07e65771f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+CFIN,raw/idx_ar_ann/CFIN/AR2025ANN_part3_069b70f674d6.pdf,20,0,0,,,
+CFIN,raw/idx_ar_ann/CFIN/AR2025ANN_part2_1e42d1597e49.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+CFIN,raw/idx_ar_ann/CFIN/AR2025ANN_part1_9ec19f3f7786.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CGAS,raw/web_ar/CGAS/AR2025_034c90e1dad9.pdf,27,1,0,Australia,57,
 CHEK,raw/idx_ar/CHEK/AR2025_AnnualReport2025_CHEK_att1_6fbabc56a472.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-CHEK,raw/idx_ar/CHEK/AR2025_AnnualReport2025_CHEK_att2_d35fe237a73b.pdf,21,1,0,United Kingdom,53,
+CHEK,raw/idx_ar/CHEK/AR2025_AnnualReport2025_CHEK_att2_d35fe237a73b.pdf,19,1,0,United Kingdom,53,
 CHEM,raw/web_ar/CHEM/AR2025_8ee06c7962bc.pdf,20,0,0,,,
 CHIP,raw/web_ar/CHIP/AR2025_c01430005d70.pdf,26,0,0,,,
 CINT,raw/web_ar/CINT/AR2025_23b92da8a60e.pdf,14,1,0,Japan,93,
@@ -320,7 +325,7 @@ CITY,raw/idx_ar/CITY/AR2025_AnnualReport2025_CITY_att1_c1122df87ebc.pdf,18,0,2,,
 CLAY,raw/idx_ar/CLAY/AR2025_AnnualReport2025_CLAY_att1_a9c0ed17cbec.pdf,18,0,0,,,
 CLEO,raw/idx_ar/CLEO/AR2025_AnnualReport2025_CLEO_att1_76a4a243902a.pdf,17,0,0,,,
 CLEO,raw/idx_ar/CLEO/AR2025_AnnualReport2025_CLEO_76f362ffb475.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-CMPP,raw/idx_ar/CMPP/AR2025_AnnualReport2025_CMPP_att2_0dff69276397.pdf,11,1,0,Malaysia,63,
+CMPP,raw/idx_ar/CMPP/AR2025_AnnualReport2025_CMPP_att2_0dff69276397.pdf,10,1,0,Malaysia,63,
 CMPP,raw/idx_ar/CMPP/AR2025_AnnualReport2025_CMPP_att1_452ef560eb01.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CMRY,raw/web_ar/CMRY/AR2025_5c73737e4e4a.pdf,37,2,0,Malaysia,59,
 CNKO,raw/web_ar/CNKO/AR2025_6702505a3f08.pdf,20,0,0,,,
@@ -341,6 +346,8 @@ CSMI,raw/idx_ar/CSMI/AR2025_AnnualReport2025_CSMI_att2_4256ca8df79b.pdf,6,0,0,,,
 CSMI,raw/idx_ar/CSMI/AR2025_AnnualReport2025_CSMI_att1_6e7a90ad6c5a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CSRA,raw/web_ar/CSRA/AR2025_016b025e8736.pdf,19,1,0,Malaysia,61,
 CTRA,raw/web_ar/CTRA/AR2025_855fdf9957f7.pdf,40,0,0,,,
+CTTH,raw/idx_ar_ann/CTTH/AR2025ANN_part2_1bb1d749cfe6.pdf,24,2,0,United States,39,
+CTTH,raw/idx_ar_ann/CTTH/AR2025ANN_part1_497cc3a01f29.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 CTTH,raw/web_ar/CTTH/AR2025_9e9870e9921a.pdf,24,2,0,United States,39,
 CUAN,raw/web_ar/CUAN/AR2025_5b9905ce8388.pdf,22,2,0,Philippines,54,
 DAAZ,raw/idx_ar/DAAZ/AR2025_AnnualReport2025_DAAZ_att1_01d97e222882.pdf,19,0,0,,,
@@ -355,8 +362,10 @@ DEFI,raw/idx_ar/DEFI/AR2025_AnnualReport2025_DEFI_att1_51597d92fbcb.pdf,0,0,0,,,
 DEFI,raw/idx_ar/DEFI/AR2025_AnnualReport2025_DEFI_att2_f1f823775c1a.pdf,20,0,0,,,
 DEPO,raw/idx_ar/DEPO/AR2025_AnnualReport2025_DEPO_att2_3708a95972c9.pdf,12,2,0,Thailand,63;79,
 DEPO,raw/idx_ar/DEPO/AR2025_AnnualReport2025_DEPO_att1_f88f42aa7ce6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+DEWA,raw/idx_ar_ann/DEWA/AR2025ANN_part6_210a33536acb.pdf,19,1,0,India,63,
 DEWA,raw/idx_ar/DEWA/AR2025_AnnualReport2025_DEWA_att2_40824816ecac.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 DEWA,raw/idx_ar/DEWA/AR2025_AnnualReport2025_DEWA_478c162f76ab.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+DEWA,raw/idx_ar_ann/DEWA/AR2025ANN_part4_b48898fcb42c.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 DEWA,raw/idx_ar/DEWA/AR2025_AnnualReport2025_DEWA_att1_e385699d2d87.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 DEWI,raw/idx_ar/DEWI/AR2025_AnnualReport2025_DEWI_att1_1d337ae6a225.pdf,17,0,0,,,
 DFAM,raw/idx_ar/DFAM/AR2025_AnnualReport2025_DFAM_att1_6c079cfbc2c8.pdf,10,0,0,,,
@@ -400,7 +409,7 @@ EKAD,raw/idx_ar/EKAD/AR2025_AnnualReport2025_EKAD_att1_f4d84af887d8.pdf,0,0,0,,,
 ELIT,raw/web_ar/ELIT/AR2025_99ee2b8a23f8.pdf,5,0,0,,,
 ELPI,raw/idx_ar/ELPI/AR2025_AnnualReport2025_ELPI_att1_05b83f9ecce1.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 ELPI,raw/idx_ar/ELPI/AR2025_AnnualReport2025_ELPI_att3_16e7645ef834.pdf,7,0,0,,,
-ELPI,raw/idx_ar/ELPI/AR2025_AnnualReport2025_ELPI_att4_3cc49e3c473b.pdf,2,0,1,,81,
+ELPI,raw/idx_ar/ELPI/AR2025_AnnualReport2025_ELPI_att4_3cc49e3c473b.pdf,0,0,1,,81,NO_NATIONALITY_LABEL_READ_PROFILES
 ELPI,raw/idx_ar/ELPI/AR2025_AnnualReport2025_ELPI_att2_7506a02f1b27.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 ELSA,raw/idx_ar/ELSA/AR2025_AnnualReport2025_ELSA_att3_1b70cdfed041.pdf,2,0,0,,,
 ELSA,raw/idx_ar/ELSA/AR2025_AnnualReport2025_ELSA_att2_8d31d99809b0.pdf,55,0,0,,,
@@ -415,10 +424,12 @@ ENZO,raw/idx_ar/ENZO/AR2025_AnnualReport2025_ENZO_att1_99c61fa80103.pdf,18,0,0,,
 EPAC,raw/web_ar/EPAC/AR2025_f6ea087ec941.pdf,12,0,0,,,
 EPMT,raw/web_ar/EPMT/AR2025_81bfe2e6489f.pdf,14,0,0,,,
 ERAA,raw/web_ar/ERAA/AR2025_7f1eeca9f25e.pdf,18,2,1,Singapore;South Korea,49;53,
-ERAL,raw/web_ar/ERAL/AR2025_80db9065abfa.pdf,26,0,2,,46;153,
+ERAL,raw/web_ar/ERAL/AR2025_80db9065abfa.pdf,23,0,2,,46;153,
 ERTX,raw/web_ar/ERTX/AR2025_8ccfc54555e7.pdf,18,12,0,India;United States,21;22;24;25,
+ESIP,raw/idx_ar_ann/ESIP/AR2025ANN_part2_459f99583523.pdf,26,0,0,,,
+ESIP,raw/idx_ar_ann/ESIP/AR2025ANN_part1_b302e9750df3.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 ESSA,raw/web_ar/ESSA/AR2025_0f8dfca55ff8.pdf,13,10,0,India,53;54;57;60;61;153,
-ESTA,raw/web_ar/ESTA/AR2025_da7d56333c88.pdf,16,0,0,,,
+ESTA,raw/web_ar/ESTA/AR2025_da7d56333c88.pdf,14,0,0,,,
 ESTI,raw/idx_ar/ESTI/AR2025_AnnualReport2025_ESTI_att1_47f057085f25.pdf,31,0,0,,,
 ESTI,raw/idx_ar/ESTI/AR2025_AnnualReport2025_ESTI_att2_efc250e5f1a5.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 EURO,raw/idx_ar/EURO/AR2025_AnnualReport2025_EURO_att1_41bc2d6f8c1e.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -430,9 +441,14 @@ FIMP,raw/web_ar/FIMP/AR2025_4bd6908ec0f2.pdf,10,0,0,,,
 FIRE,raw/web_ar/FIRE/AR2025_7de54407e74e.pdf,11,0,0,,,
 FISH,raw/web_ar/FISH/AR2025_ce485d6b5899.pdf,22,0,0,,,
 FITT,raw/idx_ar/FITT/AR2025_AnnualReport2025_FITT_att1_246d3f90769f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+FITT,raw/idx_ar_ann/FITT/AR2025ANN_part4_5dc20dbe91b1.pdf,10,0,0,,,
 FITT,raw/idx_ar/FITT/AR2025_AnnualReport2025_FITT_aa919ab419a5.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+FITT,raw/idx_ar_ann/FITT/AR2025ANN_part5_f1e03f020514.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+FITT,raw/idx_ar_ann/FITT/AR2025ANN_part3_f2350c00552b.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 FLMC,raw/web_ar/FLMC/AR2025_cb02eba679e1.pdf,9,0,0,,,
-FMII,raw/idx_ar/FMII/AR2025_AnnualReport2025_FMII_att1_3a31e23b287c.pdf,22,0,4,,58,
+FMII,raw/idx_ar/FMII/AR2025_AnnualReport2025_FMII_att1_3a31e23b287c.pdf,21,0,4,,58,
+FOLK,raw/idx_ar_ann/FOLK/AR2025ANN_part2_7b480a879243.pdf,26,0,0,,,
+FOLK,raw/idx_ar_ann/FOLK/AR2025ANN_part1_b44fa8409680.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 FOLK,raw/idx_ar/FOLK/AR2025_AnnualReport2025_FOLK_att2_e6f26b2e8c97.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 FOOD,raw/idx_ar/FOOD/AR2025_AnnualReport2025_FOOD_att1_2fbd623950a8.pdf,15,0,0,,,
 FORE,raw/web_ar/FORE/AR2025_16422f0396bb.pdf,18,1,0,Singapore,55,
@@ -451,6 +467,13 @@ GEMS,raw/idx_ar/GEMS/AR2025_AnnualReport2025_GEMS_e4684c71363e.pdf,0,0,0,,,NO_NA
 GGRM,raw/web_ar/GGRM/AR2025_b7ebe8607646.pdf,32,2,0,Netherlands,89,
 GGRP,raw/web_ar/GGRP/AR2025_0f696de5e225.pdf,14,2,0,United States,79,
 GHON,raw/idx_ar/GHON/AR2025_AnnualReport2025_GHON_att1_632a077b7372.pdf,18,0,0,,,
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part5_13ce84990e2d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part2_19c7c998e2fe.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part6_6773f1ce6b23.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part3_afa735078171.pdf,67,4,0,Singapore;United Kingdom,102;107,
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part4_b1acb5271de0.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part1_df86d8280f06.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GIAA,raw/idx_ar_ann/GIAA/AR2025ANN_part7_fdfbc9eef5a7.pdf,67,4,0,Singapore;United Kingdom,102;107,
 GJTL,raw/web_ar/GJTL/AR2025_73b8570e891e.pdf,4,0,0,,,
 GLOB,raw/idx_ar/GLOB/AR2025_AnnualReport2025_GLOB_att1_8861bef124cf.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 GLOB,raw/idx_ar/GLOB/AR2025_AnnualReport2025_GLOB_att2_d850cec1eda9.pdf,24,0,0,,,
@@ -459,7 +482,10 @@ GMFI,raw/web_ar/GMFI/AR2025_193d59c9cd38.pdf,29,0,0,,,
 GMTD,raw/web_ar/GMTD/AR2025_45d0e8fb3fae.pdf,16,0,0,,,
 GOLD,raw/web_ar/GOLD/AR2025_312811921351.pdf,10,0,0,,,
 GOLF,raw/web_ar/GOLF/AR2025_e0e58fdbb79e.pdf,18,0,0,,,
-GOOD,raw/web_ar/GOOD/AR2025_fa604da03f12.pdf,19,5,1,Australia;China;Singapore;United States,61;62;65;73;153,
+GOOD,raw/web_ar/GOOD/AR2025_fa604da03f12.pdf,18,5,1,Australia;China;Singapore;United States,61;62;65;73;153,
+GPRA,raw/idx_ar_ann/GPRA/AR2025ANN_part4_23d362d5c772.pdf,15,0,0,,,
+GPRA,raw/idx_ar_ann/GPRA/AR2025ANN_part3_69dd4198aecd.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+GPRA,raw/idx_ar_ann/GPRA/AR2025ANN_part1_b4232f9e31e7.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 GPSO,raw/web_ar/GPSO/AR2025_261d881750aa.pdf,10,0,0,,,
 GRIA,raw/idx_ar/GRIA/AR2025_AnnualReport2025_GRIA_att2_27c86118ba46.pdf,13,0,0,,,
 GRIA,raw/idx_ar/GRIA/AR2025_AnnualReport2025_GRIA_att1_8e8811b8ed0a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -473,7 +499,7 @@ GTSI,raw/idx_ar/GTSI/AR2025_AnnualReport2025_GTSI_att2_646f90d1709f.pdf,23,0,0,,
 GTSI,raw/idx_ar/GTSI/AR2025_AnnualReport2025_GTSI_bc691400efe8.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 GTSI,raw/idx_ar/GTSI/AR2025_AnnualReport2025_GTSI_att1_ffdef0d190c5.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 GULA,raw/idx_ar/GULA/AR2025_AnnualReport2025_GULA_att1_385050bc4955.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-GULA,raw/idx_ar/GULA/AR2025_AnnualReport2025_GULA_att2_3be9739ba881.pdf,15,0,0,,,
+GULA,raw/idx_ar/GULA/AR2025_AnnualReport2025_GULA_att2_3be9739ba881.pdf,14,0,0,,,
 GUNA,raw/idx_ar/GUNA/AR2025_AnnualReport2025_GUNA_att1_4ceeed18acfe.pdf,9,0,0,,,
 GWSA,raw/web_ar/GWSA/AR2025_11738d75ab9b.pdf,13,0,0,,,
 GZCO,raw/idx_ar/GZCO/AR2025_AnnualReport2025_GZCO_att1_309401998d09.pdf,26,2,0,United Kingdom,68,
@@ -503,6 +529,8 @@ HILL,raw/idx_ar/HILL/AR2025_AnnualReport2025_HILL_att1_c48c1b9b4ee2.pdf,13,0,0,,
 HMSP,raw/idx_ar/HMSP/AR2025_AnnualReport2025_HMSP_att1_c0ccb8dbbb71.pdf,22,22,0,Algeria;Belgium;Canada;Germany;Lebanon;Lithuania;Malaysia;Netherlands;Switzerland;United Kingdom,234;235;236;241;243;244;245;246;248;250,
 HOKI,raw/web_ar/HOKI/AR2025_eef0e3f4ba92.pdf,8,0,0,,,
 HOMI,raw/idx_ar/HOMI/AR2025_AnnualReport2025_HOMI_att1_4facb78a2616.pdf,16,0,0,,,
+HOPE,raw/idx_ar_ann/HOPE/AR2025ANN_part1_27f140a7e7a6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+HOPE,raw/idx_ar_ann/HOPE/AR2025ANN_part2_bd837f1d4f56.pdf,13,0,0,,,
 HRME,raw/idx_ar/HRME/AR2025_AnnualReport2025_HRME_att2_00eef7fbcf9d.pdf,23,0,0,,,
 HRME,raw/idx_ar/HRME/AR2025_AnnualReport2025_HRME_att3_a1b32daebdab.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 HRME,raw/idx_ar/HRME/AR2025_AnnualReport2025_HRME_att1_dee048e556dc.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -554,7 +582,14 @@ INKP,raw/idx_ar/INKP/AR2025_AnnualReport2025_INKP_att2_4d2d85078c0f.pdf,34,0,0,,
 INKP,raw/idx_ar/INKP/AR2025_AnnualReport2025_INKP_att1_ba546837e8ba.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 INOV,raw/web_ar/INOV/AR2025_5a4750c79fd6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 INPC,raw/web_ar/INPC/AR2025_06168065545e.pdf,34,0,0,,,
-INPP,raw/web_ar/INPP/AR2025_1e02f1321a01.pdf,23,0,1,,207,
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part5_0e1393f262d9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part1_21b4109c632a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part2_5061b728311a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part7_74b387a842c6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part8_91ed7a7810f7.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part3_c73241a7ef7c.pdf,34,0,0,,,
+INPC,raw/idx_ar_ann/INPC/AR2025ANN_part4_e19e4d1e1743.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+INPP,raw/web_ar/INPP/AR2025_1e02f1321a01.pdf,22,0,1,,207,
 INPS,raw/idx_ar/INPS/AR2025_AnnualReport2025_INPS_att1_1c612f716fa5.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 INPS,raw/idx_ar/INPS/AR2025_AnnualReport2025_INPS_814ba5d15c0d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 INPS,raw/idx_ar/INPS/AR2025_AnnualReport2025_INPS_att3_8747daf86d55.pdf,4,0,0,,,
@@ -580,6 +615,8 @@ ITMA,raw/idx_ar/ITMA/AR2025_AnnualReport2025_ITMA_att1_c68f571b1a67.pdf,0,0,0,,,
 ITMA,raw/idx_ar/ITMA/AR2025_AnnualReport2025_ITMA_att2_eaf1bb6f7ada.pdf,17,0,0,,,
 ITMG,raw/web_ar/ITMG/AR2025_4410465e8672.pdf,36,23,0,Thailand,81;85;86;87;91;92;93;95;96;97;215;220;225;226;227;228;230;231,
 JARR,raw/web_ar/JARR/AR2025_e7b13a8604a4.pdf,15,0,0,,,
+JAST,raw/idx_ar_ann/JAST/AR2025ANN_part1_3f07f51d1ae4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+JAST,raw/idx_ar_ann/JAST/AR2025ANN_part2_909c2c240939.pdf,5,1,0,United States,44,
 JATI,raw/web_ar/JATI/AR2025_a6d04ad28b85.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 JAWA,raw/web_ar/JAWA/AR2025_c6b79d9cdc37.pdf,17,0,0,,,
 JAYA,raw/idx_ar/JAYA/AR2025_AnnualReport2025_JAYA_att1_01a2ae2aca58.pdf,16,0,0,,,
@@ -613,7 +650,7 @@ KEJU,raw/web_ar/KEJU/AR2025_4d5876e81773.pdf,34,11,0,France;India;Singapore,78;8
 KETR,raw/web_ar/KETR/AR2025_d1f7c3178768.pdf,21,0,0,,,
 KIAS,raw/idx_ar/KIAS/AR2025_AnnualReport2025_KIAS_att1_30052f9451d9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 KIAS,raw/idx_ar/KIAS/AR2025_AnnualReport2025_KIAS_att2_6bd2a548e719.pdf,11,11,0,Thailand,48;49;50;52;53;110;118,
-KICI,raw/idx_ar/KICI/AR2025_AnnualReport2025_KICI_att1_be6b0aea6f98.pdf,13,0,0,,,
+KICI,raw/idx_ar/KICI/AR2025_AnnualReport2025_KICI_att1_be6b0aea6f98.pdf,10,0,0,,,
 KIJA,raw/web_ar/KIJA/AR2025_8399faf96c13.pdf,14,0,0,,,
 KING,raw/web_ar/KING/AR2025_575b8e78b866.pdf,16,0,0,,,
 KINO,raw/web_ar/KINO/AR2025_e3ae87a9b05d.pdf,16,0,0,,,
@@ -630,7 +667,7 @@ KLIN,raw/idx_ar/KLIN/AR2025_AnnualReport2025_KLIN_att1_5e2117337b6c.pdf,0,0,0,,,
 KLIN,raw/idx_ar/KLIN/AR2025_AnnualReport2025_KLIN_att2_903999a2e7fc.pdf,16,0,0,,,
 KMDS,raw/web_ar/KMDS/AR2025_ed1bea52cb08.pdf,29,0,0,,,
 KOBX,raw/web_ar/KOBX/AR2025_16bcba700d8e.pdf,28,1,0,United States,156,
-KOCI,raw/web_ar/KOCI/AR2025_95d0bbd39808.pdf,2,0,0,,,
+KOCI,raw/web_ar/KOCI/AR2025_95d0bbd39808.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 KOIN,raw/web_ar/KOIN/AR2025_31b9207e7abe.pdf,6,15,0,Thailand,48;49;50;51;53;54;55;56;57;58;60;61;133;140,
 KOKA,raw/idx_ar/KOKA/AR2025_AnnualReport2025_KOKA_a5b6c5487257.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 KOKA,raw/idx_ar/KOKA/AR2025_AnnualReport2025_KOKA_att1_b01da9d024a6.pdf,2,2,0,China,35;36,
@@ -646,8 +683,13 @@ KREN,raw/idx_ar/KREN/AR2025_AnnualReport2025_KREN_att1_c1a559b196ad.pdf,9,0,0,,,
 KRYA,raw/idx_ar/KRYA/AR2025_AnnualReport2025_KRYA_att1_c9793619d91a.pdf,4,1,0,China,98,
 KRYA,raw/idx_ar/KRYA/AR2025_AnnualReport2025_KRYA_e6e76e08e895.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 KSIX,raw/web_ar/KSIX/AR2025_3877583ba6f9.pdf,13,0,0,,,
+KUAS,raw/idx_ar_ann/KUAS/AR2025ANN_part6_9d9d989c1aed.pdf,13,0,0,,,
+KUAS,raw/idx_ar_ann/KUAS/AR2025ANN_part2_a521200d1a98.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+KUAS,raw/idx_ar_ann/KUAS/AR2025ANN_part4_d3b5d5b51981.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+KUAS,raw/idx_ar_ann/KUAS/AR2025ANN_part1_e247587a1077.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+KUAS,raw/idx_ar_ann/KUAS/AR2025ANN_part3_e9f31099f9a4.pdf,13,0,0,,,
 LABA,raw/idx_ar/LABA/AR2025_AnnualReport2025_LABA_02d721fbac19.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-LABA,raw/idx_ar/LABA/AR2025_AnnualReport2025_LABA_att1_de41abc4eff3.pdf,10,2,0,China,92,
+LABA,raw/idx_ar/LABA/AR2025_AnnualReport2025_LABA_att1_de41abc4eff3.pdf,9,2,0,China,92,
 LABS,raw/idx_ar/LABS/AR2025_AnnualReport2025_LABS_att1_340154fe6774.pdf,18,0,0,,,
 LABS,raw/idx_ar/LABS/AR2025_AnnualReport2025_LABS_att2_783c2f77af34.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 LAJU,raw/idx_ar/LAJU/AR2025_AnnualReport2025_LAJU_1406d2f99d04.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -680,17 +722,18 @@ LSIP,raw/idx_ar/LSIP/AR2025_AnnualReport2025_LSIP_att1_2a59719e0d5f.pdf,1,0,0,,,
 LTLS,raw/web_ar/LTLS/AR2025_2430d541cdf3.pdf,34,0,0,,,
 LUCK,raw/idx_ar/LUCK/AR2025_AnnualReport2025_LUCK_att1_9b740d5eb8b6.pdf,9,1,0,Australia,33,
 LUCY,raw/web_ar/LUCY/AR2025_efe83b723f7c.pdf,24,0,0,,,
-MAHA,raw/idx_ar/MAHA/AR2025_AnnualReport2025_MAHA_att1_02de7e5464b3.pdf,20,1,0,Australia,168,
+MAHA,raw/idx_ar/MAHA/AR2025_AnnualReport2025_MAHA_att1_02de7e5464b3.pdf,18,1,0,Australia,168,
 MANG,raw/idx_ar/MANG/AR2025_AnnualReport2025_MANG_att1_75a2206bbbcb.pdf,14,0,0,,,
 MAPA,raw/web_ar/MAPA/AR2025_583cffacca6b.pdf,16,4,0,India;Netherlands;United Kingdom,74;76;78,
 MAPB,raw/idx_ar/MAPB/AR2025_AnnualReport2025_MAPB_att1_a65f2b758953.pdf,35,15,0,Australia;India;Ireland;Singapore;United Kingdom,69;70;71;72;74,
 MAPB,raw/idx_ar/MAPB/AR2025_AnnualReport2025_MAPB_att2_e2e0c22935c4.pdf,0,0,1,,26,NO_NATIONALITY_LABEL_READ_PROFILES
 MAPI,raw/idx_ar/MAPI/AR2025_AnnualReport2025_MAPI_att2_116c87f9df67.pdf,32,9,0,Australia;India;Singapore;United Kingdom,92;96;97;98,
 MAPI,raw/idx_ar/MAPI/AR2025_AnnualReport2025_MAPI_att1_f12b10873c85.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-MARI,raw/idx_ar/MARI/AR2025_AnnualReport2025_MARI_att1_eb23b0f52f8f.pdf,26,3,0,United States,28,
+MARI,raw/idx_ar_ann/MARI/AR2025ANN_part2_380c5341667a.pdf,20,0,0,,,
+MARI,raw/idx_ar_ann/MARI/AR2025ANN_part1_4eafdd6c04e4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MARK,raw/web_ar/MARK/AR2025_bd28b3847dcf.pdf,18,4,0,Malaysia,57;60,
-MASB,raw/idx_ar/MASB/AR2025_AnnualReport2025_MASB_att2_5b505325bea7.pdf,1,0,0,,,
-MASB,raw/idx_ar/MASB/AR2025_AnnualReport2025_MASB_att3_5bf1da5d81eb.pdf,31,2,0,Hong Kong;Singapore,42,
+MASB,raw/idx_ar/MASB/AR2025_AnnualReport2025_MASB_att2_5b505325bea7.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+MASB,raw/idx_ar/MASB/AR2025_AnnualReport2025_MASB_att3_5bf1da5d81eb.pdf,30,2,0,Hong Kong;Singapore,42,
 MASB,raw/idx_ar/MASB/AR2025_AnnualReport2025_MASB_att1_fcc2eddeef43.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MAXI,raw/idx_ar/MAXI/AR2025_AnnualReport2025_MAXI_att1_171e09aa83e7.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MAXI,raw/idx_ar/MAXI/AR2025_AnnualReport2025_MAXI_att2_4ae2c58bb872.pdf,12,0,0,,,
@@ -707,7 +750,7 @@ MCOL,raw/idx_ar/MCOL/AR2025_AnnualReport2025_MCOL_att2_90eacf043825.pdf,7,0,0,,,
 MCOL,raw/idx_ar/MCOL/AR2025_AnnualReport2025_MCOL_att1_a92e416d174d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MDIA,raw/web_ar/MDIA/AR2025_363f64a6e122.pdf,13,0,0,,,
 MDKA,raw/web_ar/MDKA/AR2025_88ca8db9f17b.pdf,28,15,0,Australia;China;United Kingdom,118;120;124;125;127;237,
-MDKI,raw/web_ar/MDKI/AR2025_76505224b63d.pdf,26,0,0,,,
+MDKI,raw/idx_ar/MDKI/AR2025_AnnualReport2025_MDKI_att1_29d9732f2882.pdf,26,0,0,,,
 MDLA,raw/idx_ar/MDLA/AR2025_AnnualReport2025_MDLA_att1_8fa5e04e6690.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MDLA,raw/idx_ar/MDLA/AR2025_AnnualReport2025_MDLA_att2_98535a047990.pdf,16,0,0,,,
 MDLN,raw/web_ar/MDLN/AR2025_2d05ddf60bd5.pdf,16,1,0,Finland,87,
@@ -735,7 +778,7 @@ MICE,raw/idx_ar/MICE/AR2025_AnnualReport2025_MICE_att1_39f3add2d3f1.pdf,0,0,0,,,
 MICE,raw/idx_ar/MICE/AR2025_AnnualReport2025_MICE_att3_751f1a2c9e2f.pdf,22,0,0,,,
 MIDI,raw/idx_ar/MIDI/AR2025_AnnualReport2025_MIDI_att1_33306f9ba222.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MIDI,raw/idx_ar/MIDI/AR2025_AnnualReport2025_MIDI_att2_b787de735414.pdf,22,0,0,,,
-MIKA,raw/idx_ar/MIKA/AR2025_AnnualReport2025_MIKA_att1_0ac7f07dc6dc.pdf,38,0,0,,,
+MIKA,raw/idx_ar/MIKA/AR2025_AnnualReport2025_MIKA_att1_0ac7f07dc6dc.pdf,37,0,0,,,
 MINA,raw/idx_ar/MINA/AR2025_AnnualReport2025_MINA_att1_1ce39cfee678.pdf,28,1,0,Spain,48,
 MINE,raw/web_ar/MINE/AR2025_41ea353fb164.pdf,20,0,0,,,
 MIRA,raw/idx_ar/MIRA/AR2025_AnnualReport2025_MIRA_att1_4e6ed4e3ceb9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -750,10 +793,12 @@ MLBI,raw/idx_ar/MLBI/AR2025_AnnualReport2025_MLBI_att1_929f45d009de.pdf,17,20,0,
 MLIA,raw/idx_ar/MLIA/AR2025_AnnualReport2025_MLIA_att2_24a74af4bdd9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MLIA,raw/idx_ar/MLIA/AR2025_AnnualReport2025_MLIA_att1_f31998d337bc.pdf,11,2,0,Singapore,49;50,
 MLPL,raw/web_ar/MLPL/AR2025_917dee2460f9.pdf,25,0,0,,,
-MLPT,raw/web_ar/MLPT/AR2025_6ec67df24578.pdf,20,0,0,,,
+MLPT,raw/web_ar/MLPT/AR2025_6ec67df24578.pdf,19,0,0,,,
 MMIX,raw/idx_ar/MMIX/AR2025_AnnualReport2025_MMIX_att2_987a5eecc409.pdf,10,0,0,,,
 MMIX,raw/idx_ar/MMIX/AR2025_AnnualReport2025_MMIX_att1_e5dba655440c.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MMLP,raw/web_ar/MMLP/AR2025_dfae367b649b.pdf,20,3,0,India;Singapore,31,
+MNCN,raw/idx_ar_ann/MNCN/AR2025ANN_part2_2daaaaae53d2.pdf,34,3,0,Canada;United Kingdom,42;46,
+MNCN,raw/idx_ar_ann/MNCN/AR2025ANN_part1_77cba92d0482.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MOLI,raw/idx_ar/MOLI/AR2025_AnnualReport2025_MOLI_att2_70dd055e77e7.pdf,10,1,0,Philippines,77,
 MOLI,raw/idx_ar/MOLI/AR2025_AnnualReport2025_MOLI_att1_fd530fda7496.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MORA,raw/idx_ar/MORA/AR2025_AnnualReport2025_MORA_att1_01ef9c86ec48.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -769,8 +814,9 @@ MPXL,raw/idx_ar/MPXL/AR2025_AnnualReport2025_MPXL_1e69a78b49a1.pdf,0,0,0,,,NO_NA
 MPXL,raw/idx_ar/MPXL/AR2025_AnnualReport2025_MPXL_att1_ecf9246a4c53.pdf,24,0,0,,,
 MRAT,raw/idx_ar/MRAT/AR2025_AnnualReport2025_MRAT_att1_5941464229b7.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MRAT,raw/idx_ar/MRAT/AR2025_AnnualReport2025_MRAT_att2_af95f94793dc.pdf,16,0,0,,,
-MSIE,raw/idx_ar/MSIE/AR2025_AnnualReport2025_MSIE_att1_ae1d095e4d50.pdf,18,0,0,,,
-MSIN,raw/idx_ar/MSIN/AR2025_AnnualReport2025_MSIN_att1_fa61fc5fc008.pdf,41,4,0,Canada;Hong Kong;United Kingdom,38;90;96,
+MSIE,raw/idx_ar_ann/MSIE/AR2025ANN_part1_006b01548949.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+MSIE,raw/idx_ar_ann/MSIE/AR2025ANN_part2_85368bde2b5a.pdf,16,0,0,,,
+MSIN,raw/idx_ar/MSIN/AR2025_AnnualReport2025_MSIN_att1_fa61fc5fc008.pdf,38,4,0,Canada;Hong Kong;United Kingdom,38;90;96,
 MSJA,raw/idx_ar/MSJA/AR2025_AnnualReport2025_MSJA_att1_5313d0916908.pdf,11,3,0,Japan,147,
 MSKY,raw/web_ar/MSKY/AR2025_49e88831b37d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 MSTI,raw/idx_ar/MSTI/AR2025_AnnualReport2025_MSTI_att1_3eec74d17cf8.pdf,13,0,0,,,
@@ -820,6 +866,8 @@ NPGF,raw/idx_ar/NPGF/AR2025_AnnualReport2025_NPGF_att2_26823c436bee.pdf,32,0,0,,
 NPGF,raw/idx_ar/NPGF/AR2025_AnnualReport2025_NPGF_att1_abf7612e9ea6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 NPGF,raw/idx_ar/NPGF/AR2025_AnnualReport2025_NPGF_b4338fde377a.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 NRCA,raw/idx_ar/NRCA/AR2025_AnnualReport2025_NRCA_att1_1ff549f99386.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+NRCA,raw/idx_ar_ann/NRCA/AR2025ANN_part2_75408a7219de.pdf,22,0,0,,,
+NRCA,raw/idx_ar_ann/NRCA/AR2025ANN_part1_e25f7be176ab.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 NSSS,raw/idx_ar/NSSS/AR2025_AnnualReport2025_NSSS_att2_28920692d73d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 NSSS,raw/idx_ar/NSSS/AR2025_AnnualReport2025_NSSS_att1_a3bddc4ac362.pdf,14,0,0,,,
 NTBK,raw/idx_ar/NTBK/AR2025_AnnualReport2025_NTBK_att1_17fb3c6204b4.pdf,24,0,1,,58,
@@ -829,6 +877,7 @@ NZIA,raw/idx_ar/NZIA/AR2025_AnnualReport2025_NZIA_att4_6b681217e36f.pdf,0,0,0,,,
 NZIA,raw/idx_ar/NZIA/AR2025_AnnualReport2025_NZIA_att3_8d38810a4325.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 NZIA,raw/idx_ar/NZIA/AR2025_AnnualReport2025_NZIA_att2_a201521444dd.pdf,18,0,0,,,
 OASA,raw/web_ar/OASA/AR2025_f10b02862266.pdf,32,0,0,,,
+OBAT,raw/idx_ar_ann/OBAT/AR2025ANN_part1_1a242da08313.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 OBAT,raw/idx_ar/OBAT/AR2025_AnnualReport2025_OBAT_att1_f7ff2247bbcf.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 OBMD,raw/web_ar/OBMD/AR2025_c5493801107a.pdf,22,0,0,,,
 OCAP,raw/idx_ar/OCAP/AR2025_AnnualReport2025_OCAP_35ebcdf88303.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -840,7 +889,9 @@ OLIV,raw/idx_ar/OLIV/AR2025_AnnualReport2025_OLIV_att1_3046f859b25b.pdf,8,10,0,C
 OLIV,raw/idx_ar/OLIV/AR2025_AnnualReport2025_OLIV_att2_fdb1e6d3c316.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 OMED,raw/idx_ar/OMED/AR2025_AnnualReport2025_OMED_att1_4f7183e47d54.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 OMED,raw/idx_ar/OMED/AR2025_AnnualReport2025_OMED_att2_efd0466c786d.pdf,12,2,0,United States,63,
-OMRE,raw/web_ar/OMRE/AR2025_febaa0e19005.pdf,32,0,0,,,
+OMRE,raw/idx_ar/OMRE/AR2025_AnnualReport2025_OMRE_att3_6f12ad5d6a15.pdf,22,2,0,Singapore,19,
+OMRE,raw/idx_ar/OMRE/AR2025_AnnualReport2025_OMRE_att2_98e676c52a1e.pdf,28,2,0,Singapore,22,
+OMRE,raw/idx_ar/OMRE/AR2025_AnnualReport2025_OMRE_att1_9b6cc1dde291.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 OPMS,raw/web_ar/OPMS/AR2025_a8dbf81a6977.pdf,20,0,0,,,
 PACK,raw/idx_ar/PACK/AR2025_AnnualReport2025_PACK_att2_09752bffe41a.pdf,16,6,0,China,54;58;234,
 PACK,raw/idx_ar/PACK/AR2025_AnnualReport2025_PACK_att1_7426e7ce94d4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -864,6 +915,9 @@ PBID,raw/web_ar/PBID/AR2025_1aff8bd7c07e.pdf,24,0,0,,,
 PBRX,raw/web_ar/PBRX/AR2025_6a7c8e24c56b.pdf,15,1,0,Netherlands,56,
 PBSA,raw/web_ar/PBSA/AR2025_090b454fb372.pdf,20,0,0,,,
 PCAR,raw/idx_ar/PCAR/AR2025_AnnualReport2025_PCAR_att1_349928d164d4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+PCAR,raw/idx_ar_ann/PCAR/AR2025ANN_part4_5904f848c02a.pdf,12,0,0,,,
+PCAR,raw/idx_ar_ann/PCAR/AR2025ANN_part1_b3121dd3689d.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+PCAR,raw/idx_ar_ann/PCAR/AR2025ANN_part3_f1d30091e2c6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 PDES,raw/web_ar/PDES/AR2025_a11c95619f19.pdf,33,0,0,,,
 PDPP,raw/idx_ar/PDPP/AR2025_AnnualReport2025_PDPP_att1_28cbcd9c2acd.pdf,15,2,0,Malaysia,85,
 PEGE,raw/idx_ar/PEGE/AR2025_AnnualReport2025_PEGE_att1_a79c647c1a6a.pdf,14,0,0,,,
@@ -871,7 +925,7 @@ PEGE,raw/idx_ar/PEGE/AR2025_AnnualReport2025_PEGE_att2_ae129a44d773.pdf,0,0,0,,,
 PEHA,raw/web_ar/PEHA/AR2025_c12fceacdd12.pdf,32,0,0,,,
 PEVE,raw/web_ar/PEVE/AR2025_a741216ac27f.pdf,14,0,0,,,
 PGAS,raw/idx_ar/PGAS/AR2025_AnnualReport2025_PGAS_att1_2efd24b8ecc4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-PGAS,raw/idx_ar/PGAS/AR2025_AnnualReport2025_PGAS_att3_c6758706023e.pdf,7,0,2,,122,
+PGAS,raw/idx_ar/PGAS/AR2025_AnnualReport2025_PGAS_att3_c6758706023e.pdf,5,0,2,,122,
 PGAS,raw/idx_ar/PGAS/AR2025_AnnualReport2025_PGAS_att2_d3d7349c9f71.pdf,65,0,0,,,
 PGEO,raw/idx_ar/PGEO/AR2025_AnnualReport2025_PGEO_att2_b6dcb740b283.pdf,21,1,0,United Arab Emirates,105,
 PGEO,raw/idx_ar/PGEO/AR2025_AnnualReport2025_PGEO_att1_eb8f28bbce83.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -908,7 +962,10 @@ PNLF,raw/idx_ar/PNLF/AR2025_AnnualReport2025_PNLF_att1_ca18969e37d2.pdf,14,0,0,,
 PNSE,raw/web_ar/PNSE/AR2025_e5c519d13102.pdf,20,0,0,,,
 POLA,raw/idx_ar/POLA/AR2025_AnnualReport2025_POLA_att1_1dbd43781723.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 POLA,raw/idx_ar/POLA/AR2025_AnnualReport2025_POLA_att2_b5d2e92c6ecc.pdf,30,0,0,,,
-POLI,raw/idx_ar/POLI/AR2025_AnnualReport2025_POLI_att1_16202e157868.pdf,5,0,0,,,
+POLI,raw/idx_ar_ann/POLI/AR2025ANN_part1_142bc83c29e2.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+POLI,raw/idx_ar_ann/POLI/AR2025ANN_part3_201399a0036f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+POLI,raw/idx_ar_ann/POLI/AR2025ANN_part2_49538dd00b4c.pdf,10,0,0,,,
+POLI,raw/idx_ar_ann/POLI/AR2025ANN_part4_611d0d373a92.pdf,10,0,0,,,
 POLL,raw/idx_ar/POLL/AR2025_AnnualReport2025_POLL_att1_c559a187a0d5.pdf,9,0,0,,,
 POLL,raw/idx_ar/POLL/AR2025_AnnualReport2025_POLL_d15e236530cb.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 POLU,raw/idx_ar/POLU/AR2025_AnnualReport2025_POLU_718bb16787d2.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -948,7 +1005,7 @@ PURA,raw/idx_ar/PURA/AR2025_AnnualReport2025_PURA_att1_82914ff1aa08.pdf,17,0,1,,
 PURI,raw/idx_ar/PURI/AR2025_AnnualReport2025_PURI_att2_3b077bc84e91.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 PURI,raw/idx_ar/PURI/AR2025_AnnualReport2025_PURI_att3_4211d5ec1f7d.pdf,20,0,1,,173,
 PURI,raw/idx_ar/PURI/AR2025_AnnualReport2025_PURI_7c15a5a9a195.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-PURI,raw/idx_ar/PURI/AR2025_AnnualReport2025_PURI_att1_9447cf0f601f.pdf,2,0,0,,,
+PURI,raw/idx_ar/PURI/AR2025_AnnualReport2025_PURI_att1_9447cf0f601f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 PWON,raw/web_ar/PWON/AR2025_80e085a57975.pdf,12,2,0,Singapore,73;77,
 PZZA,raw/idx_ar/PZZA/AR2025_AnnualReport2025_PZZA_3cadec3ab73c.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 PZZA,raw/idx_ar/PZZA/AR2025_AnnualReport2025_PZZA_att1_5271d045bdee.pdf,14,2,0,United States,52;103,
@@ -956,13 +1013,16 @@ RAAM,raw/web_ar/RAAM/AR2025_a973a6e9f209.pdf,16,2,0,India;Netherlands,66;67,
 RAJA,raw/idx_ar/RAJA/AR2025_AnnualReport2025_RAJA_att1_adc2592f95f5.pdf,28,0,0,,,
 RAJA,raw/idx_ar/RAJA/AR2025_AnnualReport2025_RAJA_ec2edaa782eb.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 RALS,raw/web_ar/RALS/AR2025_74eb1686542b.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-RANC,raw/web_ar/RANC/AR2025_c0eca2fa7e3d.pdf,4,0,0,,,
+RANC,raw/idx_ar/RANC/AR2025_AnnualReport2025_RANC_att1_92d65a232e34.pdf,18,0,0,,,
 RATU,raw/idx_ar/RATU/AR2025_AnnualReport2025_RATU_att1_98bc9fa4c5ef.pdf,11,0,0,,,
 RBMS,raw/idx_ar/RBMS/AR2025_AnnualReport2025_RBMS_att2_30eac0551ab1.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 RBMS,raw/idx_ar/RBMS/AR2025_AnnualReport2025_RBMS_att4_a5e2e7ee58cb.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 RBMS,raw/idx_ar/RBMS/AR2025_AnnualReport2025_RBMS_att1_b4572017731f.pdf,23,1,0,United Kingdom,46,
 RBMS,raw/idx_ar/RBMS/AR2025_AnnualReport2025_RBMS_att3_f0963a19bb5c.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-RCCC,raw/web_ar/RCCC/AR2025_2679852660be.pdf,10,0,0,,,
+RCCC,raw/idx_ar_ann/RCCC/AR2025ANN_part1_009eda6b7d96.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+RCCC,raw/idx_ar_ann/RCCC/AR2025ANN_part3_16c2b4042261.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+RCCC,raw/idx_ar_ann/RCCC/AR2025ANN_part2_840327788daa.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+RCCC,raw/idx_ar_ann/RCCC/AR2025ANN_part4_b44e91224ae1.pdf,14,0,0,,,
 RDTX,raw/idx_ar/RDTX/AR2025_AnnualReport2025_RDTX_att1_538f602ad43a.pdf,18,0,0,,,
 RDTX,raw/idx_ar/RDTX/AR2025_AnnualReport2025_RDTX_9c2877340f8b.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 REAL,raw/idx_ar/REAL/AR2025_AnnualReport2025_REAL_att3_0bc7e383d9dd.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -975,8 +1035,10 @@ RICY,raw/web_ar/RICY/AR2025_d2c9f0e5bc8e.pdf,16,0,0,,,
 RIGS,raw/idx_ar/RIGS/AR2025_AnnualReport2025_RIGS_att1_cc6ad8b64747.pdf,19,0,0,,,
 RISE,raw/web_ar/RISE/AR2025_38f18fb9b08e.pdf,25,0,0,,,
 RLCO,raw/web_ar/RLCO/AR2025_02ca9439f8d4.pdf,11,0,0,,,
-RMKE,raw/web_ar/RMKE/AR2025_d9aa470fbf92.pdf,20,0,0,,,
-RMKO,raw/web_ar/RMKO/AR2025_84f058cfe702.pdf,11,0,0,,,
+RMKE,raw/idx_ar/RMKE/AR2025_AnnualReport2025_RMKE_att2_3fb75c7358dc.pdf,16,0,0,,,
+RMKE,raw/idx_ar/RMKE/AR2025_AnnualReport2025_RMKE_att1_ddb348c0099e.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+RMKO,raw/idx_ar/RMKO/AR2025_AnnualReport2025_RMKO_att2_401dbf7678cc.pdf,14,0,2,,125,
+RMKO,raw/idx_ar/RMKO/AR2025_AnnualReport2025_RMKO_att1_f86bb3d152c8.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 ROCK,raw/idx_ar/ROCK/AR2025_AnnualReport2025_ROCK_att1_97f94eff593d.pdf,24,0,0,,,
 RODA,raw/idx_ar/RODA/AR2025_AnnualReport2025_RODA_att2_6adeb48be2fd.pdf,20,0,0,,,
 RODA,raw/idx_ar/RODA/AR2025_AnnualReport2025_RODA_att3_873d6b6719ce.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -989,12 +1051,14 @@ RUIS,raw/idx_ar/RUIS/AR2025_AnnualReport2025_RUIS_att3_48a0bbc0cbe9.pdf,2,0,0,,,
 RUIS,raw/idx_ar/RUIS/AR2025_AnnualReport2025_RUIS_att1_4c1c28169ac1.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 RUIS,raw/idx_ar/RUIS/AR2025_AnnualReport2025_RUIS_att2_ffac17924839.pdf,30,0,0,,,
 RUNS,raw/idx_ar/RUNS/AR2025_AnnualReport2025_RUNS_att1_edad91e14131.pdf,12,0,0,,,
+RUNS,raw/idx_ar_ann/RUNS/AR2025ANN_part1_fd7761abd0d1.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 SAFE,raw/idx_ar/SAFE/AR2025_AnnualReport2025_SAFE_208f69113db8.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+SAFE,raw/idx_ar_ann/SAFE/AR2025ANN_part2_2d77fab91980.pdf,20,0,0,,,
 SAGE,raw/idx_ar/SAGE/AR2025_AnnualReport2025_SAGE_att1_c15ea94d65b2.pdf,4,0,0,,,
 SAME,raw/web_ar/SAME/AR2025_e52ca719cba1.pdf,15,0,0,,,
 SAMF,raw/web_ar/SAMF/AR2025_8865ce1fa6a1.pdf,17,0,0,,,
 SAPX,raw/web_ar/SAPX/AR2025_d58750d9d6eb.pdf,20,0,0,,,
-SATU,raw/idx_ar/SATU/AR2025_AnnualReport2025_SATU_att1_8afd27e41418.pdf,21,0,0,,,
+SATU,raw/idx_ar/SATU/AR2025_AnnualReport2025_SATU_att1_8afd27e41418.pdf,15,0,0,,,
 SBMA,raw/web_ar/SBMA/AR2025_335fff9a2ead.pdf,24,0,0,,,
 SCCO,raw/idx_ar/SCCO/AR2025_AnnualReport2025_SCCO_att1_fcf9f36192a1.pdf,22,0,0,,,
 SCMA,raw/idx_ar/SCMA/AR2025_AnnualReport2025_SCMA_att2_758e6fb22b0a.pdf,14,1,0,Australia,61,
@@ -1024,7 +1088,7 @@ SIMP,raw/idx_ar/SIMP/AR2025_AnnualReport2025_SIMP_att1_fe80733276ec.pdf,36,4,0,S
 SINI,raw/web_ar/SINI/AR2025_db7993cab495.pdf,9,0,0,,,
 SIPD,raw/idx_ar/SIPD/AR2025_AnnualReport2025_SIPD_att1_c19e538bd3be.pdf,11,0,0,,,
 SKBM,raw/web_ar/SKBM/AR2025_e5dac142bae9.pdf,18,4,0,Singapore;United Kingdom,36;44,
-SKRN,raw/web_ar/SKRN/AR2025_5203b84caf36.pdf,21,0,0,,,
+SKRN,raw/web_ar/SKRN/AR2025_5203b84caf36.pdf,19,0,0,,,
 SLIS,raw/web_ar/SLIS/AR2025_79467ae99dfa.pdf,11,0,0,,,
 SMAR,raw/idx_ar/SMAR/AR2025_AnnualReport2025_SMAR_att2_1f6ea2ea5e04.pdf,28,4,0,Philippines,30;86,
 SMAR,raw/idx_ar/SMAR/AR2025_AnnualReport2025_SMAR_att1_52631869635e.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -1099,8 +1163,9 @@ SWAT,raw/idx_ar/SWAT/AR2025_AnnualReport2025_SWAT_att1_9163a9872f28.pdf,0,0,0,,,
 SWAT,raw/idx_ar/SWAT/AR2025_AnnualReport2025_SWAT_ec34b1071df1.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 SWID,raw/web_ar/SWID/AR2025_48bcd522978e.pdf,12,0,0,,,
 TALF,raw/web_ar/TALF/AR2025_11314382358b.pdf,15,0,0,,,
-TAMA,raw/web_ar/TAMA/AR2025_5691aa591840.pdf,16,0,0,,,
-TAMU,raw/idx_ar/TAMU/AR2025_AnnualReport2025_TAMU_att1_de1787c01860.pdf,14,0,0,,,
+TAMA,raw/idx_ar/TAMA/AR2025_AnnualReport2025_TAMA_att1_3ed7577ad451.pdf,8,0,0,,,
+TAMU,raw/idx_ar_ann/TAMU/AR2025ANN_part2_2b917b8d4356.pdf,16,0,0,,,
+TAMU,raw/idx_ar_ann/TAMU/AR2025ANN_part1_eb1e9df6b1b4.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 TAPG,raw/idx_ar/TAPG/AR2025_AnnualReport2025_TAPG_att2_5a3ce6ad4183.pdf,20,0,0,,,
 TAPG,raw/idx_ar/TAPG/AR2025_AnnualReport2025_TAPG_att1_6e3583b0443f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 TAPG,raw/idx_ar/TAPG/AR2025_AnnualReport2025_TAPG_ed1a167ce9c0.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -1137,7 +1202,8 @@ TLKM,raw/web_ar/TLKM/AR2025_42f632796693.pdf,97,0,0,,,
 TMAS,raw/idx_ar/TMAS/AR2025_AnnualReport2025_TMAS_att2_22c771d7ac78.pdf,20,0,0,,,
 TMAS,raw/idx_ar/TMAS/AR2025_AnnualReport2025_TMAS_att1_3307eb43dd65.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 TMPO,raw/web_ar/TMPO/AR2025_7f918ba67121.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
-TNCA,raw/web_ar/TNCA/AR2025_08fc926452da.pdf,14,0,0,,,
+TNCA,raw/idx_ar/TNCA/AR2025_AnnualReport2025_TNCA_att1_1b1e4a19b5c6.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+TNCA,raw/idx_ar/TNCA/AR2025_AnnualReport2025_TNCA_att2_4a3108ca6803.pdf,14,0,0,,,
 TOOL,raw/idx_ar/TOOL/AR2025_AnnualReport2025_TOOL_att1_621b9c550170.pdf,12,0,0,,,
 TOSK,raw/idx_ar/TOSK/AR2025_AnnualReport2025_TOSK_att1_60c3dd3b1e01.pdf,22,0,0,,,
 TOTL,raw/idx_ar/TOTL/AR2025_AnnualReport2025_TOTL_b408016c81be.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
@@ -1181,6 +1247,8 @@ UNTR,raw/web_ar/UNTR/AR2025_eda5f80f0198.pdf,33,4,0,Australia;United Kingdom,120
 UNVR,raw/idx_ar/UNVR/AR2025_AnnualReport2025_UNVR_att1_1ecc776ce094.pdf,1,0,0,,,
 UNVR,raw/idx_ar/UNVR/AR2025_AnnualReport2025_UNVR_att3_8f5f9850e31a.pdf,36,11,0,China;India;Philippines;United States,67;79;80;81;85,
 URBN,raw/web_ar/URBN/AR2025_050d6c8f1224.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+UVCR,raw/idx_ar_ann/UVCR/AR2025ANN_part2_7a31f9e238aa.pdf,18,0,0,,,
+UVCR,raw/idx_ar_ann/UVCR/AR2025ANN_part1_9ba6e316bf1f.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 VAST,raw/idx_ar/VAST/AR2025_AnnualReport2025_VAST_att1_0acbd9324e2b.pdf,18,0,0,,,
 VERN,raw/web_ar/VERN/AR2025_99820a2259dc.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 VICI,raw/idx_ar/VICI/AR2025_AnnualReport2025_VICI_att2_1dd22cf05afc.pdf,13,1,0,Singapore,90,
@@ -1233,6 +1301,9 @@ WSBP,raw/idx_ar/WSBP/AR2025_AnnualReport2025_WSBP_att1_76f05e39e10f.pdf,0,0,0,,,
 WSKT,raw/idx_ar/WSKT/AR2025_AnnualReport2025_WSKT_att2_82d7bd988849.pdf,45,0,0,,,
 WSKT,raw/idx_ar/WSKT/AR2025_AnnualReport2025_WSKT_att1_ccdbc685d91b.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 WSKT,raw/idx_ar/WSKT/AR2025_AnnualReport2025_WSKT_att3_ef5c965139d0.pdf,1,0,0,,,
+WTON,raw/idx_ar_ann/WTON/AR2025ANN_part2_009cdc9a02af.pdf,64,0,0,,,
+WTON,raw/idx_ar_ann/WTON/AR2025ANN_part1_eb89f5757cb9.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
+WTON,raw/idx_ar_ann/WTON/AR2025ANN_part3_f7d2b88f9b23.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 YELO,raw/idx_ar/YELO/AR2025_AnnualReport2025_YELO_att1_0dafb86e1ba8.pdf,0,0,0,,,NO_NATIONALITY_LABEL_READ_PROFILES
 YELO,raw/idx_ar/YELO/AR2025_AnnualReport2025_YELO_att2_af326cad0529.pdf,13,0,0,,,
 YOII,raw/web_ar/YOII/AR2025_0404890c5ca9.pdf,25,0,0,,,

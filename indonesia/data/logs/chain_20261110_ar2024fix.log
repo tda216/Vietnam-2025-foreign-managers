@@ -1,0 +1,40 @@
+documents 12 for 7 of 7 companies
+1 MDKI 272 pages, 15 OCR VERIFIED
+2 OMRE 1 pages, 0 OCR VERIFIED
+3 OMRE 52 pages, 1 OCR VERIFIED
+4 OMRE 48 pages, 1 OCR SET_VERIFIED
+5 RANC 306 pages, 1 OCR VERIFIED
+6 RMKE 1 pages, 1 OCR SET_VERIFIED
+7 RMKE 351 pages, 8 OCR VERIFIED
+8 RMKO 1 pages, 1 OCR SET_VERIFIED
+9 RMKO 298 pages, 5 OCR VERIFIED
+10 TAMA 257 pages, 2 OCR VERIFIED
+11 TNCA 75 pages, 0 OCR VERIFIED
+12 TNCA 203 pages, 1 OCR VERIFIED
+missing documents: []
+documents 1244 | with foreign label 230 | no label at all 444
+composition: SUM_OK 291 of 783
+FO class: [('LOCAL', 803), ('FOREIGN_MAJORITY', 139), ('REVIEW', 11)]
+source: [('KSEI_BOUNDS_20251230', 625), ('AR2025_TABLE_AUTO', 140), ('AR2025_MANUAL', 89), ('AR2025_NAMED_HOLDERS_AUTO', 88)]
+open: [('NO_AR', 5), ('NEEDS_MANUAL:NO_TABLE_ROW', 3), ('NEEDS_MANUAL:SUM_OFF', 2), ('NEEDS_MANUAL:OUTSIDE_KSEI_BOUNDS', 1)]
+proposals 181 Counter({'OTHER': 96, 'PROFILE': 75, 'STATEMENT': 10}) companies 87
+departure mentions 684 in 223 LOCAL firms; 501 names without a nationality label nearby
+departed names 501 Counter({'INDONESIAN': 161, 'NAME_NOT_FOUND': 140, 'NO_LABEL': 111, 'NO_AR2024': 60, 'FOREIGN': 29})
+Traceback (most recent call last):
+  File "/Users/thanh/Data 2025-foreign-managers/indonesia/pipeline/id10_build_workbook.py", line 251, in <module>
+    main()
+  File "/Users/thanh/Data 2025-foreign-managers/indonesia/pipeline/id10_build_workbook.py", line 229, in main
+    sheet("AR_File_Reviews", reviews)
+  File "/Users/thanh/Data 2025-foreign-managers/indonesia/pipeline/id10_build_workbook.py", line 218, in sheet
+    w.append([val(r.get(c, ""), c) for c in cols])
+  File "/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/openpyxl/worksheet/worksheet.py", line 673, in append
+    cell = Cell(self, row=row_idx, column=col_idx, value=content)
+  File "/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/openpyxl/cell/cell.py", line 119, in __init__
+    self.value = value
+  File "/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/openpyxl/cell/cell.py", line 218, in value
+    self._bind_value(value)
+  File "/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/openpyxl/cell/cell.py", line 197, in _bind_value
+    value = self.check_string(value)
+  File "/Users/thanh/Data 2025-foreign-managers/.venv/lib/python3.9/site-packages/openpyxl/cell/cell.py", line 165, in check_string
+    raise IllegalCharacterError(f"{value} cannot be used in worksheets.")
+openpyxl.utils.exceptions.IllegalCharacterError: 'Tentang Laporan Tahunan 2024 About Annual Report 2024 ʿ˔ˣˢ˥˔ˡ˜ˡ˜ˠ˘ˠ˨˔˧˞˔˧˔Ϣ˃˘˥˨' (p2); 438 mentions of the 2024 report/year, none of an AR 2025 – the AR 2024, not the AR 2025 (found in the QA of 10 Nov 2026) cannot be used in worksheets.

@@ -126,6 +126,16 @@ Each step is a script that is rerun freely, with hand-reviewed facts only in `da
 - Treat a database's role or nationality as evidence.
 - Turn unknown into 0, except through the owner's explicit NONE_FOUND rule.
 - Use photos to infer nationality.
+- Trust a file name, a publication date or an exchange's year field for the report year (Indonesia, 10 Nov 2026: 15 "AR 2025"
+  files were the AR 2024 – a 2025 date in the file name, or the issuer's 2024 report filed under year 2025). Check the
+  content: the report must name its own year (count "Annual Report 2024" vs "2025" mentions).
+- Count a firm as "none found" because some nationality label exists somewhere in its report. The labels must belong to
+  the Board / executive profiles – committee members, the internal-audit head or an HR sentence are not enough
+  (Indonesia QA: 5 of 43 such firms had Board profiles without any nationality).
+- Call a report "not available" after searching only the exchange's report repository. Also search the exchange's
+  announcements: in Indonesia (11 Nov 2026) 22 of 75 "missing" ARs had been filed only as announcements (3 of them
+  with foreign managers). For firms that still have no report, look for the exchange's suspension / delisting notices
+  (missing audited accounts) and record them as the documented reason for leaving the firm out.
 
 ## 5. Why not BoardEx (Philippines facts)
 - **40 of the 92 FOUND firms** rested on BoardEx alone, against 47 with filing evidence.

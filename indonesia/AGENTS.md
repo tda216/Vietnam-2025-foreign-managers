@@ -28,6 +28,7 @@ Run everything from the project root with the shared environment: `.venv/bin/pyt
 | Members who left during 2025 (owner, 9 Nov 2026) | Check them: download the AR 2024 from IDX (www.idx.id, same slow rule) for LOCAL firms with departures, screen for a nationality label next to the departed names; foreign ones are read and recorded (source AR 2024, leaving date from AR 2025); names with no information go to the limitations |
 | Departed members without stated nationality (owner, 10 Nov 2026) | Web / news search first (open the page, quote it, URL + access date in `Other_Sources`); if still nothing, infer only when the name clearly points to one country (as in the Philippines) → `Evidence_Type = INFERRED`, `Note = INFERRED_WEAK` + basis, counts toward the flag; otherwise limitations |
 | FO still open after hand reading (owner, 10 Nov 2026, OPEN_DECISIONS 11a) | BAE monthly register report for December 2025 ("Laporan Bulanan Registrasi Pemegang Efek", filed on IDX in Jan 2026): "Komposisi Kepemilikan Saham" at 31 Dec 2025 (scrip outside KSEI + KSEI custody, each national / foreign) and form X.H.1-1 (holders >= 5 %, Status A/I). Fetched slowly from www.idx.id (the announcement API gives idx.co.id links; the same file sits under www.idx.id/Portals/0/StaticData/..., the path the AR downloads use; idx.co.id itself is never used). Scans: read the page image; Method `BAE_REGISTER_202512` |
+| Sample (owner, 11 Nov 2026) | LOCAL firms without an AR 2025 that are delisted or suspended by IDX (missing audited FS) are excluded from the share of firms with foreign managers: `In_Sample = 0` + `Sample_Note`, rows never deleted. All three status groups are excluded (DELISTED, LONG_SUSPENSION, SUSPENDED_2026_LATE_FS2025); the late filers are re-checked on IDX in 2027 |
 Open decisions waiting for the owner: `OPEN_DECISIONS.md` (this folder).
 
 ## Sources tested (7 Nov 2026)
@@ -79,6 +80,8 @@ Open decisions waiting for the owner: `OPEN_DECISIONS.md` (this folder).
 | 7 | `id07_fo_classify.py` | Final FO class: KSEI bounds (LOCAL / FM) → `data/manual/ownership_ar.csv` (hand-read, quote) → auto-accepted AR table (OPEN_DECISIONS 6a) → else REVIEW (NEEDS_MANUAL / NO_AR). `Search_Managers` = 1 only for LOCAL → `data/fo_classification.csv` |
 | 3d | `id03d_idx_ar.py (manual \| codes.csv \| CODE …) [--year 2024]` | AR from IDX through www.idx.id (owner 8 Nov 2026): one thread, 3 s pause, stop on any block; parts att1…attN; checks VERIFIED / SET_VERIFIED / IDX_RECORD → `data/idx_ar_files.csv` (other years: `idx_ar_files_<year>.csv`) |
 | 3e | `id03e_idx_repair.py [--pause 3]` | Repairs IDX downloads without `%%EOF` (IDX sends no Content-Length and can cut at ~20–30 MB): resumes with HTTP Range until 416, new file name, old rows dropped from `text_index.csv`; log `data/idx_repair_log.csv` (REPAIRED / SOURCE_SAME_SIZE / FAILED). `fetch_pdf` itself now probes with Range when the size is unknown |
+| 3h | `id03h_idx_ar_announce.py (codes.csv \| CODE …) [--pause 3]` | AR 2025 filed only as an IDX announcement ("Penyampaian Laporan Tahunan", 1 Jan–11 Nov 2026), same access rules as 3f → `raw/idx_ar_ann/<CODE>/`, `data/idx_ar_ann_files.csv` (read by id05, id10, id_add_records). Check the report year of every file (AR 2022 / 2024 files found) |
+| 3i | `id03i_idx_status.py (codes.csv \| CODE …) [--pause 3]` | Trading status from IDX announcement titles 2024–Nov 2026 (titles only, no download; same access rules as 3f): SUSPEND / UNSUSPEND / DELIST_POTENTIAL / DELIST / FS_FILED / AR_FILED → `data/idx_status_titles.csv` (read by id10 for `No_Source_Reasons`) |
 | 3f | `id03f_idx_register.py (review \| codes.csv \| CODE …)` | BAE monthly register report Dec 2025 (OPEN_DECISIONS 11a) from the IDX announcement API; attachments fetched at www.idx.id/Portals/0/StaticData/… (never idx.co.id) → `raw/idx_reg/<CODE>/`, `data/idx_reg_files.csv` |
 | 5b | `id05b_reg_text.py` | Text + OCR of the register reports → `data/reg_text/` (git-ignored), tagged pages `data/reg_pages.csv`. Part 1 = IDX e-form (text: holders > 5 %, position, scrip / scripless public); later parts = BAE forms (composition national / foreign, X.H.1-1 Status A/I), mostly scans → read the page image |
 | 8 | `id08_propose.py` | Record proposals for LOCAL firms from the nationality screen: name / role candidates, appointment / leaving hints, context PROFILE / STATEMENT / OTHER; labels already covered by a record on the same page (distinct ages) are skipped → `data/proposals.csv` |
@@ -232,4 +235,29 @@ Open decisions waiting for the owner: `OPEN_DECISIONS.md` (this folder).
 - 10 Nov 2026: `output/HANDOVER_REPORT.docx` built from the .md by `pipeline/id_md2docx.py` (real tables; rebuild after
   every edit of the .md). Note: the VN `BAO_CAO_BAN_GIAO.docx` was made with macOS textutil, which turns every table
   cell into a separate paragraph.
+- 10 Nov 2026 (manual QA, `id11_qa_sample.py` seed 20261110, verdicts `data/manual/qa_review.csv`): records 28/30 OK
+  (TPIA 2026 appointees: Pongpun Amornvivat + Rungnapa Janchookiat + Konlakan Chankachangchaeng removed → NOT_FY2025,
+  batch `id_qa_20261110_corrections.json`; CCSI name → Chai Khye Yeien); NONE_FOUND firms 29/30 OK (KOCI). Follow-up
+  review of 43 firms (`id_qa_labels.py`, `id_qa_boardpages.py`) → `data/manual/label_reviews.csv` (NO_BOARD_NATIONALITY:
+  KOCI, MBSS, MEJA, BBMD, IKAI → UNRESOLVED; BOARD_LABELS_IN_IMAGE: BIKE, ATAP, HALO, HELI, TAXI, TFAS; LAPD 2025 board
+  from AR 2024). 15 files of 14 firms were the AR 2024 (REJECTED_AR2024): MDKI, OMRE, RANC, RMKE, RMKO, TAMA, TNCA
+  re-read from their IDX AR 2025 (new record: OMRE Chiu Man Sing, Singapore); BEKS, MARI, MSIE, POLI, TAMU, RCCC →
+  NO_SOURCE; CEKA keeps Darwin Indigo from its AR 2024 (SOURCE_AR2024 note). BEKS / MSIE FO from the BAE register.
+  id06: generic citizen sentences no longer count; id10: QA checks `ar_file_looks_like_2024`,
+  `record_page_first_appointed_2026`, sheets `Label_Reviews`, `QA_Sample`. Workbook: 156 FOUND / 331 rows / 552
+  NONE_FOUND / 22 UNRESOLVED / 75 NO_SOURCE / 9 FO_REVIEW, QA 0 (10 checks).
+- 11 Nov 2026 (no-source follow-up): `id03h` found ARs filed only as IDX announcements for 30 of 84 firms; CPRI, POOL
+  (AR 2022), PMMP and a BEKS file (AR 2024) rejected. 22 NO_SOURCE firms now sourced: 4 new records (GIAA Balagopal
+  Kunduvara SG + Neil Raymond Mills UK, Directors from 15 Oct 2025; MNCN Joel Richard Hogarth UK, Ind. Commissioner;
+  DEWA Nalinkant Amratlal Rathod IN, Commissioner), JAST Kennard Jr S Kurnia = Indonesian; KUAS FO settled LOCAL.
+  Every remaining NO_SOURCE firm (53) is on the IDX suspension lists for missing audited FS 2025 (Peng-S-00020/
+  BEI.PLP/06-2026, Peng-S-00021/BEI.PLP/07-2026); CNTB delisted 30 Jul 2026. Evidence `data/manual/listing_events.csv`
+  (batch_src/listing_20261111.py), id10 column `No_Source_Reason`, sheets `No_Source_Reasons`, `Listing_Events_2026`.
+  Workbook: 159 FOUND / 335 rows / 572 NONE_FOUND / 22 UNRESOLVED / 53 NO_SOURCE / 8 FO_REVIEW, QA 0.
+  Trading status (step 3i `id03i_idx_status.py`: IDX announcement titles 2024–2026 → `data/idx_status_titles.csv`;
+  batch_src/listing_20261111b.py: delisting 10 Nov 2026 (KabarBursa) and the > 6-month suspension list (CNBC, 1 Aug
+  2026)): id10 columns `Status_Group` (DELISTED 13 / LONG_SUSPENSION 29 / SUSPENDED_2026_LATE_FS2025 11),
+  `Last_Annual_FS_Filing_IDX`. Owner (11 Nov 2026): exclude all 53 NO_SOURCE firms from the sample (`In_Sample = 0`,
+  `Sample_Note`), keep the rows; the 11 late filers are re-checked on IDX in 2027 (Open_Items RECHECK_2027). Sample 753:
+  159 FM = 21.1 %, Core 152 = 20.2 %. New QA check `no_source_without_documented_status` (11 checks, 0 violations).
 

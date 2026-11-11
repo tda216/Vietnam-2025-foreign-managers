@@ -299,6 +299,7 @@ MAXI,FOUND,ESG2025-MAXI.pdf;AnnualReport2025-MAXI-att1.pdf;AnnualReport2025-MAXI
 MBSS,FOUND,AnnualReport2025-MBSS-att2.pdf;AnnualReport2025-MBSS-att1.pdf;AnnualReport2025-MBSS.pdf,AnnualReport2025-MBSS-att2.pdf;AnnualReport2025-MBSS-att1.pdf;AnnualReport2025-MBSS.pdf
 MCAS,FOUND,ESG2025-MCAS.pdf;AnnualReport2025-MCAS-att2.pdf;AnnualReport2025-MCAS-att1.pdf,AnnualReport2025-MCAS-att2.pdf;AnnualReport2025-MCAS-att1.pdf
 MCOL,FOUND,ESG2025-MCOL.pdf;AnnualReport2025-MCOL-att2.pdf;AnnualReport2025-MCOL-att1.pdf,AnnualReport2025-MCOL-att2.pdf;AnnualReport2025-MCOL-att1.pdf
+MDKI,FOUND,AnnualReport2025-MDKI-att1.pdf;ESG2025-MDKI.pdf,AnnualReport2025-MDKI-att1.pdf
 MDLA,FOUND,ESG2025-MDLA.pdf;AnnualReport2025-MDLA-att1.pdf;AnnualReport2025-MDLA-att2.pdf,AnnualReport2025-MDLA-att1.pdf;AnnualReport2025-MDLA-att2.pdf
 MDRN,FOUND,AnnualReport2025-MDRN-att1.pdf;AnnualReport2025-MDRN.pdf,AnnualReport2025-MDRN-att1.pdf;AnnualReport2025-MDRN.pdf
 MEJA,FOUND,AnnualReport2025-MEJA-att1.pdf;AnnualReport2025-MEJA.pdf,AnnualReport2025-MEJA-att1.pdf;AnnualReport2025-MEJA.pdf
@@ -361,6 +362,7 @@ OILS,FOUND,ESG2025-OILS.pdf;AnnualReport2025-OILS-att1.pdf,AnnualReport2025-OILS
 OKAS,FOUND,ESG2025-OKAS.pdf;AnnualReport2025-OKAS-att2.pdf;AnnualReport2025-OKAS-att1.pdf;AnnualReport2025-OKAS-att3.pdf;AnnualReport2025-OKAS-att6.pdf;AnnualReport2025-OKAS-att5.pdf;AnnualReport2025-OKAS-att4.pdf,AnnualReport2025-OKAS-att2.pdf;AnnualReport2025-OKAS-att1.pdf;AnnualReport2025-OKAS-att3.pdf;AnnualReport2025-OKAS-att6.pdf;AnnualReport2025-OKAS-att5.pdf;AnnualReport2025-OKAS-att4.pdf
 OLIV,FOUND,ESG2025-OLIV.pdf;AnnualReport2025-OLIV-att1.pdf;AnnualReport2025-OLIV-att2.pdf,AnnualReport2025-OLIV-att1.pdf;AnnualReport2025-OLIV-att2.pdf
 OMED,FOUND,ESG2025-OMED.pdf;AnnualReport2025-OMED-att2.pdf;AnnualReport2025-OMED-att1.pdf,AnnualReport2025-OMED-att2.pdf;AnnualReport2025-OMED-att1.pdf
+OMRE,FOUND,AnnualReport2025-OMRE-att3.pdf;AnnualReport2025-OMRE-att1.pdf;ESG2025-OMRE.pdf;AnnualReport2025-OMRE-att2.pdf,AnnualReport2025-OMRE-att3.pdf;AnnualReport2025-OMRE-att1.pdf;AnnualReport2025-OMRE-att2.pdf
 PACK,FOUND,ESG2025-PACK.pdf;AnnualReport2025-PACK-att1.pdf;AnnualReport2025-PACK-att2.pdf,AnnualReport2025-PACK-att1.pdf;AnnualReport2025-PACK-att2.pdf
 PADI,FOUND,AnnualReport2025-PADI.pdf;AnnualReport2025-PADI-att2.pdf;AnnualReport2025-PADI-att1.pdf,AnnualReport2025-PADI.pdf;AnnualReport2025-PADI-att2.pdf;AnnualReport2025-PADI-att1.pdf
 PALM,FOUND,ESG2025-PALM.pdf;AnnualReport2025-PALM-att1.pdf;AnnualReport2025-PALM-att2.pdf;AnnualReport2025-PALM-att3.pdf,AnnualReport2025-PALM-att1.pdf;AnnualReport2025-PALM-att2.pdf;AnnualReport2025-PALM-att3.pdf
@@ -407,14 +409,18 @@ PURI,FOUND,AnnualReport2025-PURI-att4.pdf;AnnualReport2025-PURI-att2.pdf;AnnualR
 PZZA,FOUND,AnnualReport2025-PZZA-att1.pdf;AnnualReport2025-PZZA.pdf,AnnualReport2025-PZZA-att1.pdf;AnnualReport2025-PZZA.pdf
 RAFI,NO_AR_ON_IDX,,
 RAJA,FOUND,AnnualReport2025-RAJA.pdf;AnnualReport2025-RAJA-att1.pdf,AnnualReport2025-RAJA.pdf;AnnualReport2025-RAJA-att1.pdf
+RANC,FOUND,AnnualReport2025-RANC-att1.pdf;ESG2025-RANC.pdf,AnnualReport2025-RANC-att1.pdf
 RATU,FOUND,AnnualReport2025-RATU-att1.pdf;ESG2025-RATU.pdf,AnnualReport2025-RATU-att1.pdf
 RBMS,FOUND,AnnualReport2025-RBMS-att1.pdf;AnnualReport2025-RBMS-att4.pdf;AnnualReport2025-RBMS-att2.pdf;ESG2025-RBMS.pdf;AnnualReport2025-RBMS-att3.pdf,AnnualReport2025-RBMS-att1.pdf;AnnualReport2025-RBMS-att4.pdf;AnnualReport2025-RBMS-att2.pdf;AnnualReport2025-RBMS-att3.pdf
+RCCC,FOUND,ESG2025-RCCC.pdf;AnnualReport2025-RCCC-att2.pdf;AnnualReport2025-RCCC-att3.pdf;AnnualReport2025-RCCC-att1.pdf,AnnualReport2025-RCCC-att2.pdf;AnnualReport2025-RCCC-att3.pdf;AnnualReport2025-RCCC-att1.pdf
 RDTX,FOUND,AnnualReport2025-RDTX-att1.pdf;AnnualReport2025-RDTX.pdf,AnnualReport2025-RDTX-att1.pdf;AnnualReport2025-RDTX.pdf
 REAL,FOUND,AnnualReport2025-REAL-att2.pdf;ESG2025-REAL.pdf;AnnualReport2025-REAL-att1.pdf;AnnualReport2025-REAL-att3.pdf,AnnualReport2025-REAL-att2.pdf;AnnualReport2025-REAL-att1.pdf;AnnualReport2025-REAL-att3.pdf
 RELF,FOUND,ESG2025-RELF.pdf;AnnualReport2025-RELF-att1.pdf,AnnualReport2025-RELF-att1.pdf
 RELI,FOUND,AnnualReport2025-RELI-att1.pdf;ESG2025-RELI.pdf,AnnualReport2025-RELI-att1.pdf
 RIGS,FOUND,AnnualReport2025-RIGS-att1.pdf;ESG2025-RIGS.pdf,AnnualReport2025-RIGS-att1.pdf
 RIMO,NO_AR_ON_IDX,,
+RMKE,FOUND,AnnualReport2025-RMKE-att2.pdf;AnnualReport2025-RMKE-att1.pdf;ESG2025-RMKE.pdf,AnnualReport2025-RMKE-att2.pdf;AnnualReport2025-RMKE-att1.pdf
+RMKO,FOUND,AnnualReport2025-RMKO-att2.pdf;ESG2025-RMKO.pdf;AnnualReport2025-RMKO-att1.pdf,AnnualReport2025-RMKO-att2.pdf;AnnualReport2025-RMKO-att1.pdf
 ROCK,FOUND,AnnualReport2025-ROCK-att1.pdf;ESG2025-ROCK.pdf,AnnualReport2025-ROCK-att1.pdf
 RODA,FOUND,ESG2025-RODA.pdf;AnnualReport2025-RODA-att3.pdf;AnnualReport2025-RODA-att1.pdf;AnnualReport2025-RODA-att2.pdf,AnnualReport2025-RODA-att3.pdf;AnnualReport2025-RODA-att1.pdf;AnnualReport2025-RODA-att2.pdf
 RSGK,FOUND,AnnualReport2025-RSGK-att2.pdf;AnnualReport2025-RSGK.pdf;AnnualReport2025-RSGK-att1.pdf,AnnualReport2025-RSGK-att2.pdf;AnnualReport2025-RSGK.pdf;AnnualReport2025-RSGK-att1.pdf
@@ -465,6 +471,7 @@ SUGI,NO_AR_ON_IDX,,
 SUPA,FOUND,ESG2025-SUPA.pdf;AnnualReport2025-SUPA-att3.pdf;AnnualReport2025-SUPA-att2.pdf;AnnualReport2025-SUPA-att1.pdf;AnnualReport2025-SUPA-att4.pdf,AnnualReport2025-SUPA-att3.pdf;AnnualReport2025-SUPA-att2.pdf;AnnualReport2025-SUPA-att1.pdf;AnnualReport2025-SUPA-att4.pdf
 SURE,FOUND,AnnualReport2025-SURE-att1.pdf;ESG2025-SURE.pdf,AnnualReport2025-SURE-att1.pdf
 SWAT,FOUND,AnnualReport2025-SWAT-att2.pdf;AnnualReport2025-SWAT-att1.pdf;AnnualReport2025-SWAT.pdf,AnnualReport2025-SWAT-att2.pdf;AnnualReport2025-SWAT-att1.pdf;AnnualReport2025-SWAT.pdf
+TAMA,FOUND,ESG2025-TAMA.pdf;AnnualReport2025-TAMA-att1.pdf,AnnualReport2025-TAMA-att1.pdf
 TAMU,FOUND,AnnualReport2025-TAMU-att1.pdf;ESG2025-TAMU.pdf,AnnualReport2025-TAMU-att1.pdf
 TAPG,FOUND,AnnualReport2025-TAPG-att2.pdf;AnnualReport2025-TAPG-att1.pdf;AnnualReport2025-TAPG.pdf,AnnualReport2025-TAPG-att2.pdf;AnnualReport2025-TAPG-att1.pdf;AnnualReport2025-TAPG.pdf
 TARA,FOUND,AnnualReport2025-TARA-att1.pdf;ESG2025-TARA.pdf;AnnualReport2025-TARA-att2.pdf,AnnualReport2025-TARA-att1.pdf;AnnualReport2025-TARA-att2.pdf
@@ -483,6 +490,7 @@ TIRA,FOUND,AnnualReport2025-TIRA-att1.pdf;ESG2025-TIRA.pdf;AnnualReport2025-TIRA
 TIRT,FOUND,AnnualReport2025-TIRT-att1.pdf;AnnualReport2025-TIRT-att2.pdf;ESG2025-TIRT.pdf,AnnualReport2025-TIRT-att1.pdf;AnnualReport2025-TIRT-att2.pdf
 TKIM,FOUND,AnnualReport2025-TKIM-att2.pdf;AnnualReport2025-TKIM-att1.pdf;ESG2025-TKIM.pdf;AnnualReport2025-TKIM-att3.pdf,AnnualReport2025-TKIM-att2.pdf;AnnualReport2025-TKIM-att1.pdf;AnnualReport2025-TKIM-att3.pdf
 TMAS,FOUND,ESG2025-TMAS.pdf;AnnualReport2025-TMAS-att1.pdf;AnnualReport2025-TMAS-att2.pdf,AnnualReport2025-TMAS-att1.pdf;AnnualReport2025-TMAS-att2.pdf
+TNCA,FOUND,AnnualReport2025-TNCA-att1.pdf;AnnualReport2025-TNCA-att2.pdf;ESG2025-TNCA.pdf,AnnualReport2025-TNCA-att1.pdf;AnnualReport2025-TNCA-att2.pdf
 TOOL,FOUND,ESG2025-TOOL.pdf;AnnualReport2025-TOOL-att1.pdf,AnnualReport2025-TOOL-att1.pdf
 TOPS,NO_AR_ON_IDX,,
 TOSK,FOUND,ESG2025-TOSK.pdf;AnnualReport2025-TOSK-att1.pdf,AnnualReport2025-TOSK-att1.pdf

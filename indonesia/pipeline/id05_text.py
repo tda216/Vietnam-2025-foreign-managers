@@ -34,7 +34,7 @@ def docs_for(codes):
     by = {}
     conf = {r["File"] for r in rows("manual/ar_file_reviews.csv") if r["Decision"] == "CONFIRMED_AR2025"}
     rejected = {r["File"] for r in rows("manual/ar_file_reviews.csv") if r["Decision"].startswith("REJECTED")}
-    for src, name in (("web", "web_ar_files.csv"), ("idx", "idx_ar_files.csv"), ("manual", "manual_ar_files.csv")):
+    for src, name in (("web", "web_ar_files.csv"), ("idx", "idx_ar_files.csv"), ("idx", "idx_ar_ann_files.csv"), ("manual", "manual_ar_files.csv")):
         for r in rows(name):
             if r.get("File") in conf:
                 r = dict(r, Check="VERIFIED")  # first-pages check failed (e.g. image cover), confirmed by a reviewer

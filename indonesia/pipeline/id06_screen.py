@@ -102,6 +102,8 @@ def norm(t):
     return re.sub(r"\s+", " ", t).lower()
 
 
+GENERIC_BEFORE = re.compile(r"(?<![a-z])(?:seluruh|setiap|semua|segenap|kepada|bagi|all|every|any)\s+(?:[a-z]+\s+){0,2}\S*$")
+GENERIC_AFTER = re.compile(r"\W*(?:yang\s+(?:memiliki|memenuhi|berhak|ingin)|who\s+(?:possess|have|meet|wish))")
 LABWORD = re.compile(r"(?<![a-z])(?:kewarganegaraan|warga negara|nationality|citizenship)(?![a-z])")
 
 
@@ -162,7 +164,10 @@ def screen_nat(code, doc, pages, hits):
             raw = m.group(1)
             country = "UNKNOWN" if kind == "FOREIGN_NO_COUNTRY" else NAT[raw if kind != "TABLE_PAIR" else re.sub(r"\s+", " ", raw)]
             if country == "Indonesia":
-                s["Indonesian_Labels"] += 1
+                # a generic sentence about citizens is not a person's label: 'kesempatan yang sama kepada seluruh warga negara
+                # Indonesia yang memiliki kualifikasi' / 'to all Indonesian citizens who possess' (KOCI, QA sample 10 Nov 2026)
+                if not (GENERIC_BEFORE.search(t, max(0, m.start() - 45), m.start() + 1) or GENERIC_AFTER.match(t, m.end(), m.end() + 40)):
+                    s["Indonesian_Labels"] += 1
                 continue
             if kind == "FOREIGN_NO_COUNTRY":
                 s["Foreign_No_Country"] += 1

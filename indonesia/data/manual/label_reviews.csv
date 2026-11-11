@@ -1,0 +1,13 @@
+Code,Decision,Pages,Note,Reviewed_On
+KOCI,NO_BOARD_NATIONALITY,26;36,Board / Direksi profiles state age only (page images viewed); the only 'Indonesia' label is an HR sentence (p157),2026-11-10
+MBSS,NO_BOARD_NATIONALITY,56;58,"Board profiles (Armand Setiawan Tanudjaja, Andre) without a nationality field (page images viewed); the only label is a committee table (doc 3 p142)",2026-11-10
+MEJA,NO_BOARD_NATIONALITY,32,President Commissioner profile (Bimo Pradikto) without a nationality field (page image viewed); the only labels are the internal-audit head's (p94),2026-11-10
+BBMD,NO_BOARD_NATIONALITY,60,President Director profile (Achmad S. Kartasasmita): age and domicile only (page image viewed); labels only for division heads (p78-79),2026-11-10
+IKAI,NO_BOARD_NATIONALITY,69,"Board profile text (William Eduard Daniel Setyonegoro) gives the birth year, no nationality (page image viewed); labels only on committee pages (p212-214)",2026-11-10
+BIKE,BOARD_LABELS_IN_IMAGE,45;47,Board / Direksi profiles carry 'Kewarganegaraan Nationality Indonesia' in a graphic box (page images viewed),2026-11-10
+ATAP,BOARD_LABELS_IN_IMAGE,48,'Kewarganegaraan/Nationality Indonesia' in the profile graphic (page image viewed),2026-11-10
+HALO,BOARD_LABELS_IN_IMAGE,53,'Warga Negara Indonesia' in the profile graphic (page image viewed),2026-11-10
+HELI,BOARD_LABELS_IN_IMAGE,44,'Indonesia / Indonesian' in the profile graphic (page image viewed),2026-11-10
+TAXI,BOARD_LABELS_IN_IMAGE,56,'Indonesia | Indonesian' in the profile graphic (page image viewed),2026-11-10
+TFAS,BOARD_LABELS_IN_IMAGE,51,'Warga Negara | Nationality Indonesia' in the profile graphic (page image viewed),2026-11-10
+LAPD,BOARD_2025_FROM_AR2024,34;35;36;38;39,"The AR 2025 profiles are of the board appointed 14 Jan 2026; the 2025 members (Rustono Fulia, Frans Saul Noija, Bobby Alianto, Bambang Rahardja Burhan, Yehezkiel Fulia) are each 'Kewarganegaraan Nationality Indonesia' in the AR 2024 (raw/idx_ar/LAPD, pages given) -> NONE_FOUND stands",2026-11-10
