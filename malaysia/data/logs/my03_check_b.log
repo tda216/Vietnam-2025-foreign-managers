@@ -1,0 +1,23 @@
+klsescreener 0311: HTTP 202, attempt 1
+klsescreener 0311: HTTP 202, attempt 2
+klsescreener 3441: HTTP 202, attempt 1
+klsescreener 3441: HTTP 202, attempt 2
+klsescreener 3441: HTTP 202, attempt 3
+klsescreener 5176: HTTP 202, attempt 1
+klsescreener 5176: HTTP 202, attempt 2
+klsescreener 5275: HTTP 202, attempt 1
+klsescreener 5275: HTTP 202, attempt 2
+klsescreener 5275: HTTP 202, attempt 3
+klsescreener 6114: HTTP 202, attempt 1
+klsescreener 6114: HTTP 202, attempt 2
+klsescreener 7033: HTTP 202, attempt 1
+klsescreener 7033: HTTP 202, attempt 2
+klsescreener 7323: HTTP 202, attempt 1
+klsescreener 7323: HTTP 202, attempt 2
+companies 50/297
+companies 100/297
+companies 150/297
+companies 200/297
+companies 250/297
+this run: [('AVAILABLE_WEBSITE', 192), ('NOT_FOUND', 100), ('BURSA_LINK_ONLY', 41), ('SITE_BLOCKS_SCRIPTS', 37), ('NOT_DUE_YET', 35), ('SITE_ERROR', 18), ('AVAILABLE_INSAGE', 13), ('NO_FY2025_AR_IN_INDEX', 8), ('NO_WEBSITE', 2)]
+ar_availability.csv all companies: [('AVAILABLE_WEBSITE', 620), ('NOT_FOUND', 314), ('AVAILABLE_INSAGE', 206), ('SITE_BLOCKS_SCRIPTS', 115), ('BURSA_LINK_ONLY', 101), ('NOT_DUE_YET', 91), ('SITE_ERROR', 69), ('NO_FY2025_AR_IN_INDEX', 36), ('NO_WEBSITE', 21)]

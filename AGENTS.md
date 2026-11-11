@@ -7,7 +7,14 @@ imports it) with its sources, pipeline, lessons and status. **Read it before wor
 | Country | Folder | Status |
 |---|---|---|
 | Vietnam (1 of 5) | `vietnam/` – [vietnam/AGENTS.md](vietnam/AGENTS.md) | handed over 02/11/2026 |
-| Thailand (2 of 5) | `thailand/` – [thailand/AGENTS.md](thailand/AGENTS.md) | handed over 09/11/2026 |
+| Philippines | `philippines/` – [philippines/AGENTS.md](philippines/AGENTS.md) | done 07/11/2026 (data/ and output/ stay local) |
+| Thailand | `thailand/` – [thailand/AGENTS.md](thailand/AGENTS.md) | handed over 09/11/2026; country search 11/11/2026 |
+| Indonesia | `indonesia/` – [indonesia/AGENTS.md](indonesia/AGENTS.md), `OPEN_DECISIONS.md` | done 11/11/2026 |
+| Malaysia | `malaysia/` – [malaysia/AGENTS.md](malaysia/AGENTS.md) | in progress (universe + report index) |
+
+**Starting a new country: read [NEW_COUNTRY_PLAYBOOK.md](NEW_COUNTRY_PLAYBOOK.md) first** (day-0 decisions, statement-first
+ownership, managers from the companies' own director/officer tables, lessons from Vietnam and the Philippines).
+Status per country for people: [README.md](README.md).
 
 ## What this project is
 
@@ -38,7 +45,10 @@ The research team works in **Vietnamese**: reply in Vietnamese, keep it simple, 
 - Respect each site's robots.txt and terms. Use an honest User-Agent (`corp-data-research/1.0`, never a personal e-mail),
   keep ≥ 3 s between requests to one host, and stop on 403/429 or a bot check. Never work around a block.
 - The GitHub repo is **public**: licensed inputs (Bloomberg, BoardEx) and anything derived from them that carries personal
-  data stay out of git (see `.gitignore`).
+  data stay out of git (see `.gitignore`). Since 10/11/2026 (owner decision) Bloomberg-derived files also stay local: every
+  `*/data/universe.csv`, the output workbooks `*/output/*.xlsx` (Market_Cap, Industry_Group; VN: `Bloomberg_Raw` sheet) and the
+  CSVs with Bloomberg columns listed in `.gitignore`. Rebuild them locally from the Bloomberg file.
+- BoardEx is not used for new countries (owner, 07/11/2026). Thailand keeps the BoardEx extract the team supplied.
 - Commit or push only when asked.
 
 ## Decisions already made for every country (apply them; do not re-ask)
@@ -59,8 +69,10 @@ The research team works in **Vietnamese**: reply in Vietnamese, keep it simple, 
 ## Repo layout
 
 ```
-AGENTS.md, CLAUDE.md   this guide (study-wide rules); README.md = short overview for people
-shared/                code used by every country (it imports the *country* config.py – see "Running")
+AGENTS.md, CLAUDE.md   this guide (study-wide rules) + a short Vietnamese summary; README.md = folder map and status for people
+NEW_COUNTRY_PLAYBOOK.md how to do the next country fast and accurately
+shared/                code used by Vietnam and Thailand (it imports the *country* config.py – see "Running").
+                       Philippines (ph*), Malaysia (my*) and Indonesia (id*) pipelines are self-contained and do not use it yet
   common.py              cached + throttled HTTP, download with .meta.json/SHA256, CSV I/O, strip_accents; TOOLS = .tools/
   archives.py            PDF members of untrusted zip/RAR archives (size caps, names flattened, bsdtar for RAR)
   xlsx_tables.py         add_table / cell_value: one styled sheet per table in the workbooks
@@ -92,7 +104,8 @@ dpkg -x .tools/debs/libarchive-tools*.deb .tools/bsdtar
 
 ## Running
 
-- Run from the repo root: `.venv/bin/python -I <country>/pipeline/<step>.py`.
+- Run from the repo root: `.venv/bin/python -I <country>/pipeline/<step>.py` (every country). Paths come from
+  `config.ROOT`/`Path(__file__)`, so Vietnam also runs from inside `vietnam/` (`../.venv/bin/python -I pipeline/<step>.py`).
 - Always use **`-I`**, because the scripts read untrusted downloaded files. Never execute anything from `raw/`. Keep
   downloads in their own directories.
 - `-I` drops the script's folder from `sys.path`, so every script starts with
@@ -126,7 +139,7 @@ dpkg -x .tools/debs/libarchive-tools*.deb .tools/bsdtar
 
 ## Adding a country
 
-1. Create `<country>/` with the layout above. Put the licensed inputs in the folder itself; `.gitignore` already
+1. Read `NEW_COUNTRY_PLAYBOOK.md`. Create `<country>/` with the layout above. Put the licensed inputs in the folder itself; `.gitignore` already
    ignores `/*/raw/`, `/*/data/full/{text,ocr,logs}/` and `/*/*.xlsx` for every country. Add rules for any other
    licensed or personal-data file (Thailand: workbook and BoardEx CSVs).
 2. Write `pipeline/config.py` with the same names as the existing ones: `ROOT` (= the country folder), `RAW`,

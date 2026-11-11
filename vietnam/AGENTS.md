@@ -3,7 +3,8 @@
 Study-wide rules, repo layout, setup and review lessons: [../AGENTS.md](../AGENTS.md). This file holds what is specific to Vietnam.
 Paths below are relative to `vietnam/`; run the scripts from the repo root (`.venv/bin/python -I vietnam/pipeline/<step>.py`).
 
-Deliverables in `output/`: `Vietnam_2025_Foreign_Managers.xlsx` (in git), `BAO_CAO_BAN_GIAO.md`, `methodology.md`.
+Deliverables in `output/`: `Vietnam_2025_Foreign_Managers.xlsx` (local only since 10/11/2026: it carries Bloomberg fields;
+the report refers to the current copy `1_Vietnam_2025_Foreign_Managers.xlsx`), `BAO_CAO_BAN_GIAO.md` (+ .docx), `methodology.md`.
 Licensed input (not in git): `Bloomberg-Vietnam2025_8520.xlsx`. Place it in `vietnam/`; `01_universe.py`, `07_build_excel.py`
 and `qa_checks.py` need it.
 
@@ -68,11 +69,12 @@ Typical rebuild after adding a batch (from the repo root):
   - 1,553 LOCAL companies: 145 FOUND, 1,356 NONE_FOUND, 52 blank (49 NO_SOURCE, 2 UNRESOLVED, 1 NOT_SEARCHED).
   - QA: 0 violations.
 - `Foreign_Managers`: 320 rows (284 foreign, 36 UNKNOWN).
+- Updated 04/11/2026 (batches `svn_*`, `vpx_*`, `vic_*`; see `output/BAO_CAO_BAN_GIAO.md`): 146 FOUND; SVN = 1 by the owner's own
+  coding rule (Michael Marc Lee's country stays UNKNOWN); VPX (Steve Yam) UNRESOLVED.
 - Open items (paused by the research owner on 09/11/2026 – do not pursue unless asked):
-  - SVN (Michael Marc Lee) and VPX (Steve Yam): no source and no inferable country.
   - VFS (VinFast, US-listed): managers not searched.
   - The manual QA sample (`data/full/qa_sample_*.csv`) has **not** been reviewed yet.
   - The workbook's README sheet still names a deleted `Checkpoint1_…xlsx`. The code is fixed; this needs a rebuild with the Bloomberg file present.
-  - The workbook in git contains a `Bloomberg_Raw` sheet (licensed data in a public repo).
+  - Earlier commits still hold the workbook with the `Bloomberg_Raw` sheet (removed from git on 10/11/2026; history unchanged).
 - 09/11/2026: moved from the repo root into `vietnam/`; shared helpers moved to `../shared/`. Logic unchanged
   (`05a` re-run gives the same `candidates.csv`).

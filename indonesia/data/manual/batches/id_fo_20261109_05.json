@@ -1,0 +1,92 @@
+{
+ "ownership": [
+  {
+   "Code": "PNBS",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=32.70",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/PNBS/AR2025_AnnualReport2025_PNBS_att3_f4bbb5ea9404.pdf",
+   "Page": "107",
+   "Quote": "tercatat total saham Perseroan sebanyak 38.813.641.319, dimana sebanyak 67,30% saham dimiliki oleh perusahaan induk, PT Bank Pan Indonesia Tbk. Sementara, Dubai Islamic Bank PJSC memiliki 25,10% saham dan sisanya 7,60% saham dimiliki oleh masyarakat umum. Komp",
+   "As_Of": "2025-12-31",
+   "Note": "PT Bank Pan Indonesia Tbk 67.30 %, Dubai Islamic Bank PJSC 25.10 %, public 7.60 %"
+  },
+  {
+   "Code": "PRDA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=43.00",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/PRDA/AR2025_4dd7da0f9a40.pdf",
+   "Page": "98",
+   "Quote": "PT Prodia Utama 534.375.000 57 534.375.000 57 2 Bio Majesty Pte.Ltd 140.625.000 15 140.625.000 15 3 Saham Treasuri Treas",
+   "As_Of": "2025-12-31",
+   "Note": "PT Prodia Utama 534,375,000 of 937,500,000 shares = 57.0 %; Bio Majesty Pte. Ltd. 15.0 %; public 28.0 %"
+  },
+  {
+   "Code": "SIMP",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=73.46",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/SIMP/AR2025_AnnualReport2025_SIMP_att2_f230030f8c2f.pdf",
+   "Page": "3",
+   "Quote": "Struktur pemegang saham Grup SIMP terdiri atas 73,46% kepemilikan oleh Indofood Agri Resources Ltd, 6,68% kepemilikan oleh PT Indofood Sukses Makmur Tbk dan 19,86% kepemilikan oleh publik (dengan kepe",
+   "As_Of": "",
+   "Note": "Indofood Agri Resources Ltd (Singapore-incorporated) 73.46 % -> FOREIGN_MAJORITY by legal nationality (owner rule), although the group is ultimately controlled by PT Indofood Sukses Makmur Tbk (6.68 % direct)"
+  },
+  {
+   "Code": "SMGR",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=48.80",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/SMGR/AR2025_6e4ca346e27b.pdf",
+   "Page": "80",
+   "Quote": "Saham Seri A Dwiwarna: Republik Indonesia 0,00% Saham Seri B: - PT Danantara Asset Management (Persero) 51,20% - Publik 48,80% A series share Dwiwarna: Republic",
+   "As_Of": "",
+   "Note": "PT Danantara Asset Management (Persero) 51.20 % (Series B) + Republic of Indonesia Dwiwarna share; public 48.80 %"
+  },
+  {
+   "Code": "TLKM",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=47.91",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/TLKM/AR2025_42f632796693.pdf",
+   "Page": "12",
+   "Quote": "Government of the Republic of Indonesia - PT Danantara Asset Management 52.09%, - Badan Pengaturan BUMN 0,00% • Public 4",
+   "As_Of": "",
+   "Note": "Government of the Republic of Indonesia via PT Danantara Asset Management 52.09 %; public 47.91 %"
+  },
+  {
+   "Code": "SSTM",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=42.0",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/SSTM/AR2025_AnnualReport2025_SSTM_att1_29236c54f227.pdf",
+   "Page": "24",
+   "Quote": "Perseroan Terbatas 170.520.229.000 682.080.916 58% Perseorangan/Personal 122.207.066.250 488.828.265 42% Pemodal Asing/Foreign Investor Perseorangan/Personal - - - Perseroan Terbatas - - - Total 292.7",
+   "As_Of": "",
+   "Note": "Limited liability companies (Indonesian PTs, incl. PT Sunsonindo Textile Investama) 58 %, individuals 42 %"
+  },
+  {
+   "Code": "SONA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "49.59",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/SONA/AR2025_89f6619a0284.pdf",
+   "Page": "41",
+   "Quote": "Badan Usaha Asing Foreign Institutions 13 328.449.040 49,59 13 328.449.040 49,59 Badan Usaha Dalam Negeri Local Institutions 8 209.713.880 31,66 8 209.713.880 31,66 Pemilikik Individu Asing Foreign In",
+   "As_Of": "2025-12-31",
+   "Note": "Foreign Institutions 49.59 % + Foreign Individual Owner 0.00 % = 49.59 % foreign (local 50.41 %); within 5 points of 50 -> read by hand; KSEI bounds 49.6-62.2 %"
+  },
+  {
+   "Code": "RICY",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "40.69",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/RICY/AR2025_d2c9f0e5bc8e.pdf",
+   "Page": "69",
+   "Quote": "Sub Total 2,027 380,581,310 59.31% 2,144 380,324,210 59.27% Internasional | International 1. Ritel | Retail 5 30,498,600 4.75% 6 30,755,700 4.79% 2. Korporasi Corporation 7 230,637,600 35.94% 7 230,637,600 35.94% Sub Total 12 261,136,200 40.69% 13 261,393,300 40.73% Total 2,039 641,717,510 100% 2,157 641,717,510 100% Nama Name Jabatan Position 31 Desember 2025 31 December 2025 31 Desember 2024 31",
+   "As_Of": "2025-12-31",
+   "Note": "Local sub-total 59.31 %; foreign retail 4.75 % + foreign institutions 35.94 % = 40.69 % (first column); inside KSEI bounds 8.0-61.4 %"
+  }
+ ]
+}

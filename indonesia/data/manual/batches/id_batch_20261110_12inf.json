@@ -1,0 +1,36 @@
+{
+ "records": [
+  {
+   "Code": "SCCO",
+   "File": "raw/idx_ar/SCCO/AR2025_AnnualReport2025_SCCO_att1_fcf9f36192a1.pdf",
+   "Page": 21,
+   "Manager_Name": "Daisuke Morishita",
+   "Raw_Position": "Wakil Presiden Komisaris / Vice President Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "Japan",
+   "Nationality_Raw": "INFERRED",
+   "Evidence_Type": "INFERRED",
+   "Evidence_Quote": "pengunduran diri anggota Dewan Komisaris yaitu Bapak Daisuke Morishita selaku Wakil Presiden Komisaris Perseroan dan Bap",
+   "Resigned_Date": "2025",
+   "Note": "INFERRED_WEAK: Japanese name; nationality stated in neither the AR 2025 nor the AR 2024; web search 10 Nov 2026 found only aggregator profiles (Furukawa Electric group career; Furukawa Electric Co. Ltd., Japan, holds 11.81 % of SCCO) – not opened as evidence. Left the Board during 2025 (owner decision 10a)",
+   "Appointed_Date": "",
+   "Other_Sources": ""
+  },
+  {
+   "Code": "ACRO",
+   "File": "raw/idx_ar/ACRO/AR2025_AnnualReport2025_ACRO_att2_f96938bff7b8.pdf",
+   "Page": 108,
+   "Manager_Name": "Lim Sung Pil",
+   "Raw_Position": "Presiden Komisaris / President Commissioner",
+   "Role_Group": "Board",
+   "Nationality": "South Korea",
+   "Nationality_Raw": "INFERRED",
+   "Evidence_Type": "INFERRED",
+   "Evidence_Quote": "To accept the resignation of Mr. Lim Sung Pil from his position as President Commissioner of the Company, effective as of the closing of the",
+   "Resigned_Date": "2025",
+   "Note": "INFERRED_WEAK: Korean name; nationality stated in neither the AR 2025 nor the AR 2024. Resignation letter received 1 Sep 2025, accepted at a 2025 GMS (AR 2025). Owner decision 10a",
+   "Other_Sources": "bcasekuritas.co.id news 'Lim Sung Pil mundur sebagai Komut ACRO' (resignation letter 1 Sep 2025; reappointed President Commissioner at the AGMS of 26 June 2024), accessed 10 Nov 2026",
+   "Appointed_Date": ""
+  }
+ ]
+}

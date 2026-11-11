@@ -1,0 +1,48 @@
+{
+ "ownership": [
+  {
+   "Code": "ADMG",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": "50.90",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/ADMG/AR2025_AnnualReport2025_ADMG_att2_20ac80096869.pdf",
+   "Page": "65",
+   "Quote": "Per 31 Desember 2025 / Per December 31, 2025 Sub Total : 5.242 49,10068 % 1.405.827.770 1.909.613.890 36,14715 % 503.786.187 12,95353 % Individu Individual Institusi Institution KELOMPOK PEMEGANG SAHAM SHAREHOLDER GROUP Jumlah Pemegang Saham Number of Shareholders % Kepemilikan % Ownership Jumlah Saham Number of Share 5.202 40 LOKAL LOCAL Sub Total : 49 50,89931 % 1.976.813.969 1.979.565.669 50,82856 % 2.751.700 0,07075 % Individu Individual Institusi Institution KELOMPOK PEMEGANG SAHAM SHAREHOLDER GROUP Jumlah Pemegang Saham Number of Shareholders % Kepemilikan % Ownership Jumlah Saham Number of Share 21 28 ASING FOREIGN TOTAL : 5.291 100 % 3.889.179.559 63 3 PROFIL PERUSAHAAN COMPANY PROFILE",
+   "As_Of": "2025-12-31",
+   "Note": "Local 49.10068 % / Foreign 50.89931 % at 31 Dec 2025 (page image viewed); inside KSEI bounds 49.9-51.0 %"
+  },
+  {
+   "Code": "AGRS",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=91.49",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/AGRS/AR2025_AnnualReport2025_AGRS_att2_2ae9de03f743.pdf",
+   "Page": "66",
+   "Quote": "91,49% 8,51% Industrial Bank of Korea Masyarakat Public kary",
+   "As_Of": "",
+   "Note": "Company identity box: Industrial Bank of Korea 91.49 %, public 8.51 %"
+  },
+  {
+   "Code": "AMFG",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "48.55",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/AMFG/AR2025_AnnualReport2025_AMFG_att1_b82eea24252a.pdf",
+   "Page": "34",
+   "Quote": "dalam negeri menguasai 51,45% sedangkan pemegang saham asing memegang 48,55%. Per 31 Desember 2025, struktur pemegang sa",
+   "As_Of": "2025-12-31",
+   "Note": "Domestic 51.45 % / foreign 48.55 % (within 5 points of 50: read by hand); AGC Inc. 44.53 %, PT Rodamas 41.63 %"
+  },
+  {
+   "Code": "ATIC",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "47.65",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/ATIC/AR2025_AnnualReport2025_ATIC_att1_61ad5447f925.pdf",
+   "Page": "93",
+   "Quote": "Domestik / Domestic Individu / Individual 216.421.248 9,34719 2.788 Institusi / Institutions 995.759.243 43,00665 9 Asing / Foreign Individu / Individual 238.880.423 10,31720 13 Institusi / Institutions 864.300.441 37,32997 5 Jumlah / Total 2.315.361.355 100,00000 2.815 Kelompok Pemegang Saham dan Persentase Kepemilikan Saham Sh",
+   "As_Of": "2025-12-31",
+   "Note": "Domestic 9.347 + 43.007 = 52.354 % / Foreign 10.317 + 37.330 = 47.647 %; inside KSEI bounds 47.6-54.4 %"
+  }
+ ]
+}

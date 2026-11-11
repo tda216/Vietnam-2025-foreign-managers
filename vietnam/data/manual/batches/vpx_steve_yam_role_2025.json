@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "Ticker_Local": "VPX",
+      "Manager_Name": "Steve Yam",
+      "Raw_Position": "Chief Information Officer",
+      "Role_Group": "Executive",
+      "Nationality": "UNKNOWN",
+      "Nationality_Raw": "",
+      "Is_Foreign": "",
+      "Dual_Nationality": "",
+      "Local_File": "raw/docs/VPX/HOSE_2025_VPX_Baocaothuongnien_2025__zip/01_m88_20260404_vpbanks_bao_cao_thuong_nien_2025_en1775288878631mx9nn1d8.pdf",
+      "Page": 24,
+      "Evidence_Type": "",
+      "Evidence_Quote": "Mr. Steve Yam, Chief Information Officer",
+      "Source_URL": "https://s3.vpbanks.com.vn/vpbanks/Annual%20report%20VPBankS%202025.pdf",
+      "Other_Sources": "Issuer annual report page: https://www.vpbanks.com.vn/en/post/annual-report",
+      "Reviewed_On": "2026-11-04",
+      "Note": "UNKNOWN nationality. Annual report confirms the position; this evidence does not establish nationality."
+    }
+  ],
+  "decisions": [
+    {
+      "Ticker_Local": "VPX",
+      "Name": "Steve Yam",
+      "Decision": "SAME_AS_RECORD",
+      "Reason": "Position confirmed as Chief Information Officer in the 2025 annual report and recorded as UNKNOWN because nationality is not established. Company remains UNRESOLVED for foreign-manager status.",
+      "Source_File": "m88_20260404_vpbanks_bao_cao_thuong_nien_2025_en1775288878631mx9nn1d8.pdf",
+      "Page": "24"
+    }
+  ]
+}

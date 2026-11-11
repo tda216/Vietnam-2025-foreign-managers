@@ -1,0 +1,37 @@
+{
+ "ownership": [
+  {
+   "Code": "TOTO",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=45.66",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/TOTO/AR2025_AnnualReport2025_TOTO_att1_1f405752688c.pdf",
+   "Page": "37",
+   "Quote": "Pemegang Saham Utama TOTO Limited 37,90% PT Suryaparamitra Abadi 24,95% PT Multifortuna Asindo 29,39% Public/ Masyarakat 7,76% TOT",
+   "As_Of": "2025-12-31",
+   "Note": "TOTO Limited (Japan) 37.90 %; Indonesian PTs Suryaparamitra Abadi 24.95 % + Multifortuna Asindo 29.39 % = 54.34 % local; public 7.76 % -> foreign at most 45.66 %"
+  },
+  {
+   "Code": "TRIO",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "49.08",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/TRIO/AR2025_AnnualReport2025_TRIO_att2_0227dcc7d7ae.pdf",
+   "Page": "45",
+   "Quote": "Kepemilikan Institusi Asing Foreign Institution Badan Usaha Asing Foreign Entity 12.763.234.230 49,08 12.763.234.230 49,08 Lain-Lain Others - - - - Kepemilikan Individu Lokal Local",
+   "As_Of": "2025-12-31",
+   "Note": "Foreign entity 49.08 % at 31 Dec 2025; foreign individuals 6,600 shares (0.00 %); within 5 points of 50 -> read by hand; KSEI bounds 23.6-87.6 %"
+  },
+  {
+   "Code": "YOII",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "5.49",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/YOII/AR2025_0404890c5ca9.pdf",
+   "Page": "95",
+   "Quote": "Lokal/Local Individual 2.664.437.700 266.443.770.000 77,80 Institusi Institution 572.113.000 57.211.300.000 16,71 Asing/Foreign Individual 761.900 76.190.000 0,02 Institusi Institution 187.374.900 18.737.490.000 5,47 Jumlah Modal Disetor Total Paid-Up Capital 3.424.687.500 342.468.750.000 100,00 KOMPOSISI KEPEMILIKAN SAHAM BERDA",
+   "As_Of": "2025-12-31",
+   "Note": "Local individual 77.80 % + institution 16.71 %; foreign individual 0.02 % + institution 187,374,900 shares (5.47 %) = 5.49 %"
+  }
+ ]
+}

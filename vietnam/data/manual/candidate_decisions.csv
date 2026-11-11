@@ -1,4 +1,4 @@
-Ticker_Local,Name,Decision,Reason,Source_File,Page,Reviewed_On
+﻿Ticker_Local,Name,Decision,Reason,Source_File,Page,Reviewed_On
 STB,Faussier Loic Michel Marc,NOT_FY2025,Phó TGĐ STB từ 27/03/2026 (AR 2025 p.15); TGĐ SSB 2023 nhưng không có trong roster SSB 2025 (TGĐ 2025: Lê Quốc Long),raw/docs/STB/HOSE_2025_STB_Baocaothuongnien_2025.pdf,15,2026-11-01
 CTG,Masashige Nakazono,NOT_FY2025,"có trong roster CafeF hiện tại, không có trong HĐQT 2025 (AR p.18, p.89 liệt kê đủ 11 TV trong 2025)",raw/docs/CTG/HOSE_2025_CTG_Baocaothuongnien_2025.pdf,89,2026-11-01
 FPT,Toshikazu Nambu,NOT_FY2025,TV HĐQT từ 16/04/2026 (Người Quan Sát 20/04/2026); AR 2025: HĐQT 2025 giữ nguyên 7 thành viên,raw/docs/FPT/HOSE_2025_FPT_Baocaothuongnien_2025.pdf,89,2026-11-01
@@ -776,3 +776,8 @@ TNH,Romeo Fernandez Liedo,SAME_AS_RECORD,OCR variant of Romeo Fernandez Lledo (r
 ITA,MAYA DANGELAS,SAME_AS_RECORD,"a.k.a. of Đặng Thị Hoàng Yến (recorded, INFERRED)",,31,2026-11-01
 VPL,MARC VILLIERS TOWNSEND,SAME_AS_RECORD,"upper-case form of Marc Villiers Townsend (recorded, INFERRED)",,26,2026-11-01
 CMX,LEE MIN,SAME_AS_RECORD,"upper-case form of Lee Min (recorded, INFERRED)",,50,2026-11-01
+SVN,Michael Mare Lee,SAME_AS_RECORD,"Typographical spelling variant of Michael Marc Lee; user confirms p.10 is a typing error. Canonical record: Michael Marc Lee, Chairman of the Board, report PDF p.34. Nationality remains unresolved.",2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf,10,
+SVN,Michael Marc Lee,SAME_AS_RECORD,"Canonical person/role retained. 2025 annual report p.34 confirms Chairman; nationality not stated. HNX 2025 governance appendix has blank ID/passport field. Per research owner’s SVN-specific rule, classify Is_Foreign=1 while retaining Nationality=UNKNOWN; this is an operational coding decision, not verified citizenship.",2_svn_2026_4_21_cf30d1d_vi_baocaothuongnien_2025.pdf,34,2026-11-04
+VPX,Steve Yam,SAME_AS_RECORD,Position confirmed as Chief Information Officer in the 2025 annual report and recorded as UNKNOWN because nationality is not established. Company remains UNRESOLVED for foreign-manager status.,m88_20260404_vpbanks_bao_cao_thuong_nien_2025_en1775288878631mx9nn1d8.pdf,24,
+VIC,Adil Amad,SAME_AS_RECORD,OCR spelling variant of Adil Ahmad. Annual report profile and roster give the canonical spelling Adil Ahmad; recorded as the same FY2025 independent Board member.,HOSE_2025_VIC_Baocaothuongnien_2025.pdf,79,
+VIC,Dy-Liacco Ibasco,SAME_AS_RECORD,Truncated name variant of Ronaldo Dy-Liacco Ibasco in candidate extraction; record the canonical full name once.,HOSE_2025_VIC_Baocaothuongnien_2025.pdf,79,

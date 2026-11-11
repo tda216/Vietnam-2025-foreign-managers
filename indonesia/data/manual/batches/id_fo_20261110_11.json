@@ -1,0 +1,37 @@
+{
+ "ownership": [
+  {
+   "Code": "TBMS",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": "52.72",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/TBMS/AR2025_AnnualReport2025_TBMS_att2_0e7a1ed44224.pdf",
+   "Page": "40",
+   "Quote": "Institusi Lokal 35 40.989% Local Institution investor Institusi Asing 15 52.654% Foreign institutional investors Institusi Lokal 1,951 6.293% Local induviduals Institusi Asing 33 0.064% Foreign Indivi",
+   "As_Of": "2025-12-31",
+   "Note": "Classification at 31 Dec 2025: local institutions 40.989 %, foreign institutions 52.654 %, local individuals 6.293 %, foreign individuals 0.064 % (rows mislabelled 'Institusi' in the Indonesian column) = 100 %; FO 52.72 %; Furukawa Electric Co. Ltd 42.42 %; inside KSEI bounds 16.7-90.4 %"
+  },
+  {
+   "Code": "SKBM",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=51.64",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/SKBM/AR2025_e5dac142bae9.pdf",
+   "Page": "100",
+   "Quote": "TAEL Two Partners Ltd 554,706,046 55,470,604,600 32.06% Green Resources Investments Pte. Ltd. 338,732,360 33,873,236,000 19.58% 5.43% PT Mul",
+   "As_Of": "2025-12-31",
+   "Note": "As of 31 Dec 2025 (page header): TAEL Two Partners Ltd 32.06 % + Green Resources Investments Pte. Ltd. 19.58 % = 51.64 % foreign holders; inside KSEI bounds 39.9-86.6 %"
+  },
+  {
+   "Code": "SMSM",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=49.46",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/SMSM/AR2025_3741fc1b04fa.pdf",
+   "Page": "30",
+   "Quote": "Per 31 Desember 2025, tidak terdapat pemegang saham dengan kepemilikan saham lebih dari 5%, kecuali PT Adrindo Intiperkasa yang merupakan Pemegang Saham Pengend",
+   "As_Of": "2025-12-31",
+   "Note": "PT Adrindo Intiperkasa (Indonesian PT) 50.54 %, public 49.46 % -> foreign at most 49.46 %; inside KSEI bounds 27.4-80.4 %"
+  }
+ ]
+}

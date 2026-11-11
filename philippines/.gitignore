@@ -1,0 +1,4 @@
+# User-supplied database extracts and generated research data stay local.
+data/
+output/
+raw/

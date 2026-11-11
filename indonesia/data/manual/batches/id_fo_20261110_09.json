@@ -1,0 +1,48 @@
+{
+ "ownership": [
+  {
+   "Code": "MTMH",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=25.75",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/MTMH/AR2025_AnnualReport2025_MTMH_att2_ed897f213a1d.pdf",
+   "Page": "57",
+   "Quote": "Pemegang Saham Pengendali Perusahaan merupakan orang perseorangan yakni Bapak Tjhin Ten Chun dengan bagan seba",
+   "As_Of": "2025-12-31",
+   "Note": "Shareholder chart (page image viewed): Andi Indigo 20.54 %, PT Sumatera Teknindo 32.56 %, Jacqueline Sitorus 21.15 %, each 'Nationality Indonesia'; public 25.75 % -> foreign at most 25.75 % (p55 table at 31 Dec 2025: same holdings)"
+  },
+  {
+   "Code": "LMAX",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "0.01",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/web_ar/LMAX/AR2025_4e1509081a7e.pdf",
+   "Page": "35",
+   "Quote": "PEMODAL LOKAL PEMODAL ASING Individu Individu - - 86.450.000 216.125.000 648.856.925 87.100 13,30 33,25 99,83 0,01 Kartiko Soemargono 216.125.000 - 33,25 Komisaris Independen Komisaris Utama D.I Yogyakarta 2.015 14 Direktur Utama Sofia Tanizar - Direktur Institusi Institusi Total 1.064.450 300 650.0",
+   "As_Of": "2025-12-31",
+   "Note": "Classification table (columns interleaved in the text layer): local individual 648,856,925 (99.83 %), foreign individual 87,100 (0.01 %), local institution 1,064,450 (0.16 %), foreign institution 300 (0.00 %); total 650,008,775 -> FO 0.01 % = KSEI foreign custody"
+  },
+  {
+   "Code": "MPXL",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=0.96",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/MPXL/AR2025_AnnualReport2025_MPXL_att1_ecf9246a4c53.pdf",
+   "Page": "29",
+   "Quote": "SUB TOTAL 2,117 1,987,345,367.00 99.37% PEMODAL ASING FOREIGN INVESTOR 1 Perorangan Asing Individual - Foreign 23 164,100.00 0.01% 2 Badan Usaha Asing Institution - Foreign 6 12,505,200.00 0.63% SUB TOTAL 29 12",
+   "As_Of": "2025-12-31",
+   "Note": "End of 2025 (p28): domestic investors 99.37 % (Indonesian individuals 84.11 %, PT 14.84 %, foreign individuals with KITAS 0.32 % counted as domestic); foreign investors 0.64 % -> FO 0.64 %, at most 0.96 % counting KITAS holders as foreign"
+  },
+  {
+   "Code": "NASI",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=31.00",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/NASI/AR2025_AnnualReport2025_NASI_att1_80f9ee1b66d6.pdf",
+   "Page": "239",
+   "Quote": "Piero Mustafa 341.016.000 42,24% 17.050.800.000 Piero Mustafa PT Modis Cipta Kreasi 216.080.000 26,76% 10.804.000.000 PT",
+   "As_Of": "2025-12-31",
+   "Note": "Piero Mustafa 42.24 % (President Director, p51 'Warga negara Indonesia', page image viewed) + PT Modis Cipta Kreasi 26.76 % (Indonesian PT) = 69.00 % -> foreign at most 31.00 %; same table for 31 Dec 2025 and 2024 (p238-239)"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "ownership": [
+  {
+   "Code": "GMTD",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=35.0",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/GMTD/AR2025_45d0e8fb3fae.pdf",
+   "Page": "90",
+   "Quote": "PT Makassar Permata Sulawesi (32,5%) dan penerima manfaat akhir dari kepemilikan",
+   "As_Of": "",
+   "Note": "Indonesian PT 32.5 % + South Sulawesi Provincial Government 13.0 % + Makassar City Government 6.5 % + Gowa Regency Government 6.5 % + Sulawesi Selatan foundation 6.5 % = 65 % local -> foreign at most 35 %"
+  },
+  {
+   "Code": "IPOL",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=52.69",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/IPOL/AR2025_6052c94e6ab3.pdf",
+   "Page": "51",
+   "Quote": "Jefflyne Golden Holdings Pte. Ltd. 1.903.153.710 29,54 1.903.153.710 29,54 2. PT Supernova Flexible Packaging 1.849.531.010 28,70 1.849.531.010 28,70 3. Noble Ox International Ltd. 1.491.910.560 23,15 1.491.910.560 23,15 4. PT Hok",
+   "As_Of": "2025-12-31",
+   "Note": "Jefflyne Golden Holdings Pte. Ltd. 1,903,153,710 + Noble Ox International Ltd. 1,491,910,560 = 3,395,064,270 of 6,443,379,509 shares (p21, p51) = 52.69 % foreign-incorporated; inside KSEI bounds 3.8-68.1 %"
+  },
+  {
+   "Code": "ITIC",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=31.69",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/ITIC/AR2025_AnnualReport2025_ITIC_att1_2ea31f8485fd.pdf",
+   "Page": "69",
+   "Quote": "Djonny Saksono 642.595.500 68,31% PT Anugerah Investindo Nusantara 66.000.000 7,02% Jumlah/Total 708.595.500 75,33% B Pe",
+   "As_Of": "2025-12-31",
+   "Note": "Djonny Saksono holds 68.31 %; 'Djonny Saksono Sekretaris Perusahaan Warga Negara Indonesia' (p122) -> foreign at most 31.69 %"
+  },
+  {
+   "Code": "KIAS",
+   "FO_Class": "FOREIGN_MAJORITY",
+   "FO_Pct": ">=92.04",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/KIAS/AR2025_AnnualReport2025_KIAS_att2_6bd2a548e719.pdf",
+   "Page": "34",
+   "Quote": "Komposisi Pemegang Saham Shareholder Composition 92,04% 7,96% › SCG Decor Public Company Limited (d.h. SCG Building Materials Co., Ltd.) › Masyarakat",
+   "As_Of": "",
+   "Note": "SCG Decor Public Company Limited (formerly SCG Building Materials Co., Ltd.) 92.04 %, public 7.96 %"
+  }
+ ]
+}

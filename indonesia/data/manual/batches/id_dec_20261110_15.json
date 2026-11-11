@@ -1,0 +1,28 @@
+{
+ "decisions": [
+  {
+   "Code": "UNIC",
+   "Name": "Jimmy Masrin",
+   "Decision": "NOT_FOREIGN_STATED",
+   "Reason": "AR 2024 (raw/idx_ar/UNIC/AR2024_AnnualReport2024_UNIC_att1_828bee13ebfd.pdf) p33-36: every Board/Direksi profile 'Warga negara Indonesia'; the United States hit is a university (Bradley University, USA)"
+  },
+  {
+   "Code": "KARW",
+   "Name": "Farid Belbouab",
+   "Decision": "NO_NATIONALITY_STATED",
+   "Reason": "Left 26 Jun 2025 (AR 2025 p28). AR 2024 p45 profile without a nationality field (France hit = University of Paris I); web search 10 Nov 2026 (weforum.org/people/farid-belbouab, theorg.com) gives no nationality; name does not point to one country (owner 10a) -> limitation"
+  },
+  {
+   "Code": "KARW",
+   "Name": "A. Ravi Menon",
+   "Decision": "NO_NATIONALITY_STATED",
+   "Reason": "Left 26 Jun 2025 (AR 2025 p28). AR 2024 lists him as Direktur (p26, p38, p44) but no profile states a nationality; name does not point to one country (owner 10a) -> limitation"
+  },
+  {
+   "Code": "PBRX",
+   "Name": "Gita Rusmida Sjahrir",
+   "Decision": "NO_NATIONALITY_STATED",
+   "Reason": "Left at the 2025 GMS (AR 2025 p109). AR 2024 p44 profile: no nationality field; the United States hit is her education (University of Chicago, Wharton) -> limitation"
+  }
+ ]
+}

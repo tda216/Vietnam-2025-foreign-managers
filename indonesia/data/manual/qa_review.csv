@@ -1,0 +1,61 @@
+Item_Type,Code,Item,Verdict,Check,Note,Reviewed_On
+RECORD,INDY,#1 Kamen K. Palatov (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,GOOD,#2 Swen Neufeldt (Komisaris),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,NICE,#3 Yeon Ho Choi (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,TPIA,#4 Pongpun Amornvivat (Komisaris / Commissioner),ERROR,FY2025,"AR 2025 p100: first appointed by the EGMS of 26 Jan 2026 – not in office in 2025. Record removed (NOT_FY2025); full scan found 2 more TPIA cases (Rungnapa Janchookiat, Konlakan Chankachangchaeng), also removed; new QA check record_page_first_appointed_2026",2026-11-10
+RECORD,SMCB,#5 Shinji Fukami (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,RAAM,#6 Vikas Chand Sharma (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,HMSP,#7 Andre Dahan (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,NICE,#8 Niwat Boonyad (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,TPIA,#9 Lim Chong Thian (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,MAPA,#10 Virendra Prakash Sharma (Presiden Komisaris / President Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,AMMN,#11 Prasad Atmaram Suryarao (Anggota komite (Keputusan Direksi) / Committee Member),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,AMFG,#12 Shigeki Yoshiba (Wakil Presiden Komisaris / Vice President Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,AMFG,#13 Kazuhiro Onogawa (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,UANG,#14 Yoshihiro Kobi (Komisaris Utama / President Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,AMFG,#15 Hiroyuki Otani (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,GZCO,#16 Andrew Michael Vincent (Direktur Perkebunan & Teknik / Plantations & Technique Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,PGEO,#17 Abdulla Zayed (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,BREN,#18 Hsing Chee Chiam (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,META,#19 Jose Ma. K. Lim (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,TRGU,#20 Low Chee Yin (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,AMMN,#21 David Alexander Gibbs (Direktur Perencanaan Strategis / Director of Strategic Planning),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,TPIA,#22 Chantanida Sarigaphuti (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,AMFG,#23 Takashi Nekoda (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,SOSS,#24 Jun Taguchi (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,LPKR,#25 Kin Chan (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,MLIA,#26 Ekson Tjandranegara (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,CCSI,#27 Chai Khye Yeen (Komisaris Utama / President Commissioner),MINOR,name,"Nationality, position and page correct; name misspelt – the AR writes 'Chai Khye Yeien' (16 mentions). Corrected",2026-11-10
+RECORD,HMSP,#28 Gunnar Beckers (Direktur / Director),OK,"nationality, position, listed company, FY2025, page, quote",page image / text position checked: the nationality field belongs to this profile,2026-11-10
+RECORD,LPCK,#29 Charles Rigoux (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+RECORD,KOPI,#30 Akira Tsuji (Komisaris / Commissioner),OK,"nationality, position, listed company, FY2025, page, quote",,2026-11-10
+NONE_FOUND_FIRM,SWID,"SARASWANTI INDOLAND DEVELOPMENT Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BANK,"BANK ALADIN SYARIAH Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BLOG,"TRIMITRA TRANS PERSADA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,GMFI,"GARUDA MAINTENANCE FACILITY AERO ASIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,PMUI,"PRIMA MULTI USAHA INDONESIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,ITIC,"INDONESIAN TOBACCO Tbk, PT",OK,NONE_FOUND basis,"p58-61: 2 Direksi and 2 Komisaris, each 'Warga Negara Indonesia'",2026-11-10
+NONE_FOUND_FIRM,STRK,"LOVINA BEACH BREWERY Tbk, PT",OK,NONE_FOUND basis,"Profile tables p22-23, p30-32: 'Kewarganegaraan Citizenship ... Indonesia Indonesian'",2026-11-10
+NONE_FOUND_FIRM,GEMS,PT. GOLDEN ENERGY MINES Tbk,OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BOGA,"BINTANG OTO GLOBAL, PT",OK,NONE_FOUND basis,"Romeo Lledo (Canada) and Farras Pina (Australia) are 2026 members (EGMS 21 Jan 2026, decisions NOT_FY2025); all 2025 members Indonesia",2026-11-10
+NONE_FOUND_FIRM,ICON,"ISLAND CONCEPTS INDONESIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,YULE,"YULIE SEKURITAS INDONESIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,SOFA,"BOSTON FURNITURE INDUSTRIES Tbk, PT",OK,NONE_FOUND basis,Board / Direksi profile tables p69-81: Kewarganegaraan value read by position = Indonesia for all 5 (p79 page image viewed),2026-11-10
+NONE_FOUND_FIRM,ROCK,"ROCKFIELDS PROPERTI INDONESIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BLUE,"BERKAH PRIMA PERKASA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,DADA,"DIAMOND CITRA PROPERTINDO Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,ARNA,"ARWANA CITRAMULIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,KOCI,"KOKOH EXA NUSANTARA Tbk, PT",ERROR,NONE_FOUND basis,"The only 'Indonesia' labels are an HR-policy sentence (p157 'kesempatan yang sama kepada seluruh warga negara Indonesia'); the Board / Direksi profiles (p26, p36, page images viewed) state no nationality -> should be UNRESOLVED. Screen fixed: Indonesian labels count only in a profile context (age / birth / domicile nearby)",2026-11-10
+NONE_FOUND_FIRM,NPGF,"NUSA PALAPA GEMILANG Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,DKHH,"CIPTA SARANA MEDIKA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,IDPR,"INDONESIA PONDASI RAYA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,TIRA,"TIRA AUSTENITE Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,MDLA,"MEDELA POTENTIA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,DEFI,"DANASUPRA ERAPACIFIC Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BIKE,"SEPEDA BERSAMA INDONESIA Tbk, PT",OK,NONE_FOUND basis,"Text labels only on committee / secretary pages, but the Board / Direksi profiles carry 'Kewarganegaraan Nationality Indonesia' in a graphic (p45, p47 page images viewed)",2026-11-10
+NONE_FOUND_FIRM,IBST,"INTI BANGUN SEJAHTERA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,BAJA,"SARANACENTRAL BAJATAMA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,LOPI,"LOGISTICSPLUS INTERNATIONAL Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,ALKA,"ALAKASA INDUSTRINDO Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,MICE,"MULTI INDOCITRA Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10
+NONE_FOUND_FIRM,ARGO,"ARGO PANTES Tbk, PT",OK,NONE_FOUND basis,Each Board / Direksi profile carries an Indonesian nationality label; no foreign label,2026-11-10

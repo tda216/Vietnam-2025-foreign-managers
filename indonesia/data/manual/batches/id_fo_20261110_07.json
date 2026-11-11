@@ -1,0 +1,70 @@
+{
+ "ownership": [
+  {
+   "Code": "AEGS",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=44.77",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/AEGS/AR2025_AnnualReport2025_AEGS_att1_2645a6155067.pdf",
+   "Page": "81",
+   "Quote": "dr. Josephat Suwanta Sinarya 555.649.980 27.782.499.000 55,23% Oey Johan Sinatra",
+   "As_Of": "2025-12-31",
+   "Note": "Dr. J. Suwanta Sinarya 55.23 % at 31 Dec 2025 is an Indonesian citizen (p82: 'Dr. J. Suwanta Sinarya merupakan warga negara Indonesia') -> foreign at most 44.77 %; inside KSEI bounds 6.6-66.8 %"
+  },
+  {
+   "Code": "ALKA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "0.83",
+   "Method": "LOCAL_FOREIGN_TABLE",
+   "File": "raw/idx_ar/ALKA/AR2025_AnnualReport2025_ALKA_att1_3d13756354e3.pdf",
+   "Page": "73",
+   "Quote": "Foreign Institution 4 13 1.275.200 0.251 2 38 448.828.105 88.410 3 27 2.945.923 0.580 No. % 1 1.590 54.615.827 10,758 PR",
+   "As_Of": "2025-12-31",
+   "Note": "Classification table (columns interleaved in the text layer): Indonesian individual 10.758 %, Indonesian institution 88.410 % (PT. Gesit Perkasa 84 %), foreign individual 0.580 %, foreign institution 0.251 % -> FO 0.83 %; sum 99.999 %"
+  },
+  {
+   "Code": "ASRM",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=49.32",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/ASRM/AR2025_929081d44631.pdf",
+   "Page": "115",
+   "Quote": "Syahril, S.E. 402.728.008 31,51 Direktur Utama dan Pengendali Perseroan yang merupakan pemilik benefit terakhir. President Director and Controlling of the company, who is the ultimate beneficial owner",
+   "As_Of": "2025-12-31",
+   "Note": "Syahril 31.51 % (p105 'Warga Negara Indonesia') + A. Winoto Doeriat 19.17 % (p101 'Warga Negara Indonesia') = 50.68 % Indonesian citizens -> foreign at most 49.32 % (Korean Reinsurance Company 10.00 %); inside KSEI bounds 0.8-81.2 %"
+  },
+  {
+   "Code": "ATAP",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=24.00",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/ATAP/AR2025_AnnualReport2025_ATAP_att1_412e1fba5234.pdf",
+   "Page": "57",
+   "Quote": "Struktur pemegang saham Perseroan per 31 Desember 2025 dapat dilihat pada bagan berikut: T",
+   "As_Of": "2025-12-31",
+   "Note": "Chart in the page image (viewed 10 Nov 2026): PT Trimitra Prawara Goldland 76.00 %, Yoyo Sugeng Triyogo 2.00 %, Indriati 2.00 %, Masyarakat 20.00 % -> Indonesian PT 76 %, foreign at most 24 %; inside KSEI bounds 0.1-80.1 %"
+  },
+  {
+   "Code": "BAIK",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=20.99",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/idx_ar/BAIK/AR2025_AnnualReport2025_BAIK_att2_57ea5beba4a9.pdf",
+   "Page": "25",
+   "Quote": "PT Anak Baik Sejahtera Yeni Isnawati Nanang Suherman Masyarakat / Public Total 888.900.000 3.320.000 7.780.000 225.003.016 1.125.003.016 79,01% 0,30%",
+   "As_Of": "2025-12-31",
+   "Note": "PT Anak Baik Sejahtera (Indonesian PT) 79.01 % -> foreign at most 20.99 %; inside KSEI bounds 0.0-80.0 %"
+  },
+  {
+   "Code": "BAJA",
+   "FO_Class": "LOCAL",
+   "FO_Pct": "<=26.07",
+   "Method": "NAMED_HOLDERS",
+   "File": "raw/web_ar/BAJA/AR2025_b8fb141e0fcf.pdf",
+   "Page": "29",
+   "Quote": "Pandji Surya Soerjoprahono : 16,47% • Handaja Susanto : 16,45% • Ibnu Susanto : 16,45% • Entario Widjaja Susanto : 16,45% • Soediarto Soerjoprahono : 8,11% • Laksmono Tir",
+   "As_Of": "2025-12-31",
+   "Note": "Five individuals, all Board/Direksi members with profile field Kewarganegaraan / Citizenship 'Indonesia Indonesian' for both profiles on p37, p39, p40 (Soediarto, Ibnu, Handaja, Pandji, Entario) hold 73.93 % -> foreign at most 26.07 %; inside KSEI bounds 0.0-77.8 %"
+  }
+ ]
+}
