@@ -41,6 +41,8 @@ indonesia/data/manual_ar_list.csv
 indonesia/data/fo_ksei_*.csv
 # workbooks carry Bloomberg fields (Companies: Market_Cap, Industry_Group; VN: Bloomberg_Raw sheet; TH: also BoardEx)
 */output/*.xlsx
+# exception: the full Thailand workbook is published on purpose (user decision 11 Nov 2026, licence risk accepted)
+!thailand/output/Thailand_2025_Foreign_Managers.xlsx
 # Thailand: derived copies of the licensed BoardEx input
 thailand/data/boardex_people.csv
 thailand/data/boardex_roles.csv

@@ -47,7 +47,8 @@ The research team works in **Vietnamese**: reply in Vietnamese, keep it simple, 
 - The GitHub repo is **public**: licensed inputs (Bloomberg, BoardEx) and anything derived from them that carries personal
   data stay out of git (see `.gitignore`). Since 10/11/2026 (owner decision) Bloomberg-derived files also stay local: every
   `*/data/universe.csv`, the output workbooks `*/output/*.xlsx` (Market_Cap, Industry_Group; VN: `Bloomberg_Raw` sheet) and the
-  CSVs with Bloomberg columns listed in `.gitignore`. Rebuild them locally from the Bloomberg file.
+  CSVs with Bloomberg columns listed in `.gitignore`. Rebuild them locally from the Bloomberg file. Exception: the full
+  Thailand workbook is in git (user decision 11/11/2026, licence risk accepted). Do not extend it to other files without asking.
 - BoardEx is not used for new countries (owner, 07/11/2026). Thailand keeps the BoardEx extract the team supplied.
 - Commit or push only when asked.
 

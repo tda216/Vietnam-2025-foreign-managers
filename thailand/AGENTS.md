@@ -3,7 +3,8 @@
 Study-wide rules, repo layout, setup and review lessons: [../AGENTS.md](../AGENTS.md). This file holds what is specific to Thailand.
 Paths below are relative to `thailand/`; run the scripts from the repo root (`.venv/bin/python -I thailand/pipeline/<step>.py`).
 
-Deliverables: `output/Thailand_2025_Foreign_Managers.xlsx` (git-ignored: contains Bloomberg + BoardEx), `output/BAO_CAO_BAN_GIAO.md`, `output/methodology.md`.
+Deliverables: `output/Thailand_2025_Foreign_Managers.xlsx` (contains Bloomberg + BoardEx; in git since 11/11/2026 by user decision,
+licence risk accepted – rebuild and commit it after every change), `output/BAO_CAO_BAN_GIAO.md`, `output/methodology.md`.
 Inputs (git-ignored, licensed): `Bloomberg-Thailan2025_9666.xlsx`, BoardEx roles `Broad-…_9300.xlsx`, BoardEx people `Thai-…_8540.xlsx`.
 `data/boardex_people.csv` / `boardex_roles.csv` are derived copies of BoardEx and stay out of git; `data/records_auto.csv` is kept in git (owner decision 09/11/2026).
 Scripts put `thailand/pipeline` first on `sys.path`, then `shared/`, so `common.py`, `archives.py` and `xlsx_tables.py` bind to the Thailand `config.py`.
