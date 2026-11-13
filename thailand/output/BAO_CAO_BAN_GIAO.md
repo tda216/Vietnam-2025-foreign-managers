@@ -23,7 +23,7 @@ Những điểm chính:
    - 16 người ở cấp quản lý khác.
 
    Một người có thể thuộc nhiều nhóm. Giám đốc kiêm người điều hành có một dòng cho mỗi chức danh.
-3. **Quốc tịch tập trung ở châu Á.** Đông nhất là Nhật Bản (121 người), tiếp theo là Đài Loan (49), Singapore (40), Ấn Độ (38), Trung Quốc (35) và Malaysia (30). Còn 115 người chưa xác định được tên nước (cập nhật 11/11/2026 sau hai vòng tìm trên web). Xem mục 6.
+3. **Quốc tịch tập trung ở châu Á.** Đông nhất là Nhật Bản (121 người), tiếp theo là Đài Loan (49), Singapore (40), Ấn Độ (38), Trung Quốc (35) và Malaysia (30). Còn 113 người chưa xác định được tên nước (cập nhật 13/11/2026 sau hai vòng tìm trên web). Xem mục 6.
 4. **Công ty lớn có tỷ lệ cao hơn.** Trong 174 công ty LOCAL thuộc top 200 vốn hóa, 74 công ty (43%) có người nước ngoài.
 5. **Cờ 0 ở Thái Lan đáng tin hơn ở Việt Nam.** Ở 382/625 công ty cờ 0, mọi giám đốc và người điều hành đều khai "Thai nationality: Yes". Ở 243 công ty còn lại, HĐQT khai đủ; ban điều hành không có trường này nhưng mọi tên đều là tên Thái.
 
@@ -73,6 +73,7 @@ Trong sheet **Companies**, lọc `In_Scope = 1` và `Ownership_Type = LOCAL`. K�
 - 4 mã là REVIEW (không có số sở hữu nước ngoài):
   - AKS: đã hủy niêm yết, cổ đông lớn nhất là một tài khoản nominee;
   - ZUUS, BKMP, VPSN: mã OTC ở Mỹ không đọc được hồ sơ (SEC EDGAR chặn User-Agent của dự án; VPSN bị SEC Mỹ đình chỉ từ 2007).
+    Ngày 13/11/2026 đã tìm bản sao hồ sơ trên trang khác nhưng không mở được trang nào. Riêng ZUUS có đầu mối (chưa phải bằng chứng): một người nắm khoảng 76%. Nhóm có thể gỡ được nếu cung cấp file 10-K, hoặc một email chung của dự án (không phải email cá nhân) để khai báo với SEC.
 - Cột `Source_Basis` cho biết cờ dựa trên báo cáo nào:
   - `ONE_REPORT_2025` (833 công ty LOCAL);
   - `ONE_REPORT_FY2025_JUL`: TNH, CITY;
@@ -112,11 +113,11 @@ Trong sheet **Companies**, lọc `In_Scope = 1` và `Ownership_Type = LOCAL`. K�
 | `DOC_FIELD` | Tài liệu ghi "Nationality: X", "สัญชาติ X" hoặc "Singaporean"…: One Report, thư mời ĐHĐCĐ, báo cáo của công ty khác có cùng người, sổ đăng ký công ty Anh (Companies House) | 65 |
 | `BOARDEX` | BoardEx ghi quốc tịch | 79 |
 | `INFERRED_STRONG` | Tiểu sử ghi người đó làm việc cho cổ đông hoặc công ty mẹ nước ngoài có tên (ví dụ Meiji Yasuda, JERA, Banyan Tree) | 23 |
-| `INFERRED_MEDIUM` | Tiểu sử nêu nơi học hoặc nơi làm việc ở nước đó, và tên phù hợp | 102 |
+| `INFERRED_MEDIUM` | Tiểu sử nêu nơi học hoặc nơi làm việc ở nước đó, và tên phù hợp; hoặc nguồn chỉ nói "đến từ" nước đó (D Lucinda Chen, SMO Johson Lim – quyết định 13/11/2026) | 104 |
 | `INFERRED_WEAK` | Chỉ dựa vào tên, như tên Nhật, Hàn, Ấn, tên Đài Loan viết theo Wade-Giles | 208 |
 | `WEBSITE` / `NEWS` / `CV` | Trang web công ty, báo chí, CV ghi rõ quốc tịch hoặc mô tả "người X" | 2 / 3 / 1 |
 | `BIRTHPLACE` | Chỉ có nơi sinh ở nước ngoài | 2 |
-| trống (`Nationality = UNKNOWN`) | Không suy luận được tên nước. Người đó vẫn là người nước ngoài | 115 |
+| trống (`Nationality = UNKNOWN`) | Không suy luận được tên nước. Người đó vẫn là người nước ngoài | 113 |
 
 Nếu nghiên cứu cần phân tích theo nước, nên kiểm tra độ vững khi bỏ nhóm `INFERRED_WEAK`.
 
@@ -131,6 +132,7 @@ Nếu nghiên cứu cần phân tích theo nước, nên kiểm tra độ vững
   - `Country_Evidence_Type`, `Country_Quote`, `Country_Source`.
   - `BoardEx_Director_ID`, `BoardEx_Nationality`.
 - `Management_Include` được để trống để nhóm nghiên cứu tự quyết định.
+- 19 dòng có `Note` bắt đầu bằng `COMMITTEE_ONLY` (quyết định 13/11/2026). Đây là người chỉ có tên trong Ủy ban điều hành (tiểu ban của HĐQT), có dòng "Thai nationality: No", nhưng không nằm trong danh sách HĐQT hay ban điều hành. Họ được ghi với `Is_Foreign` để trống, nên **không** tính vào cờ. Nếu nhóm coi họ là quản lý thì bật `Management_Include`: khi đó `Foreign_Manager` của AF, OGC, PRM, SSF đổi từ 0 sang 1, còn `Foreign_Manager_Core` không đổi. Riêng AF: người này mang tên Thái, có thể báo cáo điền sai.
 - Một người giữ hai chức danh thì có hai dòng, cùng `Manager_ID`.
 
 ### 3.5. Tra lại nguồn của một dòng
@@ -204,11 +206,11 @@ df["FM_core_stated"] = df["Foreign_Manager_Core"].where(
 
 - **Ngày của số sở hữu nước ngoài**: số lấy từ factsheet tháng 11/2026, lệch 310 ngày so với 31/12/2025. Hạn mức nước ngoài thường là 49%, nên phân loại hiếm khi đổi. 14 công ty nhạy với NVDR (FO ≤ 50% < FO + NVDR), trong đó có KBANK và F&D: xem cột `NVDR_Sensitive`.
   - Không có nguồn công khai cho đúng ngày 31/12/2025. Bản lưu trữ web của factsheet chỉ chứa trang chặn bot.
-- **Người có hai quốc tịch** khai "Thai nationality: Yes" được tính là người Thái.
-- **Tên nước**: 115 người nước ngoài (19%) chưa có tên nước, và 208 người chỉ có suy luận theo tên. Mọi người UNKNOWN đã được tìm trên web hai vòng (10–11/11/2026); những người còn lại không có nguồn nào ghi quốc tịch.
+- **Người có hai quốc tịch** khai "Thai nationality: Yes" được tính là người Thái. Ví dụ NRF Dan Pathomvanich: sổ đăng ký công ty Anh ghi "American", nhưng được giữ là người Thái theo One Report (quyết định 13/11/2026; xem sheet `Source_Conflicts`).
+- **Tên nước**: 113 người nước ngoài (19%) chưa có tên nước, và 208 người chỉ có suy luận theo tên. Mọi người UNKNOWN đã được tìm trên web hai vòng (10–11/11/2026); những người còn lại không có nguồn nào ghi quốc tịch.
 - **Quản lý cấp dưới** chỉ có ở công ty BoardEx phủ (331/842 công ty LOCAL). Vì vậy nên dùng `Foreign_Manager_Core`.
 - **Báo cáo không phải bản 2025**:
-  - QDC, MVP, TAPAC, MILL dùng One Report 2024 vì chưa có bản 2025 trên SEC tại 09/11/2026. Có thể chạy lại khi SEC đăng.
+  - QDC, MVP, TAPAC, MILL dùng One Report 2024 vì chưa có bản 2025 trên SEC. Đã thử lại ngày 13/11/2026: file 2025 của QDC và MVP vẫn báo "không tìm thấy" (SEC còn yêu cầu MVP nộp lại báo cáo tài chính 2025); TAPAC và MILL chưa nộp. Có thể chạy lại khi SEC đăng.
   - TNH và CITY dùng năm tài chính kết thúc 31/07/2025.
 - **Quy tắc cho mã niêm yết ở nước ngoài không có cổ đông kiểm soát** (quyết định 09/11/2026): phần cổ đông không xác định được coi là nước ngoài. Quy tắc này áp cho FN_US, FLG và 1949. Flagship Minerals thực tế đăng ký ở Singapore và điều hành từ Chile; Bloomberg ghi trụ sở ở Thái Lan.
 - **Quyền dữ liệu**:

@@ -29,7 +29,7 @@ All countries use the same rules and the same workbook layout.
 | Philippines | Done 7 Nov 2026 | `philippines/output/Philippines_2025_Foreign_Managers.xlsx`: 257 LOCAL firms, 91 with a foreign manager (88 at board/executive level), 34 with one in an executive/management position (updated 9 Nov 2026) |
 | Malaysia | In progress (started 7 Nov 2026): universe, annual-report index and availability check done (605 of 1,025 FY2025 reports downloadable by script) | – |
 | Indonesia | Done 11 Nov 2026 (manual QA sample reviewed): workbook `indonesia/output/Indonesia_2025_Foreign_Managers.xlsx` – 806 LOCAL / 139 foreign-majority / 8 FO open; 159 LOCAL firms with foreign managers (335 rows), 572 none found, 22 unresolved, 53 without AR 2025 (delisted or suspended by IDX; excluded from the 753-firm sample, owner 11 Nov 2026: 21.1 % with foreign managers); QA 0 violations; handover report `indonesia/output/HANDOVER_REPORT.md` (+ .docx) | – |
-| Thailand | Handed over 9 Nov 2026; country of foreign people searched on the web 10–11 Nov 2026 | `thailand/output/Thailand_2025_Foreign_Managers.xlsx` (in git; contains Bloomberg + BoardEx fields): 842 LOCAL firms, 215 with a foreign manager (600 people; 115 without a known country), QA 0 violations; handover report `thailand/output/BAO_CAO_BAN_GIAO.md` |
+| Thailand | Handed over 9 Nov 2026; country of foreign people searched on the web 10–11 Nov 2026 | `thailand/output/Thailand_2025_Foreign_Managers.xlsx` (in git; contains Bloomberg + BoardEx fields): 842 LOCAL firms, 215 with a foreign manager (600 people; 113 without a known country), QA 0 violations; handover report `thailand/output/BAO_CAO_BAN_GIAO.md` |
 
 ## Running
 

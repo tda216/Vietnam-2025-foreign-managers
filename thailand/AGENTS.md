@@ -53,9 +53,12 @@ Full command list: `output/BAO_CAO_BAN_GIAO.md`, section 7.
 - Keyword checks for INFERRED_STRONG must stop at the next person's name and reject the Thai listed company / Thai subsidiary with the
   same name ("Synnex (Thailand) PCL", "Inoue Rubber (Thailand)").
 - Some Thai PDFs have a broken font layer (SPG) → read the page image.
+- Committee tables (7.3.2, 2-column rows): the text layer puts each date on the NEXT profile – read dates from the page image.
 - Downloads of reports filed late in 2026 return a 118-byte "ไม่พบไฟล์ที่ระบุ" page – delete (`find … -size -1000c`) and retry later.
   Meanwhile, take the previous filing from the SEC 56-1 list: `market.sec.or.th/public/idisc/en/FinancialReport/R561-<id>`. The id is
-  `uniqueIDReference` on the page that `…/companyprofile/listed/<SYMBOL>` redirects to (robots only disallow `*.aspx`). Then run
+  `uniqueIDReference` on the page that `…/companyprofile/listed/<SYMBOL>` redirects to, or (since Nov 2026, no redirect) the
+  `ALLMIXED-<id>` link on that page (robots only disallow `*.aspx`). The R561 list can show 0 filings although one exists (MVP,
+  13/11/2026) – the SET factsheet file name is more reliable. Then run
   `04_collect_reports.py TICKER:f56/<file>.zip`. Fiscal years ending in July (TNH, CITY) count as FY2025. A 2024 report is the last
   resort (QDC, MVP, AKS): set `Doc_Kind = AR2024` in docs.csv and add a line to `data/manual/company_source_notes.csv`.
 - **Bloomberg drops "&"/"-" from SET symbols** (S&J→SNJ, SE-ED→SEED, F&D→FND, M-CHAI→MCHAI, Q-CON→QCON, L&E→LNE) and keeps
@@ -71,10 +74,18 @@ Full command list: `output/BAO_CAO_BAN_GIAO.md`, section 7.
 - LOCAL 842: FOUND 215, NONE_FOUND 625 (ALL_STATED 382 / BOARD_STATED 243), UNRESOLVED 2 (BTG, PTTGC). Core = 1 for 211.
   REVIEW 4 (AKS, ZUUS, BKMP, VPSN). QA 0 violations; manual sample 81 records + 30 flag-0 companies, 0 errors;
   independent re-check of every row added on 09/11 (31 records, 11 countries, 10 flag-0 companies) → 6 errors + 2 missed people, all fixed.
-- Open: 3 executives without evidence (AWC Micheal Hariz, BTG Genevieve Siriwan Finet, PTTGC Kamel Ramdani); 115 foreign people in LOCAL
-  companies with UNKNOWN country after two web-search rounds (10–11/11/2026; 154 before) – every one was searched;
-  search notes of round 2 (incl. NOT_FOUND hints) in `data/web_search_round2/`. Waiting for the owner (11/11/2026): (a) ~19
-  executive-committee members printed "Thai nationality: No" but not in the records (would flip `Foreign_Manager` 0→1 at AF, OGC,
-  PRM, SSF; Core unchanged; AF Suthiporn Tanthikul looks like a Thai name); (b) NRF Dan Pathomvanich – One Report Thai, Companies
-  House "American" (dual?); (c) "is from Singapore/Malaysia" wording (D Lucinda Chen, SMO Johson Lim) – accept as INFERRED or not; licensed 31/12/2025 FO not yet available
-  (`data/manual/fo_licensed.csv`; no public source – archived factsheets only hold the bot-check page); QDC, MVP, TAPAC, MILL use 2024 reports.
+- 13/11/2026 (owner decisions): 19 executive-committee-only members with "Thai nationality: No" recorded as UNKNOWN rows
+  (`COMMITTEE_ONLY`, not counted; `Management_Include` would flip `Foreign_Manager` at AF, OGC, PRM, SSF); NRF Dan Pathomvanich kept Thai
+  (Companies House "American" → `data/manual/other_source_conflicts.csv`, shown in `Source_Conflicts`); "is from X" wording →
+  INFERRED_MEDIUM (D, SMO). Foreign people in LOCAL companies: 600, 113 with UNKNOWN country – every one searched on the web
+  (notes of round 2 in `data/web_search_round2/`). QA 0.
+- Still open (no source; nothing more to do unless new input arrives):
+  - 3 executives without a nationality source (AWC Micheal Hariz, BTG Genevieve Siriwan Finet, PTTGC Kamel Ramdani; web search
+    13/11/2026 found nothing) → BTG, PTTGC stay UNRESOLVED.
+  - REVIEW 4: AKS (delisted, nominee holder), ZUUS/BKMP (US OTC, EDGAR refuses the project UA; no copy elsewhere – ZUUS lead in
+    `company_source_notes.csv`), VPSN (SEC-suspended since 2007). A team-supplied 10-K or a project (non-personal) contact e-mail for
+    the EDGAR User-Agent would unblock ZUUS/BKMP.
+  - QDC, MVP, TAPAC, MILL use 2024 reports (re-checked 13/11/2026: QDC/MVP 2025 files still "file not found", TAPAC/MILL not filed).
+    To retry: `04_collect_reports.py T:f56/<file>.zip out=docs_x.csv` (04 skips tickers already OK in docs.csv), then replace the
+    ticker's rows in docs.csv and re-run 05 → 07 → 08.
+  - Licensed 31/12/2025 FO not yet available (`data/manual/fo_licensed.csv`; archived factsheets only hold the bot-check page).

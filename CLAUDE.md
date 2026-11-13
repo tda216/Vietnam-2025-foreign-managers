@@ -12,7 +12,7 @@ Bộ dữ liệu nghiên cứu về **người quản lý quốc tịch nước 
   - Kết quả: `philippines/output/Philippines_2025_Foreign_Managers.xlsx`.
   - Có 257 công ty LOCAL, trong đó 91 có người nước ngoài (cập nhật 09/11/2026).
 - **Thái Lan** (`thailand/`): bàn giao 09/11/2026, tìm thêm tên nước 10–11/11/2026. Quy tắc và trạng thái: `thailand/AGENTS.md`.
-  - Có 842 công ty LOCAL, trong đó 215 có người nước ngoài (600 người); 115 người chưa rõ nước.
+  - Có 842 công ty LOCAL, trong đó 215 có người nước ngoài (600 người); 113 người chưa rõ nước; 19 thành viên chỉ thuộc Ủy ban điều hành ghi UNKNOWN (không tính cờ).
   - Nguồn chính là One Report (mẫu 56-1, trường "Thai nationality: Yes/No"); BoardEx do nhóm cung cấp chỉ dùng để điền tên nước.
 - **Indonesia** (`indonesia/`): hoàn tất 11/11/2026. Xem `indonesia/AGENTS.md` và `indonesia/OPEN_DECISIONS.md`.
 - **Malaysia** (`malaysia/`): đang làm. Xem `malaysia/AGENTS.md`.

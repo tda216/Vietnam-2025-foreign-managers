@@ -60,7 +60,7 @@ def main():
     country = {key(c["Ticker_Local"], c["Manager_Name"]): c for c in opt("manual/country_records.csv")}
     cands = opt("candidates.csv")
     cdec = {key(d["Ticker_Local"], d["Name"]): d for d in opt("manual/candidate_decisions.csv")}
-    conflicts = opt("source_conflicts.csv")
+    conflicts = opt("source_conflicts.csv") + opt("manual/other_source_conflicts.csv")  # BoardEx + other sources
     xdec = {key(d["Ticker_Local"], d["Name"]): d for d in opt("manual/conflict_decisions.csv")}
 
     # conflict decisions can turn a One Report "No" into a BoardEx error (never the reverse without a source)
@@ -210,7 +210,7 @@ def main():
         for x in conflicts:
             d = xdec.get(key(x["Ticker_Local"], x["Name"]), {})
             x["Decision"], x["Decision_Reason"] = d.get("Decision", "OPEN"), d.get("Reason", "")
-        add_table(wb, "Source_Conflicts", conflicts, list(conflicts[0].keys()))
+        add_table(wb, "Source_Conflicts", conflicts, list(dict.fromkeys(k for x in conflicts for k in x)))
     if cands:
         add_table(wb, "Review_Open", sorted(cands, key=lambda c: (c["Decision"] not in OPEN_DECISIONS, c["Ticker_Local"])),
                       list(dict.fromkeys(k for c in cands for k in c)))

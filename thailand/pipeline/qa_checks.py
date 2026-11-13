@@ -157,7 +157,7 @@ def main():
     if "Source_Conflicts" in wb.sheetnames:
         for x in sheet(wb, "Source_Conflicts"):
             if x["Decision"] in ("", "OPEN"):
-                fail("conflict_open", f"{x['Ticker_Local']} {x['Name']}", f"{x['One_Report']} vs BoardEx {x['BoardEx']}")
+                fail("conflict_open", f"{x['Ticker_Local']} {x['Name']}", f"{x['One_Report']} vs {x.get('BoardEx') or x.get('Other_Source', '')}")
 
     write_csv(DATA / "qa_report.csv", out, ["Check", "Key", "Detail"])
     print(f"checks run on {path.name}: {len(out)} violation(s)")

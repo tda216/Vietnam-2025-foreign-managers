@@ -7,6 +7,9 @@ Batch format (every list optional):
                 Country_Source_URL, Note} ],                      -> data/manual/country_records.csv (country of a "No" person)
   "records": [ {... manager_records.csv columns ...} ],           -> data/manual/manager_records.csv (new foreign / UNKNOWN rows)
   "candidate_decisions": [ {Ticker_Local, Name, Decision, Reason, Source_File, Page} ]  -> data/manual/candidate_decisions.csv
+  "other_conflicts": [ {Ticker_Local, Name, Page, One_Report, Other_Source, Other_Source_URL, Default} ]
+                                                   -> data/manual/other_source_conflicts.csv (One Report vs a non-BoardEx source)
+  "conflict_decisions": [ {Ticker_Local, Name, Decision, Reason} ]  -> data/manual/conflict_decisions.csv
 }
 Checks: nationality is a value of config.NATIONALITY_EN (or UNKNOWN); evidence types are known; no duplicate keys. Nothing
 is written if a check fails. Reviewed_On defaults to today.
@@ -27,7 +30,9 @@ COUNTRY_EVIDENCE = {"BOARDEX", "DOC_FIELD", "CV", "DISCLOSURE_FORM", "WEBSITE", 
 EVIDENCE = {"ONE_REPORT_FIELD", "BOARDEX", "DOC_FIELD", "CV", "DISCLOSURE_FORM", "WEBSITE", "NEWS", "BIRTHPLACE", "INFERRED"}
 FILES = {"country": ("country_records.csv", ("Ticker_Local", "Manager_Name")),
          "records": ("manager_records.csv", ("Ticker_Local", "Manager_Name", "Raw_Position")),
-         "candidate_decisions": ("candidate_decisions.csv", ("Ticker_Local", "Name"))}
+         "candidate_decisions": ("candidate_decisions.csv", ("Ticker_Local", "Name")),
+         "other_conflicts": ("other_source_conflicts.csv", ("Ticker_Local", "Name")),
+         "conflict_decisions": ("conflict_decisions.csv", ("Ticker_Local", "Name"))}
 
 
 def norm(*xs: str) -> tuple[str, ...]:

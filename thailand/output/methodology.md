@@ -173,11 +173,13 @@ Chưa tìm thêm trên web hoặc trong tài liệu ĐHĐCĐ cho từng người
 
 - **Ngày của số FO**: lấy theo factsheet tháng 11/2026 cho tới khi có số có bản quyền tại 31/12/2025. Hạn mức nước ngoài thường là 49%, nên ít khi làm đổi phân loại.
 - **Người có hai quốc tịch** khai "Thai nationality: Yes" sẽ không lộ ra. Ví dụ: chủ tịch BGRIM sinh ở Đức nhưng khai là người Thái.
-- **Tên nước** của 115 người nước ngoài ở công ty LOCAL vẫn là UNKNOWN (154 trước hai vòng tìm trên web 10–11/11/2026: batch `2026-11-10_01_web_country_round1.json`, `2026-11-11_01_web_country_round2.json`). Ngoài ra 208 người chỉ có suy luận yếu (theo tên).
+- **Tên nước** của 113 người nước ngoài ở công ty LOCAL vẫn là UNKNOWN (154 trước hai vòng tìm trên web 10–11/11/2026: batch `2026-11-10_01_web_country_round1.json`, `2026-11-11_01_web_country_round2.json`; 2 người "đến từ" Singapore/Malaysia ghi INFERRED_MEDIUM ngày 13/11/2026). Ngoài ra 208 người chỉ có suy luận yếu (theo tên).
 - **Quản lý cấp dưới ban điều hành** chỉ có ở công ty BoardEx phủ (331/842 công ty LOCAL). Vì vậy `Foreign_Manager` không so sánh được giữa các công ty; hãy dùng `Foreign_Manager_Core`.
 - **Báo cáo không phải bản 2025**:
   - QDC, MVP, TAPAC và MILL dùng One Report 2024 (`ONE_REPORT_2024_FALLBACK`).
   - TNH và CITY dùng năm tài chính kết thúc 31/07/2025.
   - Còn 4 mã ở `REVIEW`: AKS, ZUUS, BKMP và VPSN.
+- **Thành viên chỉ thuộc Ủy ban điều hành** (quyết định 13/11/2026, theo quy tắc chung cho thành viên tiểu ban HĐQT): 19 người ghi "Thai nationality: No" trong danh sách 7.3.2 nhưng không có trong danh sách HĐQT hay 7.4. Họ được ghi thành dòng UNKNOWN (`Is_Foreign` trống, `Role_Group = Other_Manager`, `Note` = `COMMITTEE_ONLY`), không tính vào cờ. Ngày nhận chức và thôi chức lấy theo ảnh trang, vì lớp chữ đặt cột ngày lệch sang hồ sơ bên cạnh. Batch: `2026-11-13_01_committee_conflict_from_x.json`.
+- **Mâu thuẫn với nguồn khác BoardEx** nằm trong `data/manual/other_source_conflicts.csv` và hiện cùng BoardEx trong sheet `Source_Conflicts`. Ví dụ NRF Dan Pathomvanich: Companies House ghi American, One Report ghi Thái → giữ Thái.
 - **STRONG và nơi học**: theo quy tắc viết, người có tiểu sử ghi chức ở công ty mẹ nước ngoài được gán nước của công ty mẹ, kể cả khi nơi học chỉ ra nước khác. Ví dụ LRH Stuart Reading: Singapore (STRONG), dù học và lấy chứng chỉ kế toán ở Úc; phương án khác được ghi ở `Note`.
 - **Quyền dữ liệu**: điều khoản SET chỉ cho dùng cá nhân, phi thương mại. Cột lấy từ BoardEx cần đối chiếu điều khoản WRDS/BoardEx của nhóm. File Excel không được đưa lên repo công khai.
